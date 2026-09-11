@@ -1,16 +1,54 @@
 /* HIER KOMT JOUW CSS */
 @font-face {
   font-family: "Comic Relief";
-  src: url(../type/ComicRelief-Regular.woff2);
+  src: url(../type);
   font-weight: 400;
   font-style: normal;
 }
 
 body {
-  font-family: "Comic Relief", system-ui;
-  background-color: Canvas;
-  color: CanvasText;
-  color-scheme: light dark;
-  background-color: pink;
+  background-size: auto; 
+  background-position: center;  
+  background-repeat: no-repeat; 
+  
 }
 
+.eerst {
+display: flex;
+justify-content: center;
+
+img {
+    width: 500px;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.onderste{
+display: flex;
+/* flex-wrap: wrap; */
+  flex-direction: column;
+
+  img {
+    width: 500px ;
+    height: auto;
+    object-fit: cover;
+  }
+}
+
+.verschillende{
+ width: 100%;
+  height: auto;
+}
+
+.eigen{
+ /* width: 100%; */
+  height: auto;
+}
+
+@media (min-width: 1024px) {
+.onderste{
+  flex-direction: row;
+  gap: 50px;
+}
+}
