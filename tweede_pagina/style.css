@@ -45,3 +45,10 @@ text-wrap: balance;
 margin: --whitespace-s;
 text-align: center;
 }
+
+h2{
+font-family: Sunsetpalm;
+font-size: 5vw;
+line-height: .6;
+text-wrap: balance;
+}
