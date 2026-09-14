@@ -18,6 +18,8 @@ Hiervan heb ik geleerdt om anders naar bepaalde dingen te kijken. En te weten ho
 <img src="/images/Image.jpeg">
 Hiernaast heb ik met een klasgenoot gekijekn naar mijn website, en hebben we samen deze vragen ingevult.
 
+Hiernaast had een vriend die de ICT opleiding doet hulp nodig bij zijn HTML. Waarbij ik hem factueel en duidelijk grids kon uitleggen. Het werkte niet door een fout in zijn HTML. Maar ik stond er versteld van het feit dat ik de grid zo kon uitleggen. En dat ik het op deze manier begreep
+
 Opdracht 16:
 Wanneer is er een verandering van layout nodig: Waarneer hij groter of kleiner wordt. En er moet meer padding komen.
 
