@@ -12,15 +12,19 @@
 
 html {
 color: light-dark(#000, #fff);
-  background-image: light-dark(
-    url("images/achtergrond_lightmode_2.png"),
-    url("images/achtergrond_dark_mode1.png")
-  );
+  
+
+}
+body {
+  background-image: url("../../images/LIGHT_ACHTERGROUND.png");
+  @media (prefers-color-scheme: dark) {
+    background-image: url("../../images/achtergrond_dark_mode1.png");
+  }
+
 
     background-size: auto; 
   background-position: center;  
   background-repeat: no-repeat; 
-
 }
 
 .eerst {

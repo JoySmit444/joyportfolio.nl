@@ -1,4 +1,47 @@
+@font-face {
+    font-family: Sunsetpalm;
+    src: url(fonts/SunsetPalmScriptTrial.otf);
+}
+
 .achtergrond {
 display: flex;
 justify-content: center;
+}
+
+html {
+color: light-dark(#000, #fff);
+--whitespace-s: 1rem;
+}
+
+body {
+  background-image: url("./images/ACHTERGROUND_LCITH_CLICK.png");
+  @media (prefers-color-scheme: dark) {
+    background-image: url("./images/DARK_MODE_CLICK.png");
+  }
+
+  background-size: auto; 
+  background-position: center;  
+  background-repeat: no-repeat; 
+  padding-bottom: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
+
+  
+}
+
+img{
+max-width: 40%;
+}
+
+.missaura{
+max-width: 90%;
+}
+
+H1{
+font-family: Sunsetpalm;
+font-size: 12vw;
+line-height: .7;
+text-wrap: balance;
+margin: --whitespace-s;
+text-align: center;
 }
