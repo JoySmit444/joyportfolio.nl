@@ -45,14 +45,6 @@ body {
   padding-right: 10%;
 }
 
-img {
-  max-width: 40%;
-}
-
-.missaura {
-  max-width: 90%;
-}
-
 H1 {
   font-family: Sunsetpalm;
   font-size: 12vw;
@@ -69,48 +61,17 @@ h2 {
   text-wrap: balance;
 }
 
+section {
+  display: flex;
+  line-height: 25px;
+  text-wrap: balance;
+  font-family: learners;
+  font-size: 2vw;
+}
+
 p {
   font-family: learners;
   font-size: 2.5vw;
   line-height: 0.9;
   text-wrap: balance;
-}
-
-.button1 {
-  display: inline-block;
-  border: 4px solid #000;
-  font-family: Sunsetpalm;
-  font-size: 20px;
-  padding-left: 30px;
-  padding-right: 30px;
-  color: black;
-  border-radius: 70%;
-  line-height: 90px;
-  background-image: linear-gradient(var(--roze), var(--silver));
-  text-decoration: none;
-  margin: 20px;
-}
-
-.button1:hover {
-  transform: scale(1.05);
-}
-
-.button2 {
-  display: inline-block;
-  border: 4px solid #000;
-  font-family: Sunsetpalm;
-  font-size: 20px;
-  padding-left: 20px;
-  padding-right: 20px;
-  color: black;
-  border-radius: 70%;
-  text-wrap: balance;
-  line-height: 100px;
-  background-image: linear-gradient(var(--blauw), var(--goud));
-  text-decoration: none;
-  margin: 20px;
-}
-
-.button2:hover {
-  transform: scale(1.05);
 }
