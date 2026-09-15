@@ -62,11 +62,25 @@ h2 {
 }
 
 section {
-  display: flex;
-  line-height: 25px;
-  text-wrap: balance;
-  font-family: learners;
-  font-size: 2vw;
+  grid-template-columns: 200px 2fr;
+  grid-template-rows: 24em 12em 12em;
+  display: grid;
+  grid-template-areas:
+    "netherlands"
+    "3missen"
+    "earth"
+    "international"
+    "world ";
+  gap: 1em;
+
+  @media (width > 28em) {
+    grid-template-columns: 200px 1fr;
+    grid-template-rows: 24em 12em 12em;
+    grid-template-areas:
+      "netherlands  3missen"
+      "earth international"
+      "world";
+  }
 }
 
 p {
@@ -74,4 +88,20 @@ p {
   font-size: 2.5vw;
   line-height: 0.9;
   text-wrap: balance;
+}
+
+img:nth-of-type(1) {
+  grid-area: missnederland;
+}
+
+section:nth-of-type(1) {
+  display: flex;
+  line-height: 25px;
+  text-wrap: balance;
+  font-family: learners;
+  font-size: 2vw;
+}
+
+img:nth-last-of-type(1) {
+  grid-area: netherlands;
 }
