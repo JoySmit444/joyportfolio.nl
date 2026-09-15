@@ -47,6 +47,7 @@ display: flex;
     width: 500px ;
     height: auto;
     object-fit: cover;
+  
   }
 }
 
@@ -54,11 +55,18 @@ display: flex;
  width: 100%;
   height: auto;
 }
+ .verschillende:hover {
+   transform: scale(1.15);
+ }
 
-.eigen{
+.eigen{ 
  /* width: 100%; */
   height: auto;
 }
+
+ .eigen:hover {
+   transform: scale(1.15);
+ }
 
 @media (min-width: 1024px) {
 .onderste{
@@ -66,3 +74,4 @@ display: flex;
   gap: 50px;
 }
 }
+
