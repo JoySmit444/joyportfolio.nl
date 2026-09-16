@@ -31,6 +31,7 @@ main {
   grid-template-columns: repeat(auto-fit, minmax(15em, 1fr));
 }
 
+/*met hulp van sanne*/
 body {
   background-image: url("./images/ACHTERGROUND_LCITH_CLICK.png");
   @media (prefers-color-scheme: dark) {
@@ -69,7 +70,7 @@ p {
 }
 
 /* landen */
-
+/*de nth-of-type heb ik geleerdt van de student assistenten tijdens de deep dives*/
 section:nth-of-type(1) {
   display: flex;
   line-height: 25px;
@@ -79,7 +80,7 @@ section:nth-of-type(1) {
 }
 
 /* foto's */
-
+/* voor dit heb ik hulp gehad van letterlijk iedereen die mij kon helpen. Maar geen chat of internet gebruikt*/
 section:nth-of-type(2) ul {
   grid-template-columns: 0.5fr 0.5fr 0.5fr;
   grid-template-rows: 0.5fr 0.5fr;

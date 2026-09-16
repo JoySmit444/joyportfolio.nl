@@ -2,6 +2,24 @@
 
 ### 16 sep
 
+Wij hadden gekeken naar de ideale versie van onze website. Daarna hhebben anderen mensen ernaar gekeken en vanuit dit feedback nieuwe vormen gemaakt.
+Mijn grote lijnen feedback was: dat ik mischien de vormgeving beter kan doorzetten. Door dus bijvoorbeld de title ook te teken
+
+<img src="/images/eigen_schetsen_16sep.jpeg">
+<img src="/images/schets_VAN_lex.jpeg">
+<img src="/images/schets_VAN_poema.jpeg">
+<img src="/images/shctes_voor_poema.jpeg">
+<img src="/images/schets_voor_lex.jpeg">
+
+Ook, heb ik schetsen gemaakt voor mijn ideale web formaat pagina.
+
+<img src="/images/ideal_voor.png.png">
+<img src="/images/ideal_1.png">
+<img src="/images/ideal2.png">
+
+Hiernaast heb ik aan mijn website gewerkt. En heb ik sanne, Isaac, en Barbara.
+Waarna dit wel werkten.
+
 Een bron die ik heb gebruikt voor de grid area's
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/grid-template-areas
 
@@ -32,6 +50,28 @@ https://dev.to/
 Welke link ik had gebruikt voor de hidden sourch:
 https://www.dofactory.com/html/img/hidden
 https://www.monkeyvision.nl/kennisbank/alt-tekst/
+
+Ik hhad ook mijn hover deze dag gebruikt. Maar hier kwam ik helaas niet uit. Ik heb deze bronnen gebruikt.
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:hover
+https://www.w3schools.com/CSSref/sel_hover.php
+
+Alleen hier kwam ik alsnog niet uit En moest ik het helaas aan chat vragen. Hier is het bewijs.
+<img src="./images/chat_van_15sep.png">
+<img src="./images/chat_bewijs_15sep.png">
+<img src="./images/mijn_chat_vraag_2_15sep.png">
+Maar hier heb ik eigelijk niks gebruikt.
+
+Helaas kwam ik er niet ook niet bij. Maar toen ik perongelijk de halve van mijn tekst verwijdereden kwam ik tot: transform: scale(1.05). En toen ineens werkten dit
+
+Hiernaast heb ik een deep dive in grid area gehad.
+<img src="/images/grid_area1.png">
+<img src="/images/grid_area2.png">
+<img src="/images/grid_area3.png">
+<img src="/images/13_sep_vraag4.png">
+
+Hiernaast had ik niet helemaal door dat ik niet echt met DIV's mocht werken. En moest ik daarna veel veranderen.
+En heeft een studenten leerling mij in de details nog een keer grid uitgelegt.
+Dit was super lief en behulpzaam. En hoewel ik geen held ben. Ik het wel veel meer snap
 
 ###14 sep:
 Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
