@@ -26,7 +26,7 @@ body {
 
 main {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 header {
@@ -38,23 +38,28 @@ img {
   width: 300px;
   height: auto;
   object-fit: cover;
-  padding: 20px;
+}
+
+img:nth-of-type(1) {
+  width: 65%;
+  height: auto;
 }
 
 a:nth-of-type(1) {
-  width: 100%;
+  width: 150%;
   height: auto;
   flex-direction: column;
   grid-column-start: 1;
-  grid-column-end: 2;
+  grid-column-end: 3;
+  padding-left: 20px;
 }
 
 a:nth-of-type(2) {
-  width: 100%;
+  width: 300%;
   height: auto;
   flex-direction: column;
-  grid-column-start: 2;
-  grid-column-end: 3;
+  grid-column-start: 3;
+  grid-column-end: 4;
 }
 
 a:hover {
@@ -64,14 +69,14 @@ a:hover {
 @media (max-width: 670px) {
   main {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
   }
 
   a:nth-of-type(2) {
-    width: 100%;
+    width: 300%;
     height: auto;
     flex-direction: column;
-    grid-column-start: 1;
-    grid-column-end: 2;
+    grid-column-start: 2;
+    grid-column-end: 3;
   }
 }
