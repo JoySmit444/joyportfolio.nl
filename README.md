@@ -1,5 +1,27 @@
 # Model
 
+### 16 sep
+
+Een bron die ik heb gebruikt voor de grid area's
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/grid-template-areas
+
+https://css-tricks.com/almanac/properties/g/grid/grid-template-areas/
+
+Check out:
+Noem 3 Gestaltprincipes op en laat de ander uitleggen wat ze betekenen en doen.
+Scale, balance, contrast.
+scale: waar je ogen gelijk op vallen. Dus het aandachts punt.
+
+balance: dingen die gelijk zijn waardoor je ogen het als 1 geheel zien.
+
+Contrast: als je grote en heftige kleuren bij normale kleuren zet om daar je aandacht naar te trekken.
+
+Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?
+Omdat je via een grid het makkelijkst posties neer kan zetten waar ze horen. En je niet meer vast zit van een bestaande vorm.
+
+Welk principe neem je mee in een laatste iteratie van je ontwerp?
+Balance, scale, en visual hierarchy. Om de meeste ruimte te creeren. En het menselijkst te ontwerpen.
+
 ### sep 15
 
 Voor de bronnen die ik vaker gebruik zijn;
@@ -10,8 +32,6 @@ https://dev.to/
 Welke link ik had gebruikt voor de hidden sourch:
 https://www.dofactory.com/html/img/hidden
 https://www.monkeyvision.nl/kennisbank/alt-tekst/
-
-
 
 ###14 sep:
 Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
