@@ -16,7 +16,6 @@
 }
 
 .achtergrond {
-  display: flex;
   justify-content: center;
 }
 
@@ -25,9 +24,15 @@ html {
   --whitespace-s: 1rem;
 }
 
+/*met mijn fotots duidelijk neerzetten, en de teksten verschuiven heeft Sanne mij bij gehulpen*/
 main {
   margin: auto;
   display: grid;
+
+  @media (width > 32em) {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 body {
@@ -62,6 +67,7 @@ h2 {
   font-size: 5vw;
   line-height: 0.1;
   text-wrap: balance;
+  align-items: top;
 }
 
 p {
@@ -69,18 +75,26 @@ p {
   font-size: 2.5vw;
   line-height: 0.9;
   text-wrap: balance;
+
+  @media (width > 32em) {
+    grid-column: 1/-1;
+  }
 }
-/* voor de laatste tekst heb ik chat hva gebruikt*/
 
 p:nth-of-type(1) {
   font-family: learners;
-  max-width: 300px;
+
+  @media (width > 32em) {
+    grid-column: 1/2;
+  }
 }
 
 p:nth-of-type(2) {
   font-family: learners;
-  max-width: 450px;
-  margin-left: auto;
+
+  @media (width > 32em) {
+    grid-column: 2/3;
+  }
 }
 
 /* iemand van ICT had mij hierbij geholpen*/
@@ -89,10 +103,6 @@ p:nth-of-type(2) {
     font-family: learners;
     font-size: 2.5vw;
     line-height: 0.9;
-    display: flex;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-row-start: 1;
-    grid-row-end: -3;
   }
 }
 
