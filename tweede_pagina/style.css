@@ -28,7 +28,6 @@ html {
 main {
   margin: auto;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(15em, 1fr));
 }
 
 body {
@@ -47,10 +46,6 @@ body {
 
 img {
   max-width: 40%;
-}
-
-.missaura {
-  max-width: 90%;
 }
 
 H1 {
@@ -74,6 +69,30 @@ p {
   font-size: 2.5vw;
   line-height: 0.9;
   text-wrap: balance;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(3, auto);
+}
+/* voor de laatste tekst heb ik chat hva gebruikt*/
+
+p:nth-of-type(1) {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  font-family: learners;
+}
+
+/* iemand van ICT had mij hierbij geholpen*/
+@media (max-width: 670px) {
+  p:nth-of-type(1) {
+    font-family: learners;
+    font-size: 2.5vw;
+    line-height: 0.9;
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-row-start: 1;
+    grid-row-end: -3;
+  }
 }
 
 .button1 {
