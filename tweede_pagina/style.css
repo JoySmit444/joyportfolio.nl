@@ -69,17 +69,18 @@ p {
   font-size: 2.5vw;
   line-height: 0.9;
   text-wrap: balance;
-  grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(3, auto);
 }
 /* voor de laatste tekst heb ik chat hva gebruikt*/
 
 p:nth-of-type(1) {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-row-start: 1;
-  grid-row-end: 2;
   font-family: learners;
+  max-width: 300px;
+}
+
+p:nth-of-type(2) {
+  font-family: learners;
+  max-width: 450px;
+  margin-left: auto;
 }
 
 /* iemand van ICT had mij hierbij geholpen*/
