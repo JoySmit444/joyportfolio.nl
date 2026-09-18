@@ -1,5 +1,120 @@
 # Model
 
+### 18 sep.
+
+Waarom geven de docenten deze opdracht?
+Voor verschillende redenen. Vooral om goede code te leren kennen. We hebben vaak ge 'vibe code' wat werkt maar vaak niet echte code is. Via deze opdracht leren we rauw code kennen. En er mee te werken.
+Ook leren we beter het web kennen, Waardoor we meer weten wat er is, en welke kanten er zijn. Met een digital garden heb ik persoonlijk veel meer te weten gekomen over hoe divers het internet kan zijn. Ook hebben we dingen over hieragie geleerdt. Want zelfs een persoonlijke website moet inhoud bevatten.
+
+Welke technieken gebruik ik?
+Je gebruikt natuurlijk HTML en CSS. maar ook de gestalte dingen, en de profesionele competenties.
+Ook natuurlijk de onderzoek manieren en de manieren van schetsen.
+
+Wat zijn de randvoorwaarden?
+Natuurlijk dat hij webby is, en daarvoor moet hij bijvoorbeeld toegankelijk zijn. En moet hij duidelijk je data aangeven.
+adaptive zijn. en voor gelezen kunnen worden. Dat soort dingen zodat een website oprecht gebruikt kan worden voor iederen een niet gewoon voor jezelf of een kleine groep.
+Hiernaas meot de vormgeving ook toegankelijk zijn, Zo moet je goede hieragie maken. Zodat mensen er makkelijk doorheen gaan.
+Ook moet het mobiel en computer versies zijn. Moet je duidelijke en rauw code gebruikt hebben. En het zo goed als af hebben binnen 2 weken.
+
+Waar gebruik je HTML/CSS voor?
+Voor de rauwe code, Eigelijk kan je dit voor alles gebruiken.
+Je gebruikt html voor de basis van de website voor alle letterlijke informatie.
+En de css om alles mooi te maken
+
+Wat kan er allemaal met CSS?
+Je kan letterlijk alles met css behalven lettelrijke informatie.
+Kleuren, vormen, achtergronden, en animaties.
+de lay-outs en de grids.
+
+Lukt het om verschillende ideeën te bedenken?
+Deze module had ik er wat moeite mee. Ik heb moeite met code, waardoor ik zo veel mogelijk tijd moest stoppen in mijn code. Daardoor moet ik niet zo veel tijd had om echt werk te maken van alle schetsen en concepten.
+
+Lukt het om je ideeën te schetsen?
+Ja dat zeker, ik ben goed in wireframes en ik kan vaak realistisch kijken naar hoe hij oprecht eruit moet zien.
+Vaak vindt ik hem wel wat moeilijk om hem echt door te zetten.
+
+Wat doet deze CSS-property?
+Daarmee kan je verschillende dingen specfieke neerzetten en animaties.
+
+Welke content, en welke HTML heb ik nodig?
+Voor een foto heb je een img tag nodig. voor text een P tag, voor koppen h2-h4.
+Voor een lijst lu en li.
+
+Hoe kan ik dit soort content vormgeven?
+Door css verschillenden dingen te gebruiken. Zoals bijvoorbeeld background-color. size, en grid.
+
+Wat als ik hier nu eens 1000 invul?
+Dat wordt iets heel groot, en heel erg iets anders. Dan kan je goed zien of iets werkt of niet
+
+Begrijpen bezoekers de site?
+Ja, vanuit hovers en duidelijke plekken en knoppen is het moeilijk om niet de website te snappen.
+Ik had het gemaakt zodat je niet hoeft te raden hoe de website werkt.
+
+Wat vindt de opdrachtgever er van?
+Hij vondt het een duidelijke website. Maar had liever nog wat meer letterlijks HTML gezien implaayts van de eerste pagina van illustratie.
+Hiernaast vondt hij de huisstijl kloppen. En de pagina's duidelijk.
+
+Werkt dit wel?
+Veel werkte na veel sleutelen wel. Maar veel ook niet. Zo had ik meer adaptive gewilt. Meer pagina's en meer buttons en mischien zelfs animaties. Maar vanwegen gebrek van skills en tijd lukten dit niet.
+
+Oooooh, kan dit óók?!
+Ik had graag meer willen werken met grid, zodat het er allemaal meer uitzag als een 'prikboard' ook had ik meer met animaties, en speelden vidoes en interviews en fotos willen werken. Om een groter geheel te maken.
+
+Reflecteren met the riddle:
+Ik wilden weten hoe dingen zoals grid enzo werkgten. Hier ben ik ongeveer uit gekomen. Ik heb de deepdives bijgewoond, en veel leraren en websites om hulp gevraagt. Nu snap ik het iets wat beter
+
+Wat wil(de) ik weten/bereiken?
+En website maken die interactief en persoonlijke was. En die mijn concept duidelijk doorgaf.
+
+Wat heb ik gedaan?
+Een website gemaakt met verschillende items.
+
+Wat was het resultaat?
+Een interactive website met verschillende onderdelen. Die het concept van een soort interactief prikboard doorgeven.
+
+Wat weet je nu (niet)?
+Ik weet nu hoe ik verschillende displays gebruik. En hoe ik ervoor zorg dat een website interactief is.
+Hoe ik een website light dark maakt. Ook ik codeer zonder dingen zoals divs te gebruiken.
+Maar ik ken code nog niet goed genoeg. Er zijn veel dingen die ik nog niet goed begrijp. En als er iets fout gaat kan ik nog niet genoeg zien hoe ik het oplos.
+
+Wat vond je (niet) leuk?
+Coden is niet de taal voor mij. Zo vondt ik het onderzoeken en het illusteren en vormgeven erg look.
+Maar alle letterlijke code taal heb ik gedaan met veel moeite. Dus ik ben blij dat het 90% gelukt is.
+
+Voldoet het nog aan de eisen?
+Ja, want hij is interactief. Met dingens zoals light en dark. er staat rauwe code in. Hij is zo webby als ik hem kon maken.
+
+HTML validatie
+Ja, tuurlijk is hij niet perfect. Maar zo goed als de code kon zijn is hij nu goed.
+Er zitten geen grote fouten in.
+
+Toegankelijkheids-check
+Ja, alles heeft alt teksten, En hij is erg adaptive. Ook heeft hij light dark. Alleen had ik iets nog iets wat meer licht en donker kunnen zijn.
+
+Is mijn website nog wel adaptief?
+Hij werkt op alles scherm grotes, behalven de knoppen in de tweede pagina die ik nog wat had kunnen verstellen.
+Maar voor de rest is alles adaptief.
+
+Voldoet mijn website nog wel aan de wet?
+Alle fonts en fotos zijn duidelijk met bronnen vermeld. En omdat deze website van eige gebruik is mag ik deze onderdelen gebruiken.
+Alleen de data heb ik nog niet duidelijk geregistereed.
+
+Zie ik mezelf nog wel terug in wat ik doe?
+Daar had ik nu wat meer moeite mee. omdat ik door de tijd druk en de skill verschil niet de tijd had om echt sterk bij binnen still te staan
+
+Hier naast had ik ook de retrospective opdracht gemaakt
+En de title die ik dit heb gegeven was: de code rollercoaster
+
+<img src="/images/ratinglang.jpeg">
+<img src="/images/rating1.jpeg">
+<img src="/images/rating2.jpeg">
+
+En de tekeningen
+
+<img src="/images/retrospective1.jpeg">
+<img src="/images/retrospective2.jpeg">
+<img src="/images/retrospective3.jpeg">
+
 ### 17 sep.
 
 Ik heb vandaag een stress curus gehad en daarna de propuduse uitreiking dus was ik op school aanwezig.
