@@ -1,5 +1,17 @@
 # Model
 
+### 17 sep.
+
+Ik heb vandaag een stress curus gehad en daarna de propuduse uitreiking dus was ik op school aanwezig.
+
+Hierna heb ik geprobeerd mijn grid aan te passen voor de web versie.
+Hier kwam ik compleet niet uit haha.
+Ik heb ICTers gevraagt. Maar hun kwamen er ook niet uit. Ik heb chat gevraagt. Hier heb ik geen schreenshots van omdat ik hier geen lijn code van heb gebruikt.
+Omdat ik het zo niet begreep.
+Maar gelukkig kwam Sanne aan de redding en heeft die mij geholpen over teams. Hier ven ik heel dankbaar voor.
+
+<img src="/images/echt/sanna_bewijs.png">
+
 ### 16 sep
 
 Wij hadden gekeken naar de ideale versie van onze website. Daarna hhebben anderen mensen ernaar gekeken en vanuit dit feedback nieuwe vormen gemaakt.

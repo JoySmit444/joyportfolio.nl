@@ -51,11 +51,10 @@ a:nth-of-type(1) {
   flex-direction: column;
   grid-column-start: 1;
   grid-column-end: 3;
-  padding-left: 30px;
 }
 
 a:nth-of-type(2) {
-  width: 170%;
+  width: 100%;
   height: auto;
   flex-direction: column;
   grid-column-start: 3;
