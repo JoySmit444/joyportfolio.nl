@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"name": "model-main",
+		"path": "../../../../../Desktop/model-main"
+	},
+	{
+		"name": "joyportfolio.nl",
+		"path": "../.."
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.multiRootWorkspaceName": "joyportfolio.nl"
+  }
+}

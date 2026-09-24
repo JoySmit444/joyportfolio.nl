@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../Downloads/uitwerking-justus"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "model-main"
+  }
+}

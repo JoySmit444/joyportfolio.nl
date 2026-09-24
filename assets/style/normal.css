@@ -10,9 +10,12 @@
   color-scheme: light dark;
 }
 
+/* de main elemten */
 html {
   color: light-dark(#000, #fff);
+  --button: pink;
 }
+
 body {
   background-image: url("../../images/LIGHT_ACHTERGROUND.png");
   @media (prefers-color-scheme: dark) {
@@ -27,6 +30,8 @@ body {
 main {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  display: grid;
+  place-items: center;
 }
 
 header {
@@ -34,11 +39,18 @@ header {
   justify-items: center;
 }
 
+footer {
+  display: flex;
+  justify-content: center;
+}
+
 img {
   width: 300px;
   height: auto;
   object-fit: cover;
 }
+
+/* de main elemten */
 
 img:nth-of-type(1) {
   width: 60%;
@@ -78,4 +90,24 @@ a:hover {
     grid-column-start: 2;
     grid-column-end: 2;
   }
+}
+
+/* hier had ik chat voor gebruikt. Niet over getyped maar wel geholpen, maar uiteindelijk heb ik andere
+code van een anderen button gebruikt*/
+
+footer a {
+  display: inline-block;
+  border: 2px solid #000;
+  font-family: Sunsetpalm;
+  font-size: 16px;
+  color: black;
+  border-radius: 70%;
+  text-align: center;
+  line-height: 90px;
+  text-decoration: none;
+  margin: 5%;
+  height: 40%;
+  width: 40%;
+
+  background-color: var(--button);
 }
