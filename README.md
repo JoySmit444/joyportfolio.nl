@@ -1,5 +1,232 @@
 # Model
 
+## 24 sep
+
+## 23 sep
+
+Vandaag had ik de lecture in het KSH gebouw. Dit was extreem informatief. Nu weet ik meer over hoe data zich verspreid. En welke soort data's er zijn. En welke wetten waar aan vast zit. Dit waren dingen die ik hiervoor wel wist maar nu meer overna gedacht hebt.
+Ook was het leuk om op een anderen manier te kijken naar hoe bedrijven om deze wetten heen proberen te komen. Hier waren de notes die ik hiervan had genomen
+<img src="images/module2/data_notes_1.jpeg">
+<img src="images/module2/data_notes_2.jpeg">
+
+Hiernaast had ik verschillende. websites bekeken en verschillende bronnen gebruikt om te kijken wat voor soort data toesteming er was. Dit waren de notes hiervan:
+
+De verschillende toestemmingen die ik moet vragen zijn:
+GitHub pages hosting
+digitaaltuintje component
+Visual studio code.
+Instagram omdat ik foto’s link.
+Microsoft.
+TransIP
+
+Hoe kan je gebruikers informeren over het gebruik van hun gegevens op jouw website?:
+Door het in jip en janneke taal neer te zetten in verschillende tabbladen. Zodat ze makeelijk kunnen klikken en kijken zonder overweldigd te worden door verschillende elementen.
+Ook zodat ze goed uit kunnen sorten. Ik wil Paradiso en Melkweg, als voorbeeld nemen. Hun hadden alle elementen verschillende gezet zodat je goed dingen kon afwijzen en anderen dingen kon accepteren.
+
+Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10 verschillende manieren van het vragen van consent op het web.
+https://www.combell.com/nl/blog/soorten-cookies/
+https://veiliginternetten.nl/wat-zijn-cookies/
+https://pec.surf.nl/faqs/hoe-vraag-je-om-toestemming-wat-is-er-nodig/
+https://www.combell.com/nl/blog/soorten-cookies/
+https://veiliginternetten.nl/wat-zijn-cookies/
+https://www.dailycms.com/artikelen/cookiemelding-op-je-website-wanneer-is-deze-wel-of-niet-verplicht/
+https://www.dailycms.com/artikelen/avggdpr-wat-betekent-deze-wetgeving-voor-websites-en-webwinkels/
+https://www.weer.nl/
+https://www.telegraaf.nl/
+https://www.tivolivredenburg.nl
+https://www.zapp.nl/
+https://www.zuiderzeemuseum.nl
+
+Door duidelijke fotos te laten zien van waar je data heen gaat.
+
+Door het duidelijk uit te leggen. In een grote tekst gelijk
+
+Door het in kleine mapjes te zetten om makkelijk doorheen te gaan.
+
+Door per pagina alleen daar de bijbehorende data knoppen te zetten zodat mensen weten waar wat heen gaat
+
+Door ze gewoon te informeren welke data ze nemen. Terwijl je ze laat weten dat het nee zeggen je naar een anderen pagina leid.
+
+Een vol scherm pop up neerzetten waar in het klein de info op staat, en ze uitnodigen om verder te lezen.
+
+Een volscreen pop up maken. Waarin er verschillende keuze knoppen zijn.
+
+Een kleine onderdeel neer te zetten onder aan de pagina. Waarin een uitleg zin staat. En dat dus niet uitdaagt om verder te lezen.
+
+Met kleine icoontjes die de onderdelen representeren.
+
+Ze 2 opties geven: waar ze alleen de noodzakelijke cookies kunnen accepteren en alles
+
+Denk na over een manier van werken die past binnen de layout van jouw digital
+garden?:
+Iets makkelijks. Ik wil iets maken dat zelfs oma's van 80 zouden snappen. Waarin het duidelijk is. En de knopen allebij even groot zijn.
+
+Hiernaast had ik gekeken naar een app/website die wel verschillende dark patterns gebruiken. voor mij is duolingo de meet ulitmate dark pattern bedrijf. Want het hele concept is een dark pattern vanwegen de streak opties.
+Hiernaast vindt ik de super pagins het meest vervelend. Want ze duwen het zwaar door dat je dit nodig hebt. Dus deze dark pattern had ik uitgetekend:
+Dit was hoe hij er normaal eruit ziet.
+<img src="images/module2/duo_normaal.jpeg">
+
+Dit is hoe hij er uit kan zien als hij wel goed ziet.
+<img src="images/module2/duo_opnieuw.png">
+Mijn ontwerp heeft alles beter. Alles staat gelijk wat een opties niet slechter of beter maakt dan de anderen.
+Ook geeft hij duidelijke ALLE opties aan en moedigt hij niet er gelijk een aan. Natuurlijk heb je met deze opties ook dat je ja kan zeggen zonder je gevens te moeten geven.
+
+Hiernaast had ik de workshop over Javascript gevolgt.
+Hier zijn de vidoes hiervan
+<video width="320" height="240" controls>
+
+  <source src="images/module2/opdracht_1_java.mov" type="video/mp4">
+  <video width="320" height="240" controls>
+  <source src="images/module2/opdracht_2_java.mov" type="video/mp4">
+<video width="320" height="240" controls>
+  <source src="images/module2/opdracht_3_java.mov" type="video/mp4">
+<img src="images/module2/opdracht_4_java.png">
+
+## 22 sep
+
+Ik had deze dag mijn README bijgewerkt omdat ik een beetje achter liep.
+Hiernaast moest ik nog even aan mijn nieuwe code zitten.
+Ik wou de kleuren goed zetten en de grid goed zetten.
+De kleuren waren nu wel gelukt. Omdat mijn grid niet goed gelinkt was kon niks koppelen.
+Helaas moest ik dit wel even chatgpt hiervan vragen:
+<img src="images/module2/header_verwijderd.png">
+<img src="images/module2/header_verwijderd_oplossing.png">
+<img src="images/module2/oplossing_2.png">
+<img src="images/module2/oplossing3.png">
+<img src="images/module2/oplossing4.png">
+Hiernaast lukten dus mijn grid niet. En deze daarom dus wel.
+Hiernaast stond mijn footer ineens in het midde van mijn pagina. Dit moest ik weer aan chat vragen. Hierdoor ben ik er wel uit gekomen.
+
+Hiernaast had ik een rare gap in mijn pagina. Nadat ik hier niet uit kwam had ik het gevraagt. Maar hier kwam chat ook helaas niet uit
+<img src="images/module2/gap_1.png">
+<img src="images/module2/gap_oplossing.png">
+
+Hier zijn de screenshots van de website tot nu toe:
+<img src="images/module2/eersteversie_1.png">
+<img src="images/module2/eersteversie_2.png">
+<img src="images/module2/eersteversie3.png">
+<img src="images/module2/eersteversie4.png">
+
+En de fullscreen:
+<img src="images/module2/fulscreen1.png">
+<img src="images/module2/fulscreen2.png">
+<img src="images/module2/fullscreen3.png">
+<img src="images/module2/eersteversie4.png">
+
+hiernaast heb ik de artiekel gelezen:
+
+Notes
+What are dark patterns in UX:
+
+Dark pattern design is design om een specefieke actie uit te dagen. Vaak worden ze dan gemanipuleerd.
+Vaak willen ze dat je meer betaald voor iets. Dat je je aanmeld. Dat je data deelt. En dat je gewoon een beslissing maakt die je normaal niet genomen had.
+
+Het komt van UX designer Harry Brignull uit 2010.
+
+Deze patronen zijn zwaar on ethisch.
+Dark patterns maken misbruik ban de manier hoe mensen al met apps omgaan. Door dingen op specifieken plekken neer te zetten.
+
+Door dit soort apps te veel te gebruiken kan je mistrust creeren in niet alleen jou website maar ook anderen websites.
+
+12 soorten van dark patterns zijn:
+Hidden costs, door iets te verbergen onder anderen kosten.
+
+Bait and switch
+Door gebruikers neer te zetten op plekken waar ze denken dat het een leid naar het een, terwijl het ineens naar iets anders leid.
+
+Forced Continuity. Als een website je tricked in bepaalde gegevens in te voeren. Waardoor hij ze gelijk kunnen gebruiken na de free trail.
+
+Roach motel. Warneer een bedrijf het makkelijk maken om je aan te melden. Maar het extreem moeilijk maken om je weer tegen iets af te melden.
+
+Misdirection, om je gelijk iets anders te laten zien. En dus de goedkopere optie niet duidelijk te maken.
+
+Confirm shaming. Door je te schamen met bepaalde woorden om je het idee te geven dat je iets fout doet als je dingen niet doet.
+
+Sneak into basket. Als hij dingen er gewoon bij zet zonder het echt te benoemen.
+
+Friend spam, Ze liegen dan tegen je om je social media in te voeren voor ‘vrienden’ maar ze willen gewoon echt je data.
+
+Disguised ads:
+Als je verchillende buttons een anderen vorm geeft. Terwijl het eigelijk een add is.
+
+Trick questions. Zodat ze de woorden verkeerd verwoordt zodat je de verkeerde keuze maakt.
+
+Fomo. Door je te beschamen als je dingen niet doet. En dingen niet koopt.
+
+Price Comparison. Door prizes naar elkaar te vergelijken om verschillende prijze ziek goedkoop te laten klinken.
+
+De beste manier om dit te vermijden is om duidelijk te zijn, en de uX te leiden naar waar het heen moet leiden.
+
+Notes: mirco interactions:
+Micro interactions helpen bij het weten wat je oprecht doet bij een app of websiye. Het is het verschil tussen een product waar je van houdt en die je gewoon tolereert.
+
+Design is niet alleen om dingen op te lossen.
+Dingen zoals een goede klik kan veel vreugde brengen naar mensen als je ontwerpt.
+
+Micro interacties staan echt overal. In alle Apps en alle websites. Dit is ook belangrijk om een app leuk en vreugdevol te maken.
+
+Mirco interacties zijn goed voor
+Accompishing a single task
+Een beweegende task verder maken.
+Machines samen zetten.
+Een process controleren.
+Een setting aanpassen.
+Een piece of content bekijken en aanpassen.
+Iets aan of uit zetten.
+
+Experience design is niet alleen de grote dingen maar ook de kleine details
+Ook brengt het een eco systeem goed bij elkaar.
+
+Je moet altijd eerst een trigger hebben, daarna regels om deze interactie neer te zetten. Daarna de feedback die je krijgt bij de knop. En daarna de loop of de modes hierna.
+
+Je hebt 2 soorten triggers, de systeem triggers en de manual triggers. Manual zijn de echte knoppen die je echt indrukt, en alles in die soort. Waar je echt iets moet doen.
+
+De systeem is waarneer er een systeem getriggerd wordt. Bijvoorbeeld een licht die aangaat omdat je er bij loopt.
+Of als jij een code vanuit je systeem herkend om in te voren.
+
+De regels Zijn hoe de micro interactie werkt, en daarneer de feedback doorgaat.
+Het zorgt er ook voor dat je ding niet misbruikt wordt. En human error vermeiden.
+
+Dit is ok waar micro interacties goed voor zijn.
+
+Feedback zorgt ervoor dat je weet dat alles goed is gedaan door geluid of beeld of kleur.
+
+Notes:
+Don’t Trick Users: 2 Ways to Avoid Deceptive Design Patterns
+Je moet jezelf altijd 2 vragen stellen:
+Wie zou deze design het meest beniften.
+En hoe goed is deze design voor de verwachtingen van de users.
+
+Als je antwoordt je bedrijf is. Moet je terug gaan. Je wilt dat alleen je klanten het goed hebben. En niet alleen dat het bedrijf het goed doet.
+
+Design voelt oneerlijk als hij werkt zoals je hem niet verwacht.
+
+Hiernaast heb ik de diep dive van buttons gevolgt in de klas:
+<img src="images/module2/button_opdracht1.png"/>
+<img src="images/module2/button_opdracht2.png"/>
+
+## 21 sep
+
+Wat zijn HTML landmark role elements?
+De speciale tekens die je een onderdeel geef waar je elke keer naar terug kan referen.
+
+Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+Je moet eerste een header maken. Daarin kunnen tags zoals H1, H2,
+
+Hoe ga jij met cookies om? Beschrijf jou beweeg redenen en of die zijn veranderd na het volgen van dit college.
+Ik probeer altijd erg voorzichtig te zijn. Maar eigelijk vermijd je dit niet. Ik wil niet dat mensen of bedrijven zo snel mijn data hebben voor privicy redene. Alleen deze college heeft me wel iets meer geinformeerdt over hoe nutteloos het is om het oprecht aan te passne omdat ze het toch vaak stellen.
+
+In deze college hadden wij een live code gedaan. En een college geluisterd. Van deze college heb ik weer een refresher in code gehad wat erg handig was.
+Hiernaast hadden wij het gehad over cookjes en alles dat daarbij komt. Hiervan heb ik geleerdt hoe je er mee om gaat. Wat netjes en wat niet is. En hoe vormgeving hier aan toepas komt
+
+<img src="images/cookies_document.png">
+
+En hier zijn de screenshots van de natype code:
+<img src="images/module2/cookies_code1.png">
+<img src="images/module2/cookies_code2.png">
+<img src="images/module2/cookes_code3.png">
+<img src="images/module2/code_van_cookies.png">
+
 ### 18 sep.
 
 Waarom geven de docenten deze opdracht?
