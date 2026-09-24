@@ -342,6 +342,9 @@ En de tekeningen
 <img src="/images/retrospective2.jpeg">
 <img src="/images/retrospective3.jpeg">
 
+Ook had ik de feedback gekregen: hier was de feedback van het tussen gesprek:
+<img src="/images/echt/Scherm­afbeelding 2026-09-21 om 11.29.20.png">
+
 ### 17 sep.
 
 Ik heb vandaag een stress curus gehad en daarna de propuduse uitreiking dus was ik op school aanwezig.
