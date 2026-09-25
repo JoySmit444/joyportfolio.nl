@@ -19,6 +19,7 @@
     ></script>
   </head>
   <body>
+    
     <header>
       <h1>Digital garden van Verkiezingen</h1>
       <nav>
@@ -27,6 +28,25 @@
           <li><a href="README.md">Learning Log</a></li>
         </ul>
       </nav>
+<button commandfor="mydialog" command="show-modal">
+  Open dialog
+</button>
+
+<dialog id="mydialog">
+  <p>
+    We use cookies to personalise content and ads, to provide social media
+    features and to analyse our traffic. We also share information about
+    your use of our site with our social media, advertising and analytics
+    partners who may combine it with other information that you’ve
+    provided to them or that they’ve collected from your use of their
+    services.
+  </p>
+
+  <form method="dialog">
+    <button>Accepteer</button>
+    <button>Negeer</button>
+  </form>
+</dialog>
     </header>
 
     <main>
@@ -120,24 +140,6 @@
     </main>
 
     <footer>
-    </footer>
 
-    <dialog open>
-      <form method="dialog">
-        <p>
-          We use cookies to personalise content and ads, to provide social media
-          features and to analyse our traffic. We also share information about
-          your use of our site with our social media, advertising and analytics
-          partners who may combine it with other information that you’ve
-          provided to them or that they’ve collected from your use of their
-          services.
-        </p>
-        <button>Accepteer</button>
-        <button>Negeer</button>
-        <!-- <button onclick="setCookie()">Allow</button>
-        <button onclick="unsetCookie()">Deny</button> -->
-        </dialog>
-      </form>
-    </dialog>
   </body>
 </html>

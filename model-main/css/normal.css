@@ -14,6 +14,7 @@ html {
   --color-blue: light-dark(#90d5ff, blue);
   --color-dark: #333333;
   --color-light: #fefefe;
+  --backdrop-dialog: light-dark(#ffffff66, #66339966);
 
   --color-background: light-dark(var(--color-light), var(--color-dark));
   --color-text: light-dark(var(--color-dark), var(--color-light));
@@ -48,7 +49,7 @@ html {
 img,
 svg,
 video {
-  display: block;
+  display: flex;
   max-width: 100%;
   height: auto;
 }
@@ -131,13 +132,15 @@ footer {
     }
   }
 }
-/* hiervoor heeft een studenten 
+/* hiervoor heeft een studenten mij geholpen*/
 ul {
   margin-block-start: 1em;
   margin-block-end: 1em;
   display: grid;
   list-style: none;
   grid-template-columns: 1fr 1fr;
+  max-width: 50%;
+  gap: var(--whitespace-s);
 }
 
 /**************************
@@ -229,4 +232,19 @@ summary {
 
 details {
   padding-left: 40px;
+}
+
+/**************************
+* MARK: cookies
+**************************/
+
+/* hier hielp een student assistnet bij*/
+dialog {
+  position: fixed;
+  background-color: var(--color-pink);
+  inset: 0 1rem 1rem 0;
+}
+
+dialog::backdrop {
+  background-color: salmon;
 }

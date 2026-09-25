@@ -27,6 +27,10 @@ Voor de derde pagina.
 <img src="/images/module2/pagina1-8.png">
 Deze heb ik zelf en met de hulp van de studenten assisant aangepast.
 
+Helaas toen ik mijn knop probeerden te maken lukten dit niet. Daardoor heb ik chat moeten vragen, Ik heb ook vasillian gevraagt:
+<img src="/images/module2/chat_25_1.png">
+<img src="/images/module2/chat_25_2.png">
+
 ## 24 sep
 
 Vandaag had ik een stress coach gesprek waardoor ik op school was.
