@@ -3,6 +3,14 @@
 ## 25 sep.
 
 feedback: probeer dat je je klant alleen laat weten dat wij niks me je data doen, maar alleen maar informeren dat het er is. Maar dat wij het niet opslaan en er niks mee doen.
+Hiernaast raaden zij aan om meer schetsen te maken van de verschillende cookies.
+Hier werdt aangeraad om minder opties te geven omdat ik niet heel veel data verzamelen.
+
+Hiernaast wilt zij ook graag dat wij meer letten over de echte vormgeving. en hoe mooi ik het kan maken.
+
+Hier na ging ik code proberen op te lossen:
+Dit waren all mijn error's:
+<img src="/images/module2/errors-checken.png">
 
 ## 24 sep
 
