@@ -131,7 +131,7 @@ footer {
     }
   }
 }
-
+/* hiervoor heeft een studenten 
 ul {
   margin-block-start: 1em;
   margin-block-end: 1em;
@@ -139,6 +139,7 @@ ul {
   list-style: none;
   grid-template-columns: 1fr 1fr;
 }
+
 /**************************
 * MARK: Main
 **************************/

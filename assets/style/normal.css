@@ -8,7 +8,7 @@
 
 @font-face {
   font-family: Sunsetpalm;
-  src: url(fonts/SunsetPalmScriptTrial.otf);
+  src: url(../type/Sunset\ Palm\ -\ Script\ Trial.otf);
 }
 
 :root {
@@ -103,13 +103,14 @@ code van een anderen button gebruikt*/
 footer a {
   border: 3.5px solid #000;
   font-family: Sunsetpalm;
-  font-size: 12px;
+  font-size: 30px;
   color: black;
-  border-radius: 70%;
+  border-radius: 40%;
   text-align: center;
-  line-height: 90px;
   text-decoration: none;
-  margin: 5%;
-  max-width: 7rem;
+  margin: 10%;
+  max-width: 10rem;
+  max-height: 950rem;
+  padding: 5px;
   background-color: var(--button);
 }

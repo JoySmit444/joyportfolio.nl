@@ -10,7 +10,22 @@ Hiernaast wilt zij ook graag dat wij meer letten over de echte vormgeving. en ho
 
 Hier na ging ik code proberen op te lossen:
 Dit waren all mijn error's:
+Van de eerste pagina
 <img src="/images/module2/errors-checken.png">
+Dit waren fouten dat ik mijn foto's niet goed gekoppled had.
+
+Voor de tweede pagina.
+Hier had ik ook voor het meeste gewoon koppelings fouten
+<img src="/images/module2/pagina2.png">
+<img src="/images/module2/pagina3.png">
+<img src="/images/module2/pagina4.png">
+
+Voor de derde pagina.
+<img src="/images/module2/pagina1-5.png">
+<img src="/images/module2/pagina1-6.png">
+<img src="/images/module2/pagina1-7.png">
+<img src="/images/module2/pagina1-8.png">
+Deze heb ik zelf en met de hulp van de studenten assisant aangepast.
 
 ## 24 sep
 
