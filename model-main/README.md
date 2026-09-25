@@ -1,25 +1,8 @@
+_Kopieer en plak hier jouw README.md uit sprint 1._
+
 # Model
 
 ## 24 sep
-
-Vandaag had ik een stress coach gesprek waardoor ik op school was.
-Hiernaast ging ik mijn 2 htmls willen koppelen. Dit wou ik doen met een knop. En hier kwam ik helemaal niet uit.
-
-Daardoor moest ik helaas chatgpt vragen om
-<img src="images/module2/24-sep_AI1.png">
-<img src="images/module2/24_sep_AI2.png">
-<img src="images/module2/CHAT_24sep.png">
-<img src="images/module2/CHAT_ANTWOORDT_2.png">
-<img src="images/module2/CHAT_24sep.png">
-<img src="images/module2/24-sep-AI3.png">
-<img src="images/module2/24-SEP-AI4.png">
-<img src="images/module2/24-SEP-AI5.png">
-<img src="images/module2/24-SEP-AI77.png">
-<img src="images/module2/AI_8.png">
-<img src="images/module2/AI_9.pngg">
-
-Uiteindelijk heb ik hier weinig tot niks van gebruikt. Omdat ik nergens duidelijk uit kwam.
-En heb ik mijn eige oude code gebruikt.
 
 ## 23 sep
 

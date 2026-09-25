@@ -32,6 +32,7 @@ html {
   --step-5: clamp(2.4883rem, 0.1537rem + 10.3761vw, 9.4922rem);
 
   --border-width: 0.1em;
+  display: grid;
 }
 
 /**************************
@@ -225,4 +226,13 @@ summary {
 
 details {
   padding-left: 40px;
+}
+
+/**************************
+* MARK: Javascript
+**************************/
+
+body.grid main {
+  /* stap 5 */
+  grid-template-columns: 1fr 1fr;
 }

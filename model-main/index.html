@@ -9,8 +9,10 @@
     <title>Digital garden van ...</title>
     <link rel="stylesheet" href="./css/normal.css" />
 
+
+
     <!-- Importeer het webring component, voeg jouw eigen domein toe in data-page -->
-    <script
+  <script
       data-page="https://joyportfolio.nl/"
       src="http://digitaaltuintje.nl/webring.js"
       defer
@@ -21,8 +23,8 @@
       <h1>Digital garden van Verkiezingen</h1>
       <nav>
         <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="https://github.com/account/repo">Learning Log</a></li>
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="README.md">Learning Log</a></li>
         </ul>
       </nav>
     </header>
@@ -118,14 +120,9 @@
     </main>
 
     <footer>
-      <nav>
-        <button commandfor="cookieModal" command="show-modal">
-          <span>Allow cookies?</span>
-        </button>
-      </nav>
     </footer>
 
-    <dialog id="cookieModal">
+    <dialog open>
       <form method="dialog">
         <p>
           We use cookies to personalise content and ads, to provide social media
@@ -135,8 +132,11 @@
           provided to them or that they’ve collected from your use of their
           services.
         </p>
-        <button onclick="setCookie()">Allow</button>
-        <button onclick="unsetCookie()">Deny</button>
+        <button>Accepteer</button>
+        <button>Negeer</button>
+        <!-- <button onclick="setCookie()">Allow</button>
+        <button onclick="unsetCookie()">Deny</button> -->
+        </dialog>
       </form>
     </dialog>
   </body>
