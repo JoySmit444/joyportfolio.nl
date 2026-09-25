@@ -1,9 +1,14 @@
 /* HIER KOMT JOUW CSS */
 @font-face {
   font-family: "Comic Relief";
-  src: url(../type);
+  src: url(../type/ComicRelief-Regular.woff2);
   font-weight: 400;
   font-style: normal;
+}
+
+@font-face {
+  font-family: Sunsetpalm;
+  src: url(fonts/SunsetPalmScriptTrial.otf);
 }
 
 :root {
@@ -96,18 +101,15 @@ a:hover {
 code van een anderen button gebruikt*/
 
 footer a {
-  display: inline-block;
-  border: 2px solid #000;
+  border: 3.5px solid #000;
   font-family: Sunsetpalm;
-  font-size: 16px;
+  font-size: 12px;
   color: black;
   border-radius: 70%;
   text-align: center;
   line-height: 90px;
   text-decoration: none;
   margin: 5%;
-  height: 40%;
-  width: 40%;
-
+  max-width: 7rem;
   background-color: var(--button);
 }

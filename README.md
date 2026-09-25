@@ -1,5 +1,9 @@
 # Model
 
+## 25 sep.
+
+feedback: probeer dat je je klant alleen laat weten dat wij niks me je data doen, maar alleen maar informeren dat het er is. Maar dat wij het niet opslaan en er niks mee doen.
+
 ## 24 sep
 
 Vandaag had ik een stress coach gesprek waardoor ik op school was.
@@ -20,6 +24,8 @@ Daardoor moest ik helaas chatgpt vragen om
 
 Uiteindelijk heb ik hier weinig tot niks van gebruikt. Omdat ik nergens duidelijk uit kwam.
 En heb ik mijn eige oude code gebruikt.
+
+Hiernaast ik een schets gemaakt van verschillende schetsen gemaakt waarin ik ideen kon uiten van hoe ik mijn onderdelen wil zien.
 
 ## 23 sep
 

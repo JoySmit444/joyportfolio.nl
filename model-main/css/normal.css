@@ -72,6 +72,8 @@ body {
     "footer footer";
   grid-template-rows: auto 1fr auto;
 
+  justify-content: center;
+
   gap: var(--whitespace);
 
   @media (width > 45em) {
@@ -82,9 +84,9 @@ body {
       "footer footer footer";
   }
 }
-p {
+/*p {
   max-width: 30em;
-}
+}*/
 /**************************
 * MARK: Header
 **************************/
@@ -133,6 +135,9 @@ footer {
 ul {
   margin-block-start: 1em;
   margin-block-end: 1em;
+  display: grid;
+  list-style: none;
+  grid-template-columns: 1fr 1fr;
 }
 /**************************
 * MARK: Main
@@ -144,8 +149,9 @@ main {
   padding: var(--whitespace-s);
 
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));
+  /*grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));*/
   gap: var(--whitespace);
+  justify-content: center;
 }
 
 /**************************
@@ -198,16 +204,12 @@ label:has([type="checkbox"]) {
 * MARK: Section ...
 **************************/
 
-img:nth-last-of-type(1) {
-  display: flexbox;
-}
-
 /**************************
 * MARK: responsivness. 
 **************************/
 
 @media (min-width: 784px) {
-  main {
+  body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-areas:
@@ -226,13 +228,4 @@ summary {
 
 details {
   padding-left: 40px;
-}
-
-/**************************
-* MARK: Javascript
-**************************/
-
-body.grid main {
-  /* stap 5 */
-  grid-template-columns: 1fr 1fr;
 }
