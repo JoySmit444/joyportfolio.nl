@@ -15,6 +15,8 @@ html {
   --color-dark: #333333;
   --color-light: #fefefe;
   --backdrop-dialog: light-dark(#ffffff66, #66339966);
+  --background-li1: #ffebef;
+  --background-summary: #572649;
 
   --color-background: light-dark(var(--color-light), var(--color-dark));
   --color-text: light-dark(var(--color-dark), var(--color-light));
@@ -49,7 +51,7 @@ html {
 img,
 svg,
 video {
-  display: flex;
+  display: block;
   max-width: 100%;
   height: auto;
 }
@@ -136,11 +138,17 @@ footer {
 ul {
   margin-block-start: 1em;
   margin-block-end: 1em;
-  display: grid;
   list-style: none;
-  grid-template-columns: 1fr 1fr;
-  max-width: 50%;
   gap: var(--whitespace-s);
+  text-align: center;
+}
+
+.rij {
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  list-style: none;
+  gap: var(--whitespace-s);
+  text-align: center;
 }
 
 /**************************
@@ -153,7 +161,7 @@ main {
   padding: var(--whitespace-s);
 
   display: grid;
-  /*grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));*/
+  grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));
   gap: var(--whitespace);
   justify-content: center;
 }
@@ -176,10 +184,12 @@ textarea {
 
 h1 {
   font-size: var(--step-3);
+  text-align: center;
 }
 
 h2 {
   font-size: var(--step-2);
+  text-align: center;
 }
 
 h3 {
@@ -204,6 +214,12 @@ label:has([type="checkbox"]) {
   align-items: baseline;
 }
 
+p {
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: center;
+}
+
 /**************************
 * MARK: Section ...
 **************************/
@@ -226,12 +242,18 @@ label:has([type="checkbox"]) {
 /**************************
 * MARK: summary 
 **************************/
+
+/* hier had chatgpt mij bij geholpen*/
 summary {
   padding-left: 20px;
+  font-size: 20px;
+  gap: var(--whitespace);
 }
 
 details {
-  padding-left: 40px;
+  list-style: none;
+  border: 2px #333333;
+  border-radius: 100px;
 }
 
 /**************************
@@ -239,12 +261,55 @@ details {
 **************************/
 
 /* hier hielp een student assistnet bij*/
+
 dialog {
-  position: fixed;
-  background-color: var(--color-pink);
-  inset: 0 1rem 1rem 0;
+  background-color: Var(--color-pink);
+  max-width: 70%;
+}
+
+section summary {
+  border-width: 0.1em;
+  border-style: solid;
+  border-color: var(--button-color);
+  border-radius: 0.5em;
+  padding: 10px;
+  background-color: Var(--background-summary);
+  color: white;
+  border: #333333;
+}
+
+section li {
+  border-width: 0.1em;
+  border-style: solid;
+  border-color: var(--button-color);
+  border-radius: 0.5em;
+  padding: 10px;
+  background-color: Var(--background-li1);
+}
+
+section button {
+  margin: 1%;
 }
 
 dialog::backdrop {
-  background-color: salmon;
+  /*background-color: gainsboro;*/
+  backdrop-filter: blur(10px);
+}
+
+/*bron chatgpt*/
+
+section ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));
+  gap: var(--whitespace);
+  list-style: none;
+  padding: 0;
+  max-width: 50em;
+  margin: 0 auto;
+}
+
+section img {
+  display: block;
+  width: 100%;
+  height: 100%;
 }

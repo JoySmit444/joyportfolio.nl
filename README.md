@@ -1,5 +1,66 @@
 # Model
 
+## 27 sep
+
+Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+omdat het moet werken, en dat eigelijk het enigste is wat belangrijk is. En dat hij adaptive kan zijn, en dat kan niet altijd met sematiek.
+
+Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+zicht
+congnitief.
+motorieke skills
+gehoor.
+
+Noem drie manieren om door een website te navigeren met jouw screenreader.
+via tab. via, via geluild, en via de pijltjes
+
+Mijn notes voor de short cuts:
+Tab werkt met alles, enter + spatie werkt om dingen te selecteren.
+command+fn+f5. kan je de spreek ding selecteren.
+
+Het bewijs van de weekly geekly:
+<img src="images/module2/bi-weekly_geek2.jpeg">
+
+En bewijs van de luistere/ toegankelijksheid test op de NS:
+<img src="images/module2/ns_test.png">
+
+## 26 sep
+
+notes van de weekly geek:
+
+notes:
+
+ChatGPT facestougherrules under EU online safety regime
+De commision zij dat de chatbot een soort search engine is. En ook aan deze regels moeten voordoen.
+Anderen IA’S vooral grok moet hierdoor ook zwaar aan de bel trekken dat ze niet wetten onderbreken.
+Dit kwam nadat ze 45 minion maandelijkse luisteraars kreeg.
+
+AI chatbots citing Russian propaganda sourced from EU-sanctioned outlet
+Grote langalge models zoals google gemini hebben propoganda van Rusland over genomen.
+Mensen denken dat ze dit willen doen om mensen de influenceer.
+Als er vragen gesteld werden over verschillende dingen die te maken hadden met ukriene kwamen ze snellen bij russesiche artikelen.
+
+Omdat nu meer mensen AI gebruiken over normallen zoek machines is het makkelijk om op deze manier te infleunce.
+Dit heet  generative engine optimisation
+
+Dat implaats van gewoon antwoordt te geven ze antwoorden zoeken die meer marketing zijn.
+En dit doet IA Niet express. Maar is wel helaas wat er gebeurd
+
+Het einde van ‘Wild West’-internet: DSA uitgelegd:
+De era waar je gewoon de cookies accepteert is over. Nu heb je de dsa.
+
+De das is. Popt je algoritme bubble. Nu moeten de bedrijven laten zien waarom ze iets laten zien. En moeten ze ook een ‘off’ functie maken.
+
+Kinderen en tieners beschermen.
+Ze moeten nu duidelijke regels neerzetten om kinderen te beschermen. Nu moeten ze alles reguleren. En ook advertenties reguleren.
+
+Geen secret sellers meer, markt platen moet nu hun klanten kennen.
+Ze moeten ze duidelijk verifiëren. En tracken.
+
+The enforcement. Het moet nu goed doorgevoerd worden. Anders zijn er extreme hoge boetes.
+
+De dsa Zijn de regels om ons te beschermen
+
 ## 25 sep.
 
 feedback: probeer dat je je klant alleen laat weten dat wij niks me je data doen, maar alleen maar informeren dat het er is. Maar dat wij het niet opslaan en er niks mee doen.
@@ -30,6 +91,21 @@ Deze heb ik zelf en met de hulp van de studenten assisant aangepast.
 Helaas toen ik mijn knop probeerden te maken lukten dit niet. Daardoor heb ik chat moeten vragen, Ik heb ook vasillian gevraagt:
 <img src="/images/module2/chat_25_1.png">
 <img src="/images/module2/chat_25_2.png">
+
+doornemen wat ik deze week heb geleerdt:
+Javascript. En vooral hoe je de code meer in de realitiet neer te zetten. Ik merkte deze week dathet me mekkelijker af gaat.
+Hiernaast was het wel een zware week vanwegen persoonlijke dingen dus kon ik mij minder verdiepen als ik had gewilt. Maar had ik wel verschillende dingen zelf kunnen koppelen.
+en de Var elementen snap ik nu beter.
+En alle wetten om de privicy,
+
+Hierna heb ik ook de deep dive gedaan. Hiernaast Deze ging over verschillende positioned.
+<video controls width="250">
+
+  <source src="/images/module2/position_oefeningen_2.mov" type="video/webm" />
+  <video controls width="250">
+  <source src="/images/module2/position_oefingen_3.mov" type="video/webm" />
+  <video controls width="250">
+  <source src="/images/module2/position_oefeingen_4.mov" type="video/webm" />
 
 ## 24 sep
 
