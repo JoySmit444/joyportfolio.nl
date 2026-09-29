@@ -1,6 +1,6 @@
 # Model
 
-## 27 sep
+## 28 sep
 
 Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
 omdat het moet werken, en dat eigelijk het enigste is wat belangrijk is. En dat hij adaptive kan zijn, en dat kan niet altijd met sematiek.
@@ -23,6 +23,25 @@ Het bewijs van de weekly geekly:
 
 En bewijs van de luistere/ toegankelijksheid test op de NS:
 <img src="images/module2/ns_test.png">
+En mijn notes hiervan:
+
+Hiernaast kwam ik niet helemaal uit mijn code dus moest ik HVA ai gebruiken. Hier is het bewijs hiervan.
+<img src="images/module2/hva_29_1.png">
+<img src="images/module2/hva_29_2.png">
+
+<img src="images/module2/hva_29_3.png">
+<img src="images/module2/hva_29_4.png">
+
+<img src="images/module2/hva_29_5.png">
+
+<img src="images/module2/hva_29_4.png">
+<img src="images/module2/hva_29_6.png">
+
+<img src="images/module2/hva_29_7.png">
+<img src="images/module2/hva_29_8.png">
+
+<img src="images/module2/hva_29_9.png">
+<img src="images/module2/hva_29_10.png">
 
 ## 26 sep
 

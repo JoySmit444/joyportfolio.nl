@@ -298,7 +298,7 @@ dialog::backdrop {
 
 /*bron chatgpt*/
 
-section ul {
+main ul {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));
   gap: var(--whitespace);
@@ -308,7 +308,7 @@ section ul {
   margin: 0 auto;
 }
 
-section img {
+main img {
   display: block;
   width: 100%;
   height: 100%;
