@@ -1,5 +1,24 @@
 # Model
 
+## 29 sep
+
+Hier had ik nog meer schetsen gemaakt. Voor deze schetsen wou ik verschillende dingen bereiken.
+Ik wil dat mensen die het web niet goed begrijpen en er niet goed bij zijn het ook snappen. En er makkelijk doorheen komen.
+
+Ook wil ik geen angst zaaien. Ik maakt deze website best gericht op 'niet nerds' die snappen vaak niet dingen zoals data. En schrikken vaak van deze dingen. Zo wil ik zo makkelijk, snel, en jip en janneke mogelijk laten zien: dit is wat er gebeurdt. A+B+C, hier zeg je ja of nee. en door.
+
+Ook wil ik het natuurlijk in de huisstijl houden. Dit doe ik ook extreem express, om dus niet het: oh wow dit is super techy... ik ben er een beetje bang voor omdat ik het niet begrijp uit te lokken.
+Daarom wil ik de 'veilige' huisstijl doorzetten.
+
+Hier zijn de meer uitgewerkte schetsen:
+<img src="images/module2/uitgewerkte_schetsen.png">
+
+Hiernaast had ik de deep dive gedaan: S2: meer interactie met HTML en CSS (Vasilis)
+
+Het bewijs hiervan:
+<video width="320" height="240" controls>
+<source src="images/module2/video_29_sep_deep.mov" type="video/mp4">
+
 ## 28 sep
 
 Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
@@ -42,6 +61,11 @@ Hiernaast kwam ik niet helemaal uit mijn code dus moest ik HVA ai gebruiken. Hie
 
 <img src="images/module2/hva_29_9.png">
 <img src="images/module2/hva_29_10.png">
+
+En hoe de website er nu uitziet is:
+<img src="images/module2/website_1.png">
+<img src="images/module2/website_2.png">
+<img src="images/module2/website_3.png">
 
 ## 26 sep
 
