@@ -17,7 +17,20 @@ Hiernaast had ik de deep dive gedaan: S2: meer interactie met HTML en CSS (Vasil
 
 Het bewijs hiervan:
 <video width="320" height="240" controls>
+
 <source src="images/module2/video_29_sep_deep.mov" type="video/mp4">
+
+Hiernaast had ik nog wat buttons toegevoegt en veranderd. hier moest ik helaas AI voor gebruiken, hier is het bewijs:
+<img src="images/module2/29_hva_1.png">
+<img src="images/module2/29_hva_2.png">
+<img src="images/module2/29_hva_3.png">
+<img src="images/module2/29_hva_4.png">
+
+En dit is hoe de knoppen er nu uit zien:
+<img src="images/module2/knop_1.png">
+<img src="images/module2/knop_2.png">
+<img src="images/module2/knop_3.png">
+<img src="images/module2/knop_4.png">
 
 ## 28 sep
 
