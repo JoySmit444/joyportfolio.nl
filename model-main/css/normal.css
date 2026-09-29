@@ -17,6 +17,8 @@ html {
   --backdrop-dialog: light-dark(#ffffff66, #66339966);
   --background-li1: #ffebef;
   --background-summary: #572649;
+  --button-hover: #b33b72;
+  --button-active: #8bc34a;
 
   --color-background: light-dark(var(--color-light), var(--color-dark));
   --color-text: light-dark(var(--color-dark), var(--color-light));
@@ -267,28 +269,51 @@ dialog {
   max-width: 70%;
 }
 
-section summary {
+/*bron hva AI*/
+
+#mydialog section summary {
   border-width: 0.1em;
   border-style: solid;
   border-color: var(--button-color);
   border-radius: 0.5em;
   padding: 10px;
-  background-color: Var(--background-summary);
+  background-color: var(--background-summary);
   color: white;
-  border: #333333;
 }
 
-section li {
+#mydialog section li {
   border-width: 0.1em;
   border-style: solid;
   border-color: var(--button-color);
   border-radius: 0.5em;
   padding: 10px;
-  background-color: Var(--background-li1);
+  background-color: var(--background-li1);
 }
 
-section button {
+/*deze code heb ik genomen en aangepast van een codepen
+over de hovers*/
+#mydialog section button {
   margin: 1%;
+  padding-block: 0.5em;
+  padding-inline: 1em;
+  border-width: 0.1em;
+  border-style: solid;
+  border-radius: 1.5em;
+  transition: 0.5s;
+}
+
+#mydialog button:hover {
+  transition: 0.3s;
+  color: white;
+  background-color: var(--button-hover);
+}
+
+#mydialog button:active {
+  background-color: Var(--button-active);
+}
+
+#mydialog button:focus {
+  background-color: Var(--button-active);
 }
 
 dialog::backdrop {
@@ -298,7 +323,7 @@ dialog::backdrop {
 
 /*bron chatgpt*/
 
-main ul {
+ul {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));
   gap: var(--whitespace);
@@ -308,8 +333,12 @@ main ul {
   margin: 0 auto;
 }
 
-main img {
+img {
   display: block;
   width: 100%;
   height: 100%;
+}
+
+details {
+  text-align: center;
 }
