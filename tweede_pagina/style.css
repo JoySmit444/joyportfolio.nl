@@ -22,6 +22,7 @@
 }
 
 html {
+  
   color: light-dark(#000, #fff);
   --whitespace-s: 1rem;
   --text: light-dark(black, white);

@@ -25,6 +25,7 @@ html {
   --whitespace-s: 1rem;
   scroll-padding-top: 6em;
 
+  
   @media (prefers-reduced-motion: no-preference) {
     scroll-behavior: smooth;
   }

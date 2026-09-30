@@ -55,7 +55,23 @@ Hiernaast had ik tuurlijk ook de kleuren gecheckt. Dezen klopten allemaal. hier 
 <img src="images/module2/contrast_bewijs_6.png">
 <img src="images/module2/contrast_bewijs_7.png">
 
-Hiernaast had ik natuurlijk ook de check list gedaan. Hier kwam weinig uit. Het meeste klopten. behalven het feit dat ik
+Hiernaast had ik natuurlijk ook de check list gedaan. Hier kwam weinig uit. Het meeste klopten. behalven het feit dat mijn tweede link van: miss Aura te moeilijk te lezen was.
+Hiernaast omdat ik weinig echte knoppen heb en veel A tags kwam ik hier veel op terug. Maar de echten knoppen hadden de button tag. En dat ik een home button heb toegevoegd. Om duidelijker en beter mensen die alleen hun toetsenboard kunnen gebruiken makelijker door de app heen kunnen.
+
+Hiernaast heb ik een vidoe toegevoegt! En hiernaast heb ik de light-dark duidelijker gemaakt. Zodat het contrast nog hoger is voor alles!
+bewijs hiervan:
+<img src="images/module2/aanpassingen_1.png">
+<img src="images/module2/aanpassingen_2.png">
+<img src="images/module2/aanpassingen_3.png">
+<img src="images/module2/aanpassingen_4.png">
+<img src="images/module2/aanpassingen_5.png">
+
+En het formulier hiervan:
+<img src="images/module2/rechten_formulier_1.jpeg">
+<img src="images/module2/rechten_formulier_2.jpeg">
+<img src="images/module2/rrechten_formulier_3.jpeg">
+<img src="images/module2/rechten_formulier_4.jpeg">
+<img src="images/module2/rechten_formulier_5.jpeg">
 
 ## 29 sep
 
