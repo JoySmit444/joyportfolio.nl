@@ -11,8 +11,10 @@
 :root {
   --goud: gold;
   --roze: pink;
-  --blauw: #001861;
+  --blauw: #0074d9;
   --silver: #c0c0c0;
+  --black: black;
+  --text: light-dark(black, white);
 }
 
 .achtergrond {
@@ -22,6 +24,7 @@
 html {
   color: light-dark(#000, #fff);
   --whitespace-s: 1rem;
+  --text: light-dark(black, white);
 }
 
 /*met mijn fotots duidelijk neerzetten, en de teksten verschuiven heeft Sanne mij bij gehulpen*/
@@ -65,6 +68,7 @@ H1 {
   text-wrap: balance;
   margin: --whitespace-s;
   text-align: center;
+  color: Var(--text);
 }
 
 h2 {
@@ -151,4 +155,35 @@ p:nth-of-type(2) {
 
 .button2:hover {
   transform: scale(1.05);
+}
+
+/* code van de codepen van de leraar*/
+a {
+  font-family: Sunsetpalm;
+  font-size: 25px;
+  margin: 1%;
+  padding-block: 0.5em;
+  padding-inline: 0.5em;
+  border-width: 0.3em;
+  border-style: solid;
+  border-radius: 1.5em;
+  transition: 0.5s;
+  background-color: var(--roze);
+  text-decoration: none;
+  color: Var(--black);
+  line-height: 50px;
+  display: inline-block;
+}
+
+a:hover {
+  transform: scale(1.1);
+}
+
+li {
+  list-style-type: none;
+}
+
+video {
+  max-width: 100%;
+  padding: 2%;
 }

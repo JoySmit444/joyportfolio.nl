@@ -11,13 +11,13 @@ html {
 
   --color-cyan: light-dark(darkcyan, cyan);
   --color-pink: light-dark(pink, #572649);
-  --color-blue: light-dark(#90d5ff, blue);
+  --color-blue: light-dark(#90d5ff, #0f5298);
   --color-dark: #333333;
   --color-light: #fefefe;
   --backdrop-dialog: light-dark(#ffffff66, #66339966);
-  --background-li1: #ffebef;
+  --background-li1: light-dark(#ffebef, #66339966);
   --background-summary: #572649;
-  --button-hover: #b33b72;
+  --button-hover: light-dark(#b33b72, #2b1b2a);
 
   --button-active: #8bc34a;
 
@@ -345,12 +345,13 @@ details {
 }
 
 #open-dialog {
-  background-color: white;
+  background-color: plum;
   border: 0.1em solid black;
   border-radius: 0.5em;
   padding: 0.5em 1em;
+  margin: 20px;
 }
 
 #open-dialog:hover {
-  background-color: Var(--button-hover);
+  background-color: #a53faa;
 }

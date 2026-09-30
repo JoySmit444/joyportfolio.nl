@@ -1,5 +1,62 @@
 # Model
 
+## 30 sep
+
+de check-out:
+-Waar staat WCAG en A11y voor?:
+De verschillende wetten om de privacy heen:
+WCAG:Web Content Accessibility Guidelines (WCAG)  
+A11y: A11y Project
+
+-Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
+Alleen met toetsenboard, Omdat ik met een screenreader er nog een beetje makkelijk doorheen click.
+
+-Met welke beperking rekening houden vind je het meest lastig?
+Vind je dat je beperkt wordt in wat je kunt ontwerpen?
+Of heb je al manieren gevonden om vanuit een solide basis - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
+Met toch echt mensen die een toetsenboard missen. Mijn websiyte is redelijk basic. Dus zijn er weinig echte dingen waar mensen niet omheen komen. Maar zonder toetsenboard omdat het veel tekst en weinig buttons zijn maakt dit het lastig om te navigeren.
+
+Feedback vanuit de testen;
+Voeg nog een duidelijke terug knop toe. Zodat mensen weer naar de main pagina gaan.
+Hiernaast Zou ik de knoppen van: ga naar miss aura, duidelijker kunnen maken.
+En mijn tab namen creatieveren namen kunen geven.
+Ook kan de ruimte tussen de iconenen beter. Vooral in model is het soms moeilijk om te scrollen.
+
+Ook zou ik graag nog een foto toe willen voegen
+
+De leesbaarheids test.
+Hieruit leerde ik dat mijn website duidelijk leesbaar en goed is.
+Eigelijk ging alles goed. Behalven het lezen van teksten waar hij wat moeite mee had. Maar dit kan ook liggen aan mijn computer kunsten.
+<img src="images/module2/lijsten_lezen.png">
+
+Voor de rest had ik weinig fouten. Maar is mijn website ook een website met veel tekst en daarin minder interactie. Dus is het ook makkelijker om er doorheen te komen.
+
+Het bewijs dat het tabbaar is. Hier ben ik eigelijk geen probleme tegengekomen behalven het feit dat ik een home button miss.
+<img src="images/module2/bewijs_tab_1.png">
+<img src="images/module2/bewijs_tab_2.png">
+<img src="images/module2/bewijs_tab_3.png">
+<img src="images/module2/bewijs_tab_4.png">
+<img src="images/module2/bewijs_tab_5.png">
+<img src="images/module2/bewijs_tab_6.png">
+
+Hiernaast kon hij alles zonder probleem lezen. Behalevn de lijsten, die kon ik lezen maar had hij een beetje moeite mee.. Maar dat kan ook aan mijn eigen skills zitten haha!
+<img src="images/module2/lezen_bewijs_1.png">
+<img src="images/module2/lezen_bewijs_2.png">
+<img src="images/module2/lezen_bewijs_3.png">
+<img src="images/module2/lezen_bewijs_4.png">
+
+<img src="images/module2/bewijs_van_link.png">
+
+Hiernaast had ik tuurlijk ook de kleuren gecheckt. Dezen klopten allemaal. hier waren geen contrast problemen in:
+<img src="images/module2/contrast_bewijs_1.png">
+<img src="images/module2/contrast_bewijs_2.png">
+<img src="images/module2/contrast_bewijs_3.png">
+<img src="images/module2/contrast_bewijs_4.png">
+<img src="images/module2/contrast_bewijs_6.png">
+<img src="images/module2/contrast_bewijs_7.png">
+
+Hiernaast had ik natuurlijk ook de check list gedaan. Hier kwam weinig uit. Het meeste klopten. behalven het feit dat ik
+
 ## 29 sep
 
 Hier had ik nog meer schetsen gemaakt. Voor deze schetsen wou ik verschillende dingen bereiken.
