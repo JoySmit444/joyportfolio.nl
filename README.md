@@ -1,5 +1,15 @@
 # Model
 
+## 2 okt.
+
+Vandaag hadden wij alleen de retrospective. En het feedback. De retrospective was here
+<img src="images/module2/2okt_retro_1.jpeg">
+<img src="images/module2/2okt_retro_2.jpeg">
+
+En de uitgewerkte tekening is:
+<img src="images/module2/2okt_retro_3.jpeg">
+Het betekend vooral dat ik eindelijk een beetje het eind er in kan zien. Omdat ik weer in het rooster kom. En omdat ik de code begin te begrijpen. Is het nu minder zwaar. Ook dingen zoals de stress coaching maakt het huiswerk minder zwaar.
+
 ## 30 sep
 
 de check-out:

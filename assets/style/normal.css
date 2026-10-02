@@ -11,6 +11,11 @@
   src: url(../type/Sunset\ Palm\ -\ Script\ Trial.otf);
 }
 
+@font-face {
+  font-family: learners;
+  src: url(../type/LettersforLearners.ttf);
+}
+
 :root {
   color-scheme: light dark;
 }
@@ -18,7 +23,19 @@
 /* de main elemten */
 html {
   color: light-dark(#000, #fff);
-  --button: pink;
+  --button: light-dark(pink, #b33b72);
+  --color-cyan: light-dark(darkcyan, cyan);
+  --color-pink: light-dark(pink, #b33b72);
+  --color-blue: light-dark(#90d5ff, #0f5298);
+  --color-dark: #333333;
+  --color-light: #fefefe;
+  --backdrop-dialog: light-dark(#ffffff66, #66339966);
+  --background-li1: light-dark(#ffebef, #66339966);
+  --background-summary: light-dark(#b36b43, #522f17);
+  --button-hover: light-dark(#b33b72, #2b1b2a);
+  --font: light-dark (black, white);
+
+  --button-active: #8bc34a;
 }
 
 body {
@@ -113,4 +130,90 @@ footer a {
   max-height: 950rem;
   padding: 5px;
   background-color: var(--button);
+}
+
+dialog {
+  background-color: Var(--button);
+  max-width: 80%;
+  font-family: learners;
+}
+
+/*bron hva AI*/
+
+#mydialog section summary {
+  font-family: Sunsetpalm;
+  font-size: 30px;
+  border-width: 0.1em;
+  border-style: solid;
+  border-color: var(--button-color);
+  border-radius: 0.5em;
+  padding: 10px;
+  background-color: var(--background-summary);
+  color: white;
+}
+
+#mydialog section li {
+  border-width: 0.1em;
+  border-style: solid;
+  border-color: var(--button-color);
+  border-radius: 0.5em;
+  padding: 10px;
+  background-color: var(--background-li1);
+  text-decoration: none;
+  list-style: none;
+}
+
+/*deze code heb ik genomen en aangepast van een codepen
+over de hovers*/
+#mydialog section button {
+  margin: 1%;
+  padding-block: 0.5em;
+  padding-inline: 1em;
+  border-width: 0.1em;
+  border-style: solid;
+  border-radius: 1.5em;
+  transition: 0.5s;
+}
+
+#mydialog button:hover {
+  transition: 0.3s;
+  color: white;
+  background-color: var(--button-hover);
+}
+
+#mydialog button:active {
+  background-color: Var(--button-active);
+}
+
+#mydialog button:focus {
+  background-color: Var(--button-active);
+}
+
+dialog::backdrop {
+  /*background-color: gainsboro;*/
+  backdrop-filter: blur(5px);
+}
+
+#open-dialog {
+  font-family: Sunsetpalm;
+  font-size: 20px;
+  background-color: Var(--color-pink);
+  border: 0.1em solid black;
+  border-radius: 0.5em;
+  padding: 0.5em 1em;
+  margin: 20px;
+}
+
+#open-dialog:hover {
+  transform: scale(1.15);
+}
+
+details {
+  text-align: center;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: Sunsetpalm;
+  font-size: 20px;
 }
