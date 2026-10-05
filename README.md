@@ -1,5 +1,83 @@
 # Model
 
+Ik heb de YMCA Gekozen, omdat dit een belangrijk nummer was voor de lgbt community in deze tijd. Zo heeft dit nummer veel dingen gedaan.
+
+Bronnen over de YMCA:
+http://www.glbtqarchive.com/ssh/ymca_S.pdf
+
+https://www.bbc.com/culture/article/20200804-the-gay-ecstasy-of-the-village-people
+
+OOk hebben wij als klas een artiekel gelezen over verschillende fonts en de manieren hoe deze overkomen in de geschiedenis en waar dit vandaag kwam. En hoe je deze het best kan gebruiken.
+Dit is de samenvatting hiervan die met mijn groep was gemaakt:
+Goede typografie draait niet om decoratie, maar om het helder en krachtig overbrengen van een boodschap. Door de geschiedenis en theorie van typografie te begrijpen, kunnen we bewuster en respectvoller met typografie omgaan.
+
+Wees tevens bewust welke tools je wanneer gebruikt, typografie is niet alleen decoratief, het is een tool om een motief uit te drukken
+
+En het bewijs van de artiekelen:
+<img src="images/module3/artiekel_1_5okt.jpeg">
+<img src="images/module3/artiekel_2_5okt.jpeg">
+<img src="images/module3/artiekel_3_5okt.jpegg">
+<img src="images/module3/artiekele_4_5okt.jpeg">
+<img src="images/module3/artiekele_5_5okt.jpeg">
+<img src="images/module3/artiekel_6_5okt.jpeg">
+<img src="images/module3/artiekele_7_5okt.jpeg">
+<img src="images/module3/artiekele_8_5okt.jpeg">
+
+Hiernaast heb ik goed en duidelijk gekeken naar de song tekst. wat het betekend en hoe ze met de tekst en beats iets door proberen te zetten.
+Hier heb ik schetsen van gemaakt. Deze schetsen waren:
+<img src="images/module3/schets_1_5_okt.jpeg">
+<img src="images/module3/schets_2_5okt.jpeg">
+<img src="images/module3/schets_3_5okt.jpeg">
+<img src="images/module3/schets_4_5okt.jpeg">
+<img src="images/module3/schets_5_5okt.jpeg">
+<img src="images/module3/schets_7_5okt.jpeg">
+<img src="images/module3/schets_6_5okt.jpeg">
+<img src="images/module3/schets_8+5okt.jpeg">
+<img src="images/module3/schets_8_5okt.jpeg">
+<img src="images/module3/schets_9_5okt.jpegg">
+
+Ook had ik een uitgewerkte schets hiervan gemaakt:
+<img src="images/module3/uitgewerkte_schets_5okt.png">
+
+check out:
+Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
+
+kerning: De afstand van letters in een woord verkleinen en vergroten. om het leesbaar te maken
+
+tracking: is hetzelfde maar dan over een groter geheel.
+
+leading: De ruimte tussen de zinnen van baisline naar baisline.
+
+flush-left: Dat alles op hetzelfde left punt begint
+
+flush-right: Dat alles op hetzelfde rigth punt begint.
+
+centered: dat iets in het midden zit.
+
+justified indent: Dat de tekste beide margines aanraakt. En dat alles een soort en box wordt.
+
+outdent: Is als de eerste lijn er anders uitzien als de anderen.
+
+modular scale: is de nette manier hoe je dingen scalt.
+
+movable type: een printer waar ze letters verplaatsen om een nieuwe print te maken.
+
+focus punt: Een groter of kleiner lettertype om verschillende dingen naar boven te zetten.
+
+vijf soorten contrast: typografie.
+groot klein,
+kleur
+positie,
+witruimtes.
+
+spatial tension: witruimte gebruiken om een emotie neer te zetten.
+
+Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+tussen 40 en 60 pixels. En omdat het dan het meest en duidelijkst leesbaar is.
+
+Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+groottwe. Omdat je daarmee het meeste herargie kan neerzetten
+
 ## 2 okt.
 
 Vandaag hadden wij alleen de retrospective. En het feedback. De retrospective was here
