@@ -1,0 +1,82 @@
+@font-face {
+  font-family: Sunsetpalm;
+  src: url(fonts/SunsetPalmScriptTrial.otf);
+}
+
+/* bron: hva ai*/
+body {
+  display: grid;
+  grid-template-areas:
+    "nav nav"
+    "text1 text2"
+    "text3 text4"
+    "text5 text6"
+    "text7 text7"
+    "text8 text8";
+}
+
+p:nth-of-type(1) {
+  font-size: 10vw;
+  grid-area: text1;
+  margin: auto;
+}
+
+p:nth-of-type(2) {
+  font-size: 1vw;
+  grid-area: text2;
+  margin: auto;
+}
+
+p:nth-of-type(3) {
+  font-size: 12vw;
+  grid-area: text3;
+  margin: auto;
+}
+p:nth-of-type(4) {
+  font-size: 1.5vw;
+  grid-area: text4;
+  margin: 10%;
+}
+
+p:nth-of-type(5) {
+  font-size: 15vw;
+  grid-area: text5;
+  margin: auto;
+}
+
+p:nth-of-type(6) {
+  font-size: 2vw;
+  grid-area: text6;
+  margin: 10%;
+}
+/* bron hva ai*/
+p:nth-of-type(7) {
+  grid-column: 1 / -1;
+  width: 100%;
+  margin: 10%;
+  font-size: 6vw;
+
+  white-space: nowrap;
+  text-align: justify;
+  text-align-last: justify;
+}
+
+p:nth-of-type(8) {
+  grid-column: 1 / -1;
+  width: 100%;
+  margin: 0.5%;
+  font-size: 27vw;
+  white-space: nowrap;
+  text-align: center;
+  text-align-last: center;
+  padding-bottom: 30px;
+  padding-top: 0.1px;
+}
+
+p {
+  margin: 7px;
+}
+
+lu {
+  grid-area: nav;
+}

@@ -1,5 +1,55 @@
 # Model
 
+## 6 okt
+
+Vandaag heb ik een begin gemaakt van de code. Ik heb de schets zo goed mogelijk proberen na te maken. Maar ik heb er een paar dingen aan veranderd, bijvoorbeeld de: young man heb ik op een anderen manier groter. en kleiner gemaakt. omdat dit beter pasten bij het lied,
+En er mooier uitzag
+<img src="images/module3/Eerste_concet_6okt.png">
+<img src="images/module3/eerste_concept_6okt.png">
+<img src="images/module3/Eeerste_concept_6okt.png">
+
+Hierbij moest ik helaas wel HVA AI gebruiken. Dit is het bewijs hiervoor:
+<img src="images/module3/grid_era_werktniet1.png">
+<img src="images/module3/grid_area_werktniet2.png">
+
+<img src="images/module3/lijn_1.png">
+<img src="images/module3/lijn_2.png">
+<img src="images/module3/lijn_3.png">
+<img src="images/module3/lijn_4.png">
+<img src="images/module3/lijn_5.png">
+<img src="images/module3/lijn_6.png">
+
+<img src="images/module3/lijnhoogte1.png">
+<img src="images/module3/lijnhoogte2.png">
+<img src="images/module3/lijnhoogte3.png">
+
+Hiernaast heb ik het artiekel gelezen en zijn hiet de notities van:
+Notes Technical Web Typography: Guidelines and Techniques:
+
+Het web is 95 typography. Want er valt veel te lezen.
+Creative and technische typgrofie.
+
+Creative is met veel design keuzes, en welke mood je bijvoorbeeld moet zetten.
+
+Technische is meer als een theorie. Waar regeles en regulaties aanvast zitten.
+
+- h1 = 24 pixels,
+- h2 = 22 pixels,
+- h3 = 20 pixels,
+- h4 = 18 pixels,
+- h5 = 16 pixels,
+- h6 = 16 pixels.
+
+ik had nog wat moeite met deze stoff, dus ik hoop daar morgen meer mee bezig te zijn.
+
+Hierna had ik de diepdive gedaan:
+Hier had ik geleerdt weer met position sticky te werken. En met dingen zoals welke anderen units ik kon gebruiken:
+
+<video width="320" height="240" controls>
+  <source src="images/module3/deepdive_6okt.mov" type="video/mp4">
+
+## 5 okt
+
 Ik heb de YMCA Gekozen, omdat dit een belangrijk nummer was voor de lgbt community in deze tijd. Zo heeft dit nummer veel dingen gedaan.
 
 Bronnen over de YMCA:
