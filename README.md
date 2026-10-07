@@ -1,5 +1,33 @@
 # Model
 
+## 7 okt
+
+Een bron die ik heb gebruikt voor blinking achtergrond light:
+https://www.youtube.com/watch?v=GqH8oyeNqpQ
+
+Hiernaast mocht ik verschillende versies maken van mijn tekst. Mijn eerste iditie was een concept waar ik het concept van: Dancen probeerden vast te stellen. Het is namelijk een dans concept.
+<img src="muziek/image/dans1.png">
+<img src="muziek/image/dans2.png">
+<img src="muziek/image/dans3.png">
+<img src="muziek/image/dans1.png">
+
+Hiernaast heb ik een wat seriuezen versie gemaakt:
+<img src="muziek/image/seriues_1.png">
+<img src="muziek/image/seriues_2.png">
+<img src="muziek/image/seriues_3.png">
+
+Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+Voor een ontwerper voor controle en voor een website die duidelijk en goed scaalt.
+voor bezoekers wordt het duidelijker, en overzicherlijker.
+
+Noem drie manieren om chaos in je ontwerp te voorkomen.
+Door een duidelijke grid toe te voegen.
+Door een duidelijke inline toe te voegen
+door herargie
+
+Hoeveel gekkigheid moet er in je werk zitten?
+Zoveel als je wilt? zolang de code maar klopt. Als het werk is voor een bedrijf is het mischien veel minder, maar vooral voor het digitale tuintje wordt het toch zeker uitgedaagt
+
 ## 6 okt
 
 Vandaag heb ik een begin gemaakt van de code. Ik heb de schets zo goed mogelijk proberen na te maken. Maar ik heb er een paar dingen aan veranderd, bijvoorbeeld de: young man heb ik op een anderen manier groter. en kleiner gemaakt. omdat dit beter pasten bij het lied,

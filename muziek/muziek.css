@@ -1,10 +1,21 @@
 @font-face {
-  font-family: Sunsetpalm;
-  src: url(fonts/SunsetPalmScriptTrial.otf);
+  font-family: Seraph;
+  src: url(fonts/SeraphsVF.woff2);
 }
 
 /* bron: hva ai*/
+html {
+  --roze: #ff3d7e;
+  --orange: #ff713d;
+  --geel: #ffb700;
+  --groen: #59ff38;
+  --blauw: #3dffdb;
+
+  --background-color: black;
+}
+
 body {
+  font-family: Seraph;
   display: grid;
   grid-template-areas:
     "nav nav"
@@ -12,65 +23,104 @@ body {
     "text3 text4"
     "text5 text6"
     "text7 text7"
-    "text8 text8";
+    "text8 text";
+
+  background-color: var(--background-color);
 }
 
 p:nth-of-type(1) {
+  color: var(--roze);
+  rotate: 20deg;
   font-size: 10vw;
   grid-area: text1;
-  margin: auto;
+  margin: 1%;
+  padding: 5%;
+  font-variation-settings:
+    "wght" 122,
+    "SRFS" 41;
 }
 
 p:nth-of-type(2) {
-  font-size: 1vw;
+  color: var(--orange);
+  rotate: 60deg;
+  font-size: 2vw;
   grid-area: text2;
-  margin: auto;
+  margin: 10%;
+  padding: 10%;
 }
 
 p:nth-of-type(3) {
-  font-size: 12vw;
+  color: var(--geel);
+  rotate: -10deg;
+  font-size: 10vw;
   grid-area: text3;
-  margin: auto;
+  margin: 1%;
+  padding: 5%;
+  justify-self: end;
+  font-variation-settings:
+    "wght" 144,
+    "SRFS" 41;
 }
 p:nth-of-type(4) {
-  font-size: 1.5vw;
+  color: var(--groen);
+  rotate: 20deg;
+  font-size: 2vw;
   grid-area: text4;
-  margin: 10%;
+  margin: 30%;
 }
 
 p:nth-of-type(5) {
-  font-size: 15vw;
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 60;
+  color: var(--blauw);
+  rotate: 20deg;
+  font-size: 10vw;
   grid-area: text5;
-  margin: auto;
+  margin: 1%;
+  padding: 30px;
 }
 
 p:nth-of-type(6) {
+  color: var(--roze);
+  rotate: -30deg;
   font-size: 2vw;
   grid-area: text6;
-  margin: 10%;
+  margin: 20%;
+  padding: 30px;
 }
+
 /* bron hva ai*/
 p:nth-of-type(7) {
-  grid-column: 1 / -1;
-  width: 100%;
-  margin: 10%;
-  font-size: 6vw;
-
-  white-space: nowrap;
-  text-align: justify;
+  color: var(--orange);
+  font-size: 4vw;
   text-align-last: justify;
+  margin: 10%;
 }
 
 p:nth-of-type(8) {
-  grid-column: 1 / -1;
-  width: 100%;
-  margin: 0.5%;
-  font-size: 27vw;
+  color: var(--geel);
+  font-size: 20vw;
   white-space: nowrap;
   text-align: center;
-  text-align-last: center;
-  padding-bottom: 30px;
+  writing-mode: sideways-lr;
+  margin: 0%;
+  padding: 0px;
+  justify-self: end;
+  font-variation-settings:
+    "wght" 100,
+    "SRFS" 16;
+}
+
+p:nth-of-type(9) {
+  color: var(--groen);
+  font-size: 15vw;
   padding-top: 0.1px;
+  margin: 2%;
+  padding: 0px;
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 60;
 }
 
 p {
