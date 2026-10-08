@@ -1,6 +1,48 @@
 # Model
 
+## 8 okt
+
+Helaas omdat ik mij echt niet lekker voelden kon ik weinig doen. En heb ik mijn best gedaan.
+
+Ik heb zo de artiekelen voor de weekly dive al gemaakt:
+de notes hiervan:
+
+Notes weekly geekly.
+
+From shrimp Jesus to erotic tractors: how viral AI slop took over the internet
+AI creaties hebben veel gedaan, maar zitten ook dingen zoals kunst erg in de weg.
+
+Maar het is ook een baan geworden. Dit zijn vaak heftigen beelden van mensen, die hopen dat iemand geld betaald om ze te krijgen.
+
+Hier is echt veel geld mee te verdienen.
+
+The Dead Internet Theory
+Platformen die draaien op views en likes hebben veel te maken met de dead internet theorie.
+
+Het is dat: omdat het zo vol zit met AI slop dat echt werk naar achteren wordt gestuurd.
+
+Dat dingen zoals comments niet meer door mensen zijn.
+
+En dat alles gereguleerd wordt door AI.
+
+Een bot is een software die geprogrammeerd is om iets te doen, dit doet hij automatisch.
+
+Dit kan voor legale als illegale dingen.
+
+Maar de ‘bad bots’ hebben laatst de mensen overgenomene in de wereld van social media. To wel 51% waarin mensen 49% was.
+
+Dingen die dit kan creëren is: dat bedrijven alles over nemen.
+Dat ruimtes over worden genomen door ia.
+Dat je makkelijk meningen van mensen kan veranderen door nep nieuwes.
+
+Dit betekende dat bedrijven controle hebben. Dat AI bepaald wat wel en niet viral gaat en geld verdient.
+
+Om dit tegen te gaan moeten er meer ethische bots gebouwd worden.
+En moeten meer gerviewed worden door echte mensen.
+
 ## 7 okt
+
+DIT ONDERDEEL (DE LYRSICH) KAN JE ZIEN ALS JE VIA DE HOME PAGINA OP DE KNOP: SPRINT 2 KLIKT!.
 
 Een bron die ik heb gebruikt voor blinking achtergrond light:
 https://www.youtube.com/watch?v=GqH8oyeNqpQ
@@ -16,6 +58,12 @@ Hiernaast heb ik een wat seriuezen versie gemaakt:
 <img src="muziek/image/seriues_2.png">
 <img src="muziek/image/seriues_3.png">
 
+Ik heb voor fonts geprobeerdt zo veel mogelijk nadruk geef aan de belangrijke dingen, door het font groter en minder groot te maken.
+Hiernaast heb ik een regenboog disco gemaakt. Om en de disco van deze tijd te representeren. Maar ook wat dit lied heeft betekend voor de LGBT communitie.
+<img src="muziek/image/kleur_1.png">
+<img src="muziek/image/kleur_2.png">
+<img src="muziek/image/kleur_3.png">
+
 Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
 Voor een ontwerper voor controle en voor een website die duidelijk en goed scaalt.
 voor bezoekers wordt het duidelijker, en overzicherlijker.
@@ -27,6 +75,13 @@ door herargie
 
 Hoeveel gekkigheid moet er in je werk zitten?
 Zoveel als je wilt? zolang de code maar klopt. Als het werk is voor een bedrijf is het mischien veel minder, maar vooral voor het digitale tuintje wordt het toch zeker uitgedaagt
+
+Hiernaast heb ik nog een deep dive gedaan. Deze ging over animeren met verschillende fonts:
+
+<img src="images/module3/deepdive_7okt.png">
+<img src="images/module3/deepdive_7okt2.png">
+<img src="images/module3/deepdive_7okt3.png">
+<img src="images/module3/deepdive_7okt5.mov">
 
 ## 6 okt
 
