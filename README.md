@@ -1,5 +1,49 @@
 # Model
 
+## 15 okt
+
+Hier had ik het werk proberen in te halen dat ik door ziekten heb gemist.
+Hier had ik de schetsen gemaakt voor de animaties doe ik graag zou willen zien:
+<img src="images/module3/animatie_schetsen.jpg">
+
+Hiernaast ik had de vorige keer al duidelike fonts toegevoegt die whimsy toevoegenden, Alleen als ik nog meer moet veranderen zou ik mischien dikkeren en meer verschillenden schreven toevoegen.
+
+Helaas kon ik niet feedback op doen
+
+Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
+Sans
+SemiSans
+Serif
+Slab
+Wedge
+Tuskan
+Calligraphic
+Light
+Regular
+Medium
+Semi Bold
+Bold
+
+En ik gebruik veel light en bold
+
+Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
+Ik wil het grappig en dansig maken. En ik wil dat je weet in welke volgorden je alles leest.
+
+Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?
+door alles dansender te maken
+
+hierna heb ik ook de deep dive gemaakt.
+Ik ben dat ik animeren met css erg leuk en uitdagend vind. Maar in alle eerlijkheid javascript echt helemaal niks haha!
+
+<video width="320" height="240" controls>
+  <source src="images/module3/deep_dive_animeren1.mov" type="video/mp4">
+
+<video width="320" height="240" controls>
+  <source src="images/module3/deep_dive_animeren2.mov" type="video/mp4">
+
+  <video width="320" height="240" controls>
+  <source src="images/module3/deep_dive_animeren3.mov" type="video/mp4">
+
 ## 8 okt
 
 Helaas omdat ik mij echt niet lekker voelden kon ik weinig doen. En heb ik mijn best gedaan.
