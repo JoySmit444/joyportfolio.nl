@@ -38,6 +38,19 @@ p:nth-of-type(1) {
   font-variation-settings:
     "wght" 122,
     "SRFS" 41;
+
+  animation-name: draai;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes draai {
+  0% {
+    rotate: 0deg;
+  }
+  100% {
+    rotate: 180deg;
+  }
 }
 
 p:nth-of-type(2) {
@@ -60,7 +73,21 @@ p:nth-of-type(3) {
   font-variation-settings:
     "wght" 144,
     "SRFS" 41;
+
+  animation-name: draai;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
 }
+
+@keyframes draai {
+  0% {
+    rotate: 0deg;
+  }
+  100% {
+    rotate: 180deg;
+  }
+}
+
 p:nth-of-type(4) {
   color: var(--groen);
   rotate: 20deg;
@@ -79,6 +106,19 @@ p:nth-of-type(5) {
   grid-area: text5;
   margin: 1%;
   padding: 30px;
+
+  animation-name: draai;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes draai {
+  0% {
+    rotate: 0deg;
+  }
+  100% {
+    rotate: 180deg;
+  }
 }
 
 p:nth-of-type(6) {
@@ -96,6 +136,22 @@ p:nth-of-type(7) {
   font-size: 4vw;
   text-align-last: justify;
   margin: 10%;
+  animation-name: --delay-animation;
+  animation-duration: 0.2s;
+  animation-iteration-count: infinite;
+}
+
+/* van de codepen van sanne*/
+@keyframes --delay-animation {
+  0% {
+    translate: 0 0;
+  }
+  50% {
+    translate: 0 -0.5em;
+  }
+  100% {
+    translate: 0 0;
+  }
 }
 
 p:nth-of-type(8) {
@@ -121,6 +177,17 @@ p:nth-of-type(9) {
   font-variation-settings:
     "wght" 200,
     "SRFS" 60;
+  animation: heenEnWeer 2s ease-in-out infinite alternate;
+}
+
+/* deze had ik van de ww.school gepakt*/
+@keyframes heenEnWeer {
+  0% {
+    transform: translateX(0) 0;
+  }
+  100% {
+    transform: translateX(200px); /* Eindpositie */
+  }
 }
 
 p {

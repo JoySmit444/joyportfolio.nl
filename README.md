@@ -1,5 +1,40 @@
 # Model
 
+## 19 okt.
+
+Eerst had ik gekeken naar hoe webby mijn website is.
+Dit waren de conclussies hiervan.
+
+Ik zou meer animaites wilen toevoegen, zodat ik meer diversiteit heb in mijn website.
+En moet ik nog van mijn songtekst pagina een home knop maken want deze was niet indrukbaar in de telefoon app.
+
+Hier is de screenshot hiervan:
+<img src="images/module3/webby_19_okt.jpeg">
+
+Hiernaast heb ik feedback gevraagt van jesse. Dit was het feedback die hij had:
+<img src="images/module3/feedback_jesse_19okt.jpeg">
+
+Hij maakt een goed punt dan ik mijn fonts iets wat beter kon kiezen, vooral voor mijn koppen, hier ga ik naar kijken.
+Ook bracht hij mij op een idee om mijn cookies transitie van open naar sluit te animeren. Omdat ik moeite had met animaties toe te voegen in mijn website.
+
+Ik heb gelijk aan de animaties gewerkt. Helaas moest ik wat meer AI gebruiken als ik normaal comfertable mee ben. Ik had geprobeerdt het op anderen manieren te vragen , en veel te googelen, maar helaas kwam ik er echt niet uit. Hier is het bewijs.
+<img src="images/module3/chat_19_okt1.png">
+<img src="images/module3/chat_19_okt2.png">
+<img src="images/module3/chat_19_okt3.png">
+<img src="images/module3/chat_19_okt4.png">
+<img src="images/module3/chat_19_okt5.png">
+
+Dit heb ik aangepast.
+En zo ziet dit er nu uit in mijn website.
+<video width="320" height="240" controls>
+
+  <source src="images/module3/animaites_cookies_19okt.mov type="video/mp4">
+
+En hiernaast heb ik animaties toegevoegt bij het lyrsich pagina om het idee van dansen weer toe te voegen
+<video width="320" height="240" controls>
+
+  <source src="images/module3/animaties_lyrsich_19okt.movtype="video/mp4">
+
 ## 15 okt
 
 Hier had ik het werk proberen in te halen dat ik door ziekten heb gemist.
