@@ -10,16 +10,17 @@
 
 /* bron: hva ai*/
 html {
-  --roze: #ff3d7e;
-  --orange: #ff713d;
-  --geel: #ffb700;
-  --groen: #59ff38;
-  --blauw: #3dffdb;
-
-  --background-color: black;
+  color-scheme: light dark;
+  --roze: light-dark(#ff3d7e, black);
+  --orange: light-dark(#ff713d, black);
+  --geel: light-dark(#ffb700, black);
+  --groen: light-dark(#59ff38, black);
+  --blauw: light-dark(#3dffdb, black);
+  --background-color: light-dark(black, white);
 }
 
 body {
+  color-scheme: light dark;
   font-family: Seraph;
   display: grid;
   grid-template-areas:
@@ -82,6 +83,7 @@ p:nth-of-type(3) {
   animation-name: draai;
   animation-duration: 3s;
   animation-iteration-count: infinite;
+  animation-delay: 3s;
 }
 
 @keyframes draai {
@@ -115,6 +117,7 @@ p:nth-of-type(5) {
   animation-name: draai;
   animation-duration: 3s;
   animation-iteration-count: infinite;
+  animation-delay: 6s;
 }
 
 @keyframes draai {
