@@ -8,6 +8,11 @@
   src: url(fonts/LettersforLearners.ttf);
 }
 
+@font-face {
+  font-family: worldDisco;
+  src: url(fonts/WorldDiscovery_PERSONAL_USE_ONLY.otf);
+}
+
 :root {
   --goud: gold;
   --roze: pink;
@@ -66,18 +71,18 @@ body {
 }
 
 H1 {
-  font-family: Sunsetpalm;
-  font-size: 12vw;
-  line-height: 0.7;
+  font-family: worldDisco;
+  font-size: 6vw;
+  line-height: 1;
   text-wrap: balance;
   margin: --whitespace-s;
   text-align: center;
 }
 
 h2 {
-  font-family: Sunsetpalm;
-  font-size: 5vw;
-  line-height: 0.1;
+  font-family: worldDisco;
+  font-size: 3vw;
+  line-height: 3;
   text-wrap: balance;
 }
 
@@ -170,8 +175,8 @@ section:nth-of-type(2) img {
 }
 
 a {
-  font-family: Sunsetpalm;
-  font-size: 25px;
+  font-family: worldDisco;
+  font-size: 10px;
   margin: 1%;
   padding-block: 0.5em;
   padding-inline: 0.5em;
@@ -182,7 +187,7 @@ a {
   background-color: var(--roze);
   text-decoration: none;
   color: Var(--black);
-  line-height: 50px;
+  line-height: 30px;
   display: inline-block;
 }
 
@@ -197,13 +202,14 @@ li {
 dialog {
   background-color: Var(--button);
   max-width: 80%;
+  padding: 40;
   font-family: learners;
 }
 
 dialog a {
   font-family: learners;
-  font-size: 25px;
-  padding: 0.5em;
+  font-size: 30px;
+  padding: 30em;
   border: 0.3em solid black;
   border-radius: 1.5em;
   line-height: 1;
@@ -213,8 +219,8 @@ dialog a {
 /*bron hva AI*/
 
 #mydialog section summary {
-  font-family: Sunsetpalm;
-  font-size: 30px;
+  font-family: worldDisco;
+  font-size: 20px;
   border-width: 0.1em;
   border-style: solid;
   border-color: var(--button-color);
@@ -230,7 +236,7 @@ dialog a {
   border-style: solid;
   border-color: var(--button-color);
   border-radius: 0.5em;
-  padding: 10px;
+  padding: 20px;
   background-color: var(--background-li1);
   text-decoration: none;
   list-style: none;
@@ -268,7 +274,7 @@ dialog::backdrop {
 }
 
 #open-dialog {
-  font-family: Sunsetpalm;
+  font-family: worldDisco;
   font-size: 20px;
   background-color: Var(--color-pink);
   border: 0.1em solid black;
@@ -299,6 +305,12 @@ details {
 }
 
 #mydialog h1 {
-  font-family: Sunsetpalm;
+  font-family: worldDisco;
   font-size: 60px;
+}
+/* hier had ik hva voor gebruikt*/
+#mydialog p {
+  padding-left: 10px;
+  font-size: 20px;
+  line-height: 1.4;
 }

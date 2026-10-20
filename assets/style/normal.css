@@ -16,6 +16,11 @@
   src: url(../type/LettersforLearners.ttf);
 }
 
+@font-face {
+  font-family: worldDisco;
+  src: url(../type/WorldDiscovery_PERSONAL_USE_ONLY.otf);
+}
+
 :root {
   color-scheme: light dark;
 }
@@ -85,12 +90,12 @@ a:nth-of-type(1) {
   flex-direction: column;
   grid-column-start: 1;
   grid-column-end: 3;
-  font-size: 40px;
+  font-size: 15px;
 }
 
 @media (max-width: 670px) {
   a:nth-of-type(1) {
-    font-size: 25px;
+    font-size: 15px;
   }
 }
 
@@ -123,7 +128,7 @@ a:hover {
     flex-direction: column;
     grid-column-start: 2;
     grid-column-end: 2;
-    font-size: 25px;
+    font-size: 15px;
   }
 }
 
@@ -132,13 +137,13 @@ code van een anderen button gebruikt*/
 
 footer a {
   border: 3.5px solid #000;
-  font-family: Sunsetpalm;
-  font-size: 30px;
+  font-family: worldDisco;
+  font-size: 15px;
   color: black;
   border-radius: 40%;
   text-align: center;
   text-decoration: none;
-  margin: 10%;
+  margin: 5%;
   max-width: 10rem;
   max-height: 950rem;
   padding: 5px;
@@ -154,8 +159,8 @@ dialog {
 /*bron hva AI*/
 
 #mydialog section summary {
-  font-family: Sunsetpalm;
-  font-size: 30px;
+  font-family: worldDisco;
+  font-size: 15px;
   border-width: 0.1em;
   border-style: solid;
   border-color: var(--button-color);
@@ -174,6 +179,7 @@ dialog {
   background-color: var(--background-li1);
   text-decoration: none;
   list-style: none;
+  font-size: 15px;
 }
 
 /*deze code heb ik genomen en aangepast van een codepen
@@ -208,13 +214,14 @@ dialog::backdrop {
 }
 
 #open-dialog {
-  font-family: Sunsetpalm;
+  font-family: worldDisco;
   font-size: 20px;
   background-color: Var(--color-pink);
   border: 0.1em solid black;
   border-radius: 0.5em;
   padding: 0.5em 1em;
   margin: 20px;
+  font-size: 15px;
 }
 
 /* helaas heb ik hiervoor hva ai moeten gebruiken na dingen zoals
@@ -235,6 +242,7 @@ www.schools gebruikt te hebben en waarna niks klopten*/
 
 #open-dialog:hover {
   transform: scale(1.15);
+  font-size: 15px;
 }
 
 details {
@@ -243,8 +251,12 @@ details {
 }
 
 h1 {
-  font-family: Sunsetpalm;
+  font-family: worldDisco;
   font-size: 20px;
 }
 
 /*deze code heb ik genomen van de deep dive van animaties*/
+/* dit moest ik helaas aan chatgpt vragen*/
+#mydialog a {
+  font-size: 15px;
+}

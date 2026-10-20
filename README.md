@@ -1,5 +1,32 @@
 # Model
 
+## 20 okt
+
+Vandaag had ik de feedback elementen verwerkt.
+Eerst had ik gekeken naar hoe ik mijn voor pagina beter kon maken. Dit heb ik gemaakt met @media.
+Het is leuk als code klikt in je hoofd, want ineens heb je veel meer mogelijkheden.
+ik moest wel 1 vraag stellen aan chat gpt:
+<img src="images/module3/vraag_chat20okt_1.png">
+<img src="images/module3/vraag_chat20okt_2.png">
+
+Nu ziet mijn website er zo uit:
+<img src="images/module3/website_nieuw.png">
+Wat er nu beter is dat er minder ruimter zit aan de kant van de pagina. Dit ziet er beter uit, en is meer adaptive
+Helaas zit er nog wat extra ruimte op de mobiel versie. Dit weet ik helaas niet hoe ik dit moet oplossen.
+
+Ook had ik de knoppen aangepast zodat hij als de pagina groter en kleiner wordt de knopen niet rare dingen doen zoals ze eerder deden. Nu bewegen ze perfect mee.
+
+Hierna ging ik werken aan mijn verschillende fonts. Ik had een font gevonden die hetzelfde concept door gaf, maar iets wat beter leesbaar is. Zo ziet dit er nu uit.
+<img src="images/module3/nieuw_font_2.png">
+<img src="images/module3/nieuw_font_3.png">
+<img src="images/module3/nieuw_font_4.png">
+
+Helaas moest ik wel hva ia hiervoor gebruiken.
+Dit is het bewijs hiervan
+<img src="images/module3/chatia_20okt_1.png">
+<img src="images/module3/chatai_20okt_2.png">
+<img src="images/module3/chatai_20okt_3.png">
+
 ## 19 okt.
 
 Eerst had ik gekeken naar hoe webby mijn website is.
