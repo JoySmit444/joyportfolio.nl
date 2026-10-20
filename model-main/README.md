@@ -1,4 +1,17 @@
 # Model
+## 19 okt.
+Eerst had ik gekeken naar hoe webby mijn website is. 
+Dit waren de conclussies hiervan. 
+
+Ik zou meer animaites wilen toevoegen, zodat ik meer diversiteit heb in mijn website. 
+En moet ik nog van mijn songtekst pagina een home knop maken want deze was niet indrukbaar in de telefoon app. 
+
+Hier is de screenshot hiervan: 
+
+
+Hiernaast heb ik feedback gevraagt van jesse. Dit was het feedback die hij had: 
+
+
 
 ## 15 okt
 
