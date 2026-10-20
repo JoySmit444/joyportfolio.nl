@@ -3,6 +3,11 @@
   src: url(fonts/SeraphsVF.woff2);
 }
 
+@font-face {
+  font-family: worldDisco;
+  src: url(fonts/WorldDiscovery_PERSONAL_USE_ONLY.otf);
+}
+
 /* bron: hva ai*/
 html {
   --roze: #ff3d7e;
@@ -196,4 +201,21 @@ p {
 
 lu {
   grid-area: nav;
+}
+
+a {
+  font-family: worldDisco;
+  font-size: 20px;
+  margin: 1%;
+  padding-block: 0.5em;
+  padding-inline: 0.5em;
+  border-width: 0.3em;
+  border-style: solid;
+  border-radius: 1.5em;
+  transition: 0.5s;
+  background-color: var(--roze);
+  text-decoration: none;
+  color: Var(--black);
+  line-height: 30px;
+  display: inline-block;
 }

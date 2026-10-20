@@ -27,6 +27,10 @@ Dit is het bewijs hiervan
 <img src="images/module3/chatai_20okt_2.png">
 <img src="images/module3/chatai_20okt_3.png">
 
+Hiernaast had ik ook de knop op mijn animatie veranderd zodat op mobiel het makkelijker is om naar de home pagina te gaan.
+Dit is hoe dit eruit ziet:
+<img src="images/module3/nieuwe_home_pagina.png">
+
 ## 19 okt.
 
 Eerst had ik gekeken naar hoe webby mijn website is.
