@@ -261,6 +261,7 @@ dialog a {
   border-style: solid;
   border-color: var(--button-color);
   border-radius: 0.5em;
+  margin: 1%;
   padding: 10px;
   background-color: var(--background-summary);
   color: white;
@@ -272,10 +273,8 @@ dialog a {
   border-style: solid;
   border-color: var(--button-color);
   border-radius: 0.5em;
-  padding: 20px;
   background-color: var(--background-li1);
   text-decoration: none;
-  list-style: none;
   font-size: 15px;
 }
 
@@ -327,6 +326,7 @@ dialog::backdrop {
 details {
   text-align: center;
   text-decoration: none;
+  background-color: var(--backdrop-dialog);
 }
 
 #mydialog details a {

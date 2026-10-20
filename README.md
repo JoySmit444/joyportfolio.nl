@@ -45,6 +45,17 @@ Dit is het voorbeeld hiervan:
 en hoe het feedback eruit zag.
 <img src="images/module3/feedback_songtext.jpeg">
 
+Hiernaast had ik mijn lyrsich pagina groter gemaakt vanuit feedback van de leraar.
+Ik probeerden hetzelfde concept door te voeren als ik daarvoor had gedaan:
+<img src="images/module3/nieuwymca_1.png">
+<img src="images/module3/nieuwymca_2.png">
+<img src="images/module3/nieuwymca_3.png">
+<img src="images/module3/nieuwymca_4.png">
+<img src="images/module3/nieuwymca_5.png">
+
+Ook had ik feedback gevraagt over mijn website, en kon vasilis wat fouten zien in mijn cookies. Dit heb ik aangepast.
+<img src="images/module3/nieuwe_cookies.png">
+
 ## 19 okt.
 
 Eerst had ik gekeken naar hoe webby mijn website is.

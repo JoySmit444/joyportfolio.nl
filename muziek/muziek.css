@@ -242,7 +242,7 @@ a {
 }
 
 p:nth-of-type(10) {
-  color: var(--groen);
+  color: var(--roze);
   font-size: 5vw;
   padding-top: 0.1px;
   margin: 2%;
@@ -254,7 +254,7 @@ p:nth-of-type(10) {
 }
 
 p:nth-of-type(11) {
-  color: var(--groen);
+  color: var(--orange);
   font-size: 5vw;
   padding-top: 0.1px;
   margin: 2%;
@@ -266,7 +266,7 @@ p:nth-of-type(11) {
 }
 
 p:nth-of-type(12) {
-  color: var(--groen);
+  color: var(--geel);
   font-size: 15vw;
   padding-top: 0.1px;
   margin: 2%;
@@ -291,7 +291,7 @@ p:nth-of-type(13) {
 }
 
 p:nth-of-type(14) {
-  color: var(--groen);
+  color: var(--blauw);
   font-size: 20vw;
   padding-top: 0.1px;
   margin: 2%;
@@ -306,7 +306,7 @@ p:nth-of-type(14) {
 p:nth-of-type(15) {
   justify-self: left;
   align-self: center;
-  color: var(--groen);
+  color: var(--roze);
   font-size: vw;
   margin: 2%;
   padding: 0px;
@@ -320,7 +320,7 @@ p:nth-of-type(15) {
 p:nth-of-type(16) {
   justify-self: stretch;
   align-self: stretch;
-  color: var(--groen);
+  color: var(--orange);
   grid-area: text18;
   text-align-last: justify;
   margin: 10%;
@@ -333,7 +333,7 @@ p:nth-of-type(16) {
 p:nth-of-type(17) {
   justify-self: center;
   align-self: center;
-  color: var(--groen);
+  color: var(--geel);
   font-size: 10vw;
   padding: 0px;
   grid-area: text19;
@@ -344,7 +344,7 @@ p:nth-of-type(17) {
 }
 
 p:nth-of-type(18) {
-  color: var(--geel);
+  color: var(--groen);
   font-size: 10vw;
   white-space: nowrap;
   text-align: center;
@@ -358,7 +358,7 @@ p:nth-of-type(18) {
 }
 
 p:nth-of-type(19) {
-  color: var(--geel);
+  color: var(--blauw);
   font-size: 1vw;
   margin: 0%;
   padding: 0px;
@@ -370,7 +370,7 @@ p:nth-of-type(19) {
 }
 
 p:nth-of-type(20) {
-  color: var(--groen);
+  color: var(--roze);
   font-size: 20vw;
   grid-area: text22;
   justify-self: stretch;
@@ -381,7 +381,7 @@ p:nth-of-type(20) {
 }
 
 p:nth-of-type(21) {
-  color: var(--groen);
+  color: var(--orange);
   font-size: 2vw;
   grid-area: text23;
   justify-self: center;
@@ -392,7 +392,7 @@ p:nth-of-type(21) {
 }
 
 p:nth-of-type(22) {
-  color: var(--groen);
+  color: var(--geel);
   font-size: 30vw;
   grid-area: text24;
   justify-self: end;
@@ -414,7 +414,7 @@ p:nth-of-type(23) {
 }
 
 p:nth-of-type(24) {
-  color: var(--groen);
+  color: var(--blauw);
   font-size: 3vw;
   grid-area: text26;
   justify-self: end;
@@ -425,7 +425,7 @@ p:nth-of-type(24) {
 }
 
 p:nth-of-type(25) {
-  color: var(--groen);
+  color: var(--roze);
   font-size: 7vw;
   grid-area: text28;
   justify-self: center;
@@ -436,7 +436,7 @@ p:nth-of-type(25) {
 }
 
 p:nth-of-type(26) {
-  color: var(--groen);
+  color: var(--orange);
   font-size: 15vw;
   grid-area: text30;
   font-variation-settings:
@@ -445,7 +445,7 @@ p:nth-of-type(26) {
 }
 
 p:nth-of-type(27) {
-  color: var(--groen);
+  color: var(--geel);
   font-size: 15vw;
   grid-area: text31;
   justify-self: center;
@@ -467,7 +467,7 @@ p:nth-of-type(28) {
 }
 
 p:nth-of-type(29) {
-  color: var(--groen);
+  color: var(--blauw);
   font-size: 10vw;
   grid-area: text33;
   writing-mode: sideways-lr;
@@ -477,7 +477,7 @@ p:nth-of-type(29) {
 }
 
 p:nth-of-type(30) {
-  color: var(--groen);
+  color: var(--roze);
   font-size: 20vw;
   grid-area: text34;
   white-space: nowrap;
@@ -490,7 +490,7 @@ p:nth-of-type(30) {
 }
 
 p:nth-of-type(31) {
-  color: var(--groen);
+  color: var(--orange);
   font-size: 3vw;
   grid-area: text35;
   justify-self: center;

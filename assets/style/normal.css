@@ -248,12 +248,13 @@ www.schools gebruikt te hebben en waarna niks klopten*/
 details {
   text-align: center;
   text-decoration: none;
-  background-color: var(--button);
+  background-color: white;
 }
 
 h1 {
   font-family: worldDisco;
   font-size: 20px;
+  text-align: center;
 }
 
 /*deze code heb ik genomen van de deep dive van animaties*/

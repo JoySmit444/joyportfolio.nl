@@ -228,6 +228,7 @@ dialog a {
   padding: 10px;
   background-color: var(--background-summary);
   color: white;
+  margin: 5px;
 }
 
 #mydialog section li {
@@ -280,7 +281,7 @@ dialog::backdrop {
   border: 0.1em solid black;
   border-radius: 0.5em;
   padding: 0.5em 1em;
-  margin: 20px;
+  margin: 10px;
 }
 
 #open-dialog:hover {
@@ -290,6 +291,7 @@ dialog::backdrop {
 details {
   text-align: center;
   text-decoration: none;
+  background-color: var(--backdrop-dialog);
 }
 
 #mydialog details a {
@@ -306,7 +308,7 @@ details {
 
 #mydialog h1 {
   font-family: worldDisco;
-  font-size: 60px;
+  font-size: 40px;
 }
 /* hier had ik hva voor gebruikt*/
 #mydialog p {

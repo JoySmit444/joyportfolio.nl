@@ -342,6 +342,7 @@ img {
 
 details {
   text-align: center;
+  background-color: var(--backdrop-dialog);
 }
 
 #open-dialog {

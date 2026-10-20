@@ -31,6 +31,31 @@ Hiernaast had ik ook de knop op mijn animatie veranderd zodat op mobiel het makk
 Dit is hoe dit eruit ziet:
 <img src="images/module3/nieuwe_home_pagina.png">
 
+Hiernaast had ik feedback gevraagt op mijn lyrsich pagina omdat ik deze vrijdag niet mee had kunnen pakken.
+Mijn feedback was dat ik een delay kon zetten tussen mijn 'young man' Dit heb ik gedaan. zodat het meer lijkt op dit het nummer.
+
+Hiernaast heb ik een light dark toegevoegt. Zodat hij aan de regels van de opdracht valt. maar ook de kleuren en de betekenisen hebt.
+
+Dit is het voorbeeld hiervan:
+
+  <source src="images/module3/kleuren_veranderen.mov type="video/mp4">
+
+<source src="images/module3/draaien.movtype="video/mp4">
+
+en hoe het feedback eruit zag.
+<img src="images/module3/feedback_songtext.jpeg">
+
+Hiernaast had ik mijn lyrsich pagina groter gemaakt vanuit feedback van de leraar.
+Ik probeerden hetzelfde concept door te voeren als ik daarvoor had gedaan:
+<img src="images/module3/nieuwymca_1.png">
+<img src="images/module3/nieuwymca_2.png">
+<img src="images/module3/nieuwymca_3.png">
+<img src="images/module3/nieuwymca_4.png">
+<img src="images/module3/nieuwymca_5.png">
+
+Ook had ik feedback gevraagt over mijn website, en kon vasilis wat fouten zien in mijn cookies. Dit heb ik aangepast.
+<img src="images/module3/nieuwe_cookies.png">
+
 ## 19 okt.
 
 Eerst had ik gekeken naar hoe webby mijn website is.
