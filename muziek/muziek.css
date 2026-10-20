@@ -16,7 +16,7 @@ html {
   --geel: light-dark(#ffb700, black);
   --groen: light-dark(#59ff38, black);
   --blauw: light-dark(#3dffdb, black);
-  --background-color: light-dark(black, white);
+  --background-color: light-dark(black, pink);
 }
 
 body {
@@ -29,7 +29,21 @@ body {
     "text3 text4"
     "text5 text6"
     "text7 text7"
-    "text8 text";
+    "text8 text9"
+    "text10 text11"
+    "text12 text13"
+    "text12 text13"
+    "text14 text15"
+    "text16 text17"
+    "text18 text19"
+    "text20 text21"
+    "text22 text23"
+    "text24 text25"
+    "text26 text27"
+    "text28 text29"
+    "text30 text31"
+    "text32 text33"
+    "text34 text35";
 
   background-color: var(--background-color);
 }
@@ -149,6 +163,10 @@ p:nth-of-type(7) {
   animation-iteration-count: infinite;
 }
 
+p:nth-of-type(8) {
+  color: blue;
+}
+
 /* van de codepen van sanne*/
 @keyframes --delay-animation {
   0% {
@@ -221,4 +239,263 @@ a {
   color: Var(--black);
   line-height: 30px;
   display: inline-block;
+}
+
+p:nth-of-type(10) {
+  color: var(--groen);
+  font-size: 5vw;
+  padding-top: 0.1px;
+  margin: 2%;
+  padding: 0px;
+  grid-area: text10;
+  font-variation-settings:
+    "wght" 100,
+    "SRFS" 0;
+}
+
+p:nth-of-type(11) {
+  color: var(--groen);
+  font-size: 5vw;
+  padding-top: 0.1px;
+  margin: 2%;
+  padding: 0px;
+  grid-area: text11;
+  font-variation-settings:
+    "wght" 100,
+    "SRFS" 0;
+}
+
+p:nth-of-type(12) {
+  color: var(--groen);
+  font-size: 15vw;
+  padding-top: 0.1px;
+  margin: 2%;
+  padding: 0px;
+  grid-area: text12;
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 60;
+}
+
+p:nth-of-type(13) {
+  align-items: start;
+  color: var(--groen);
+  font-size: 3vw;
+  padding-top: 0.1px;
+  margin: 2%;
+  padding: 0px;
+  grid-area: text15;
+  font-variation-settings:
+    "wght" 100,
+    "SRFS" 0;
+}
+
+p:nth-of-type(14) {
+  color: var(--groen);
+  font-size: 20vw;
+  padding-top: 0.1px;
+  margin: 2%;
+  padding: 0px;
+  grid-area: text16;
+  text-align-last: justify;
+  margin: 10%;
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 0;
+}
+p:nth-of-type(15) {
+  justify-self: left;
+  align-self: center;
+  color: var(--groen);
+  font-size: vw;
+  margin: 2%;
+  padding: 0px;
+  grid-area: text17;
+  text-align-last: justify;
+  font-variation-settings:
+    "wght" 133,
+    "SRFS" 60;
+}
+
+p:nth-of-type(16) {
+  justify-self: stretch;
+  align-self: stretch;
+  color: var(--groen);
+  grid-area: text18;
+  text-align-last: justify;
+  margin: 10%;
+  font-size: 20px;
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 0;
+}
+
+p:nth-of-type(17) {
+  justify-self: center;
+  align-self: center;
+  color: var(--groen);
+  font-size: 10vw;
+  padding: 0px;
+  grid-area: text19;
+  text-align-last: justify;
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 0;
+}
+
+p:nth-of-type(18) {
+  color: var(--geel);
+  font-size: 10vw;
+  white-space: nowrap;
+  text-align: center;
+  margin: 0%;
+  padding: 0px;
+  justify-self: end;
+  grid-area: text20;
+  font-variation-settings:
+    "wght" 142,
+    "SRFS" 39;
+}
+
+p:nth-of-type(19) {
+  color: var(--geel);
+  font-size: 1vw;
+  margin: 0%;
+  padding: 0px;
+  grid-area: text21;
+  writing-mode: sideways-lr;
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 24;
+}
+
+p:nth-of-type(20) {
+  color: var(--groen);
+  font-size: 20vw;
+  grid-area: text22;
+  justify-self: stretch;
+  align-self: stretch;
+  font-variation-settings:
+    "wght" 173,
+    "SRFS" 40;
+}
+
+p:nth-of-type(21) {
+  color: var(--groen);
+  font-size: 2vw;
+  grid-area: text23;
+  justify-self: center;
+  align-self: center;
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 60;
+}
+
+p:nth-of-type(22) {
+  color: var(--groen);
+  font-size: 30vw;
+  grid-area: text24;
+  justify-self: end;
+  align-self: end;
+  font-variation-settings:
+    "wght" 100,
+    "SRFS" 41;
+}
+
+p:nth-of-type(23) {
+  color: var(--groen);
+  font-size: 10vw;
+  grid-area: text25;
+  justify-self: center;
+  align-self: center;
+  font-variation-settings:
+    "wght" 100,
+    "SRFS" 41;
+}
+
+p:nth-of-type(24) {
+  color: var(--groen);
+  font-size: 3vw;
+  grid-area: text26;
+  justify-self: end;
+  align-self: center;
+  font-variation-settings:
+    "wght" 193,
+    "SRFS" 20;
+}
+
+p:nth-of-type(25) {
+  color: var(--groen);
+  font-size: 7vw;
+  grid-area: text28;
+  justify-self: center;
+  align-self: center;
+  font-variation-settings:
+    "wght" 100,
+    "SRFS" 0;
+}
+
+p:nth-of-type(26) {
+  color: var(--groen);
+  font-size: 15vw;
+  grid-area: text30;
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 0;
+}
+
+p:nth-of-type(27) {
+  color: var(--groen);
+  font-size: 15vw;
+  grid-area: text31;
+  justify-self: center;
+  align-self: center;
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 0;
+}
+
+p:nth-of-type(28) {
+  color: var(--groen);
+  font-size: 2vw;
+  grid-area: text32;
+  justify-self: center;
+  align-self: center;
+  font-variation-settings:
+    "wght" 100,
+    "SRFS" 13;
+}
+
+p:nth-of-type(29) {
+  color: var(--groen);
+  font-size: 10vw;
+  grid-area: text33;
+  writing-mode: sideways-lr;
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 13;
+}
+
+p:nth-of-type(30) {
+  color: var(--groen);
+  font-size: 20vw;
+  grid-area: text34;
+  white-space: nowrap;
+  text-align: center;
+  justify-self: center;
+  align-self: center;
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 41;
+}
+
+p:nth-of-type(31) {
+  color: var(--groen);
+  font-size: 3vw;
+  grid-area: text35;
+  justify-self: center;
+  align-self: center;
+  font-variation-settings:
+    "wght" 100,
+    "SRFS" 24;
 }
