@@ -248,6 +248,7 @@ www.schools gebruikt te hebben en waarna niks klopten*/
 details {
   text-align: center;
   text-decoration: none;
+  background-color: var(--button);
 }
 
 h1 {
