@@ -7,6 +7,35 @@ Dit is het bewijs hiervan:
 <img src="images/module3/weekly_geekly_21okt.jpeg">
 
 Hiernaast was er een zwaar informative feedback moment met klasgenoten. Hier heb ik ook gekeken naar anderen hun werk.
+Dit waren de documenten hiervan:
+<img src="images/module3/feedback-21okt2.jpeg">
+<img src="images/module3/feedback.21okt.jpeg">
+
+Het feedback van deze dingen waren:
+Dat ik mijn A tag kleiner moest maken zodat de elemten elkaar niet zouden overlappen in de main pagina.
+
+Mijn light dark op de informatie pagina's donkereder make.
+
+En mijn website nog verder valideren.
+
+Mijn a tag had ik met de hulp van een student assistent afgemaakt/aangepast,
+Dit is hoe de website er nu uit ziet.
+<img src="images/module3/nieuwe_layout_21okt1.png">
+<img src="images/module3/nieuw_layout_21okt2.png">
+<img src="images/module3/nieuwe_layout_21okt3.png">
+
+Daarna had ik de light dark beter gemaakt door de achtergrond donkereder te maken, en het font wit maken.
+<img src="images/module3/lightdark_1.png">
+<img src="images/module3/lightdark_2.png">
+
+daarna heb ik de errors begonnen.
+Dit waren de grote errors die ik bijna overal had.
+<img src="images/module3/de_eerste_errors.png">
+<img src="images/module3/derde_erros.png">
+<img src="images/module3/fierde_2.png">
+
+Mijn muziek pagina had ik compleet op kunnen lossen.
+<img src="images/module3/muziek_errors.png">
 
 ## 20 okt
 
