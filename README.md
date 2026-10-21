@@ -1,5 +1,13 @@
 # Model
 
+## 21 okt
+
+Eerst hadden wij de weekly geekly gedaan. Deze had ik gedaan met Amy, Shakila, en Poema.
+Dit is het bewijs hiervan:
+<img src="images/module3/weekly_geekly_21okt.jpeg">
+
+Hiernaast was er een zwaar informative feedback moment met klasgenoten. Hier heb ik ook gekeken naar anderen hun werk.
+
 ## 20 okt
 
 Vandaag had ik de feedback elementen verwerkt.

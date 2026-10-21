@@ -54,16 +54,42 @@ body {
   background-repeat: no-repeat;
 }
 
-main {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  display: grid;
-  place-items: center;
-}
-
 header {
   display: grid;
   justify-items: center;
+}
+
+/*student assistant had mij hier mee geholpen*/
+
+main {
+  display: grid;
+  align-items: center;
+  justify-items: center;
+}
+
+img {
+  display: block;
+}
+
+img:first-of-type {
+  max-width: 500px;
+}
+
+a {
+  width: 80%;
+}
+
+a:nth-of-type(2) {
+  justify-self: end;
+}
+
+@media (min-width: 900px) {
+  main {
+    grid-template-columns: 1fr 1fr;
+  }
+  a {
+    width: 90%;
+  }
 }
 
 footer {
@@ -71,55 +97,51 @@ footer {
   justify-content: center;
 }
 
-img {
+/* dit was mijn oude code die ik had verwijderd met hulp van de student
+assistent*/
+/* img {
   width: 300px;
   height: auto;
   object-fit: cover;
-}
+} */
 
 /* de main elemten */
 
-img:nth-of-type(1) {
+/* img:nth-of-type(1) {
   width: 60%;
   height: auto;
-}
+} */
 
-a:nth-of-type(1) {
-  width: 100%;
+/* a:nth-of-type(1) {
+  max-width: max-content;
   height: auto;
   flex-direction: column;
   grid-column-start: 1;
   grid-column-end: 3;
   font-size: 15px;
-}
+} */
 
-@media (max-width: 670px) {
+/* @media (min-width: 670px) {
   a:nth-of-type(1) {
     font-size: 15px;
   }
-}
+} */
 
-a:nth-of-type(2) {
-  width: 190%;
+/* a:nth-of-type(2) {
+  width: 100%;
   height: auto;
   grid-column-start: 3;
   grid-column-end: 4;
-}
-
-@media (max-width: 670px) {
-  a:nth-of-type(2) {
-    width: 600%;
-  }
-}
+} */
 
 a:hover {
   transform: scale(1.15);
 }
 
-@media (max-width: 670px) {
+/* @media (max-width: 670px) {
   main {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
   }
 
   a:nth-of-type(2) {
@@ -130,7 +152,7 @@ a:hover {
     grid-column-end: 2;
     font-size: 15px;
   }
-}
+} */
 
 /* hier had ik chat voor gebruikt. Niet over getyped maar wel geholpen, maar uiteindelijk heb ik andere
 code van een anderen button gebruikt*/
