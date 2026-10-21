@@ -65,7 +65,7 @@ main {
 body {
   background-image: url("./images/ACHTERGROUND_LCITH_CLICK.png");
   @media (prefers-color-scheme: dark) {
-    background-image: url("./images/DARK_MODE_CLICK.png");
+    background-image: url("./images/donkeren_dark.png");
   }
 
   background-size: auto;
@@ -86,9 +86,8 @@ H1 {
   font-size: 5vw;
   line-height: 60px;
   text-wrap: balance;
-  margin: --whitespace-s;
   text-align: center;
-  color: Var(--text);
+  color: Var(--font);
 }
 
 h2 {
@@ -108,6 +107,7 @@ p {
   font-size: 2.5vw;
   line-height: 0.9;
   text-wrap: balance;
+  color: var(--font);
 
   @media (width > 32em) {
     grid-column: 1/-1;
@@ -116,6 +116,7 @@ p {
 
 p:nth-of-type(1) {
   font-family: learners;
+  color: var(--text);
 
   @media (width > 32em) {
     grid-column: 1/2;
@@ -123,6 +124,7 @@ p:nth-of-type(1) {
 }
 
 p:nth-of-type(2) {
+  color: var(--font);
   font-family: learners;
   @media (width > 32em) {
     grid-column: 2/3;

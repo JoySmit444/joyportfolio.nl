@@ -16,7 +16,7 @@ html {
   --geel: light-dark(#ffb700, black);
   --groen: light-dark(#59ff38, black);
   --blauw: light-dark(#3dffdb, black);
-  --background-color: light-dark(black, pink);
+  --background-color: light-dark(black, white);
 }
 
 body {

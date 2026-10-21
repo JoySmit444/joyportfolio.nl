@@ -26,6 +26,7 @@
 }
 
 html {
+  color-scheme: light dark;
   color: light-dark(#000, #fff);
   --whitespace-s: 1rem;
   scroll-padding-top: 6em;
@@ -59,7 +60,7 @@ main {
 body {
   background-image: url("./images/ACHTERGROUND_LCITH_CLICK.png");
   @media (prefers-color-scheme: dark) {
-    background-image: url("./images/DARK_MODE_CLICK.png");
+    background-image: url("./images/donkeren_dark.png");
   }
 
   background-size: auto;
@@ -91,6 +92,7 @@ p {
   font-size: 2.5vw;
   line-height: 0.9;
   text-wrap: balance;
+  color: var(--font);
 }
 
 /* landen */
