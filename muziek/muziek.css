@@ -43,7 +43,8 @@ body {
     "text28 text29"
     "text30 text31"
     "text32 text33"
-    "text34 text35";
+    "text34 text34"
+    "text35 text35";
 
   background-color: var(--background-color);
 }
@@ -225,9 +226,8 @@ lu {
 p:nth-of-type(10) {
   color: var(--roze);
   font-size: 5vw;
-  padding-top: 0.1px;
-  margin: 2%;
   padding: 0px;
+  padding-left: 150px;
   grid-area: text10;
   font-variation-settings:
     "wght" 100,
@@ -235,11 +235,9 @@ p:nth-of-type(10) {
 }
 
 p:nth-of-type(11) {
-  color: var(--orange);
+  color: var(--roze);
   font-size: 5vw;
   padding-top: 0.1px;
-  margin: 2%;
-  padding: 0px;
   grid-area: text11;
   font-variation-settings:
     "wght" 100,
@@ -248,7 +246,7 @@ p:nth-of-type(11) {
 
 p:nth-of-type(12) {
   color: var(--geel);
-  font-size: 15vw;
+  font-size: 17vw;
   padding-top: 0.1px;
   margin: 2%;
   padding: 0px;
@@ -261,9 +259,9 @@ p:nth-of-type(12) {
 p:nth-of-type(13) {
   align-items: start;
   color: var(--groen);
-  font-size: 6vw;
-  padding-top: 0.1px;
+  font-size: 3vw;
   grid-area: text15;
+  align-self: start;
   font-variation-settings:
     "wght" 100,
     "SRFS" 0;
@@ -273,7 +271,7 @@ p:nth-of-type(14) {
   color: var(--blauw);
   justify-self: right;
   align-self: center;
-  font-size: 20vw;
+  font-size: 15vw;
   grid-area: text16;
   font-variation-settings:
     "wght" 200,
@@ -283,7 +281,7 @@ p:nth-of-type(15) {
   justify-self: left;
   align-self: center;
   color: var(--blauw);
-  font-size: 5vw;
+  font-size: 10vw;
   grid-area: text17;
   text-align-last: justify;
   font-variation-settings:
@@ -292,26 +290,24 @@ p:nth-of-type(15) {
 }
 
 p:nth-of-type(16) {
-  justify-self: stretch;
-  align-self: stretch;
+  justify-self: top;
+  align-self: top;
   color: var(--orange);
   grid-area: text18;
   text-align-last: justify;
-  margin: 10%;
-  font-size: 20px;
+  font-size: 10px;
   font-variation-settings:
     "wght" 200,
     "SRFS" 0;
 }
 
 p:nth-of-type(17) {
-  justify-self: center;
+  justify-self: left;
   align-self: center;
   color: var(--geel);
-  font-size: 10vw;
+  font-size: 7.5vw;
   padding: 0px;
   grid-area: text19;
-  text-align-last: justify;
   font-variation-settings:
     "wght" 200,
     "SRFS" 0;
@@ -334,8 +330,6 @@ p:nth-of-type(18) {
 p:nth-of-type(19) {
   color: var(--blauw);
   font-size: 1vw;
-  margin: 0%;
-  padding: 0px;
   grid-area: text21;
   writing-mode: sideways-lr;
   font-variation-settings:
@@ -344,11 +338,10 @@ p:nth-of-type(19) {
 }
 
 p:nth-of-type(20) {
-  color: var(--roze);
-  font-size: 15vw;
+  color: var(--blauw);
+  font-size: 22vw;
   grid-area: text22;
-  justify-self: stretch;
-  align-self: stretch;
+  align-self: center;
   font-variation-settings:
     "wght" 173,
     "SRFS" 40;
@@ -358,7 +351,7 @@ p:nth-of-type(21) {
   color: var(--orange);
   font-size: 2vw;
   grid-area: text23;
-  justify-self: center;
+justify-self: left;
   align-self: center;
   font-variation-settings:
     "wght" 200,
@@ -366,21 +359,21 @@ p:nth-of-type(21) {
 }
 
 p:nth-of-type(22) {
-  color: var(--geel);
-  font-size: 0vw;
+  color: var(--roze);
+  font-size: 35vw;
   grid-area: text24;
-  justify-self: end;
   align-self: end;
+    justify-self: right;
   font-variation-settings:
     "wght" 100,
     "SRFS" 41;
 }
 
 p:nth-of-type(23) {
-  color: var(--groen);
-  font-size: 10vw;
+  color: var(--roze);
+  font-size: 5vw;
   grid-area: text25;
-  justify-self: center;
+  justify-self: left;
   align-self: center;
   font-variation-settings:
     "wght" 100,
@@ -399,7 +392,7 @@ p:nth-of-type(24) {
 }
 
 p:nth-of-type(25) {
-  color: var(--roze);
+  color: var(--groen);
   font-size: 7vw;
   grid-area: text28;
   justify-self: center;
@@ -413,16 +406,18 @@ p:nth-of-type(26) {
   color: var(--orange);
   font-size: 15vw;
   grid-area: text30;
+   justify-self: right;
+  align-self: center;
   font-variation-settings:
     "wght" 200,
     "SRFS" 0;
 }
 
 p:nth-of-type(27) {
-  color: var(--geel);
+  color: var(--orange);
   font-size: 1vw;
   grid-area: text31;
-  justify-self: center;
+  justify-self: left;
   align-self: center;
   font-variation-settings:
     "wght" 200,
@@ -430,10 +425,10 @@ p:nth-of-type(27) {
 }
 
 p:nth-of-type(28) {
-  color: var(--groen);
-  font-size: 2vw;
+  color: var(--geel);
+  font-size: 10vw;
   grid-area: text32;
-  justify-self: center;
+   justify-self: right;
   align-self: center;
   font-variation-settings:
     "wght" 100,
@@ -442,8 +437,10 @@ p:nth-of-type(28) {
 
 p:nth-of-type(29) {
   color: var(--blauw);
-  font-size: 10vw;
+  font-size: 15vw;
   grid-area: text33;
+    justify-self: left;
+  align-self: center;
   writing-mode: sideways-lr;
   font-variation-settings:
     "wght" 200,
@@ -452,9 +449,8 @@ p:nth-of-type(29) {
 
 p:nth-of-type(30) {
   color: var(--roze);
-  font-size: 15vw;
+  font-size: 25vw;
   grid-area: text34;
-  white-space: nowrap;
   text-align: center;
   justify-self: center;
   align-self: center;
@@ -464,11 +460,12 @@ p:nth-of-type(30) {
 }
 
 p:nth-of-type(31) {
-  color: var(--orange);
-  font-size: 3vw;
+  color: var(--groen);
+  font-size: 5vw;
   grid-area: text35;
-  justify-self: center;
-  align-self: center;
+  justify-self: stretch;
+  align-self: stretch;
+   text-align-last: justify;
   font-variation-settings:
     "wght" 100,
     "SRFS" 24;

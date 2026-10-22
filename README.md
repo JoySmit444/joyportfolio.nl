@@ -37,6 +37,9 @@ Dit waren de grote errors die ik bijna overal had.
 Mijn muziek pagina had ik compleet op kunnen lossen.
 <img src="images/module3/muziek_errors.png">
 
+Helaas had ik veel moeite met de header en de body. En na veel hulp van sanne kwam ik hier uit. Nu zitten er geen errors meer in. 
+
+
 ## 20 okt
 
 Vandaag had ik de feedback elementen verwerkt.
