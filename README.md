@@ -1,4 +1,20 @@
 # Model
+## 22 okt
+gisteren had ik feedback ontvangen van diederik over mijn lyrsich website. 
+Dit feedback bestond uit: 
+Hij wou dat ik te weinig had. Dit had ik van tevoren al aangepast.
+Hiernaast vondt hij dat mijn elementen te veel uit elkaar stonden, en niet genoeg samenhang hadden. 
+Hij raden aan door vorm en kleur dit aan te passen. 
+Dit heb ik ook gedaan door meer kleuren toe te same te voegen, en de grotens en positie van woorden te veranderen zodat ze meer samen kwamen
+zo ziet hij er nu uit. 
+<img src="images/module3/lysrich_22okt_1.png">
+<img src="images/module3/lyrisch_22okt_2.png">
+<img src="images/module3/lyrshc_22okt_3.png">
+<img src="images/module3/lyrsich_22okt_4.png">
+<img src="images/module3/lyrssich_22okt_5.png">
+<img src="images/module3/lyrsich_22okt_6.png">
+<img src="images/module3/lyrsich_22okt_7.png">
+<img src="images/module3/lyrsich_22okt_8.png">
 
 ## 21 okt
 
