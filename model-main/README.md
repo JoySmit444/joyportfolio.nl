@@ -1,4 +1,68 @@
 # Model
+## 22 okt
+gisteren had ik feedback ontvangen van diederik over mijn lyrsich website. 
+Dit feedback bestond uit: 
+Hij wou dat ik te weinig had. Dit had ik van tevoren al aangepast.
+Hiernaast vondt hij dat mijn elementen te veel uit elkaar stonden, en niet genoeg samenhang hadden. 
+Hij raden aan door vorm en kleur dit aan te passen. 
+Dit heb ik ook gedaan door meer kleuren toe te same te voegen, en de grotens en positie van woorden te veranderen zodat ze meer samen kwamen
+zo ziet hij er nu uit. 
+<img src="images/module3/lysrich_22okt_1.png">
+<img src="images/module3/lyrisch_22okt_2.png">
+<img src="images/module3/lyrshc_22okt_3.png">
+<img src="images/module3/lyrsich_22okt_4.png">
+<img src="images/module3/lyrssich_22okt_5.png">
+<img src="images/module3/lyrsich_22okt_6.png">
+<img src="images/module3/lyrsich_22okt_7.png">
+<img src="images/module3/lyrsich_22okt_8.png">
+
+hiernaast had ik nog feedback gevraagt van diederik. Dit was het feedback dat ik gekregen had: 
+Joy, met name in het deel na ‘are you listening to me’ ondersteunt de vorm het ritme of de betekenis van de tekst. De nummers in de tekst zijn tegelijkertijd grappig en verwarrend en mischien zelfs niet je bedoeling geweest. De animaties lijken werder tegen de tekst te werken dan die te versterken, moet je die er dus wel in houden? 
+De kleuren maakten het wel meer Village People…
+ 
+Ik heb natuurlijk de fout van de cijfers weggehaalt. En de bovenstde onderdelen nog aangepast
+<img src="images/module3/feedback_verandering.png">
+
+## 21 okt
+
+Eerst hadden wij de weekly geekly gedaan. Deze had ik gedaan met Amy, Shakila, en Poema.
+Dit is het bewijs hiervan:
+<img src="images/module3/weekly_geekly_21okt.jpeg">
+
+Hiernaast was er een zwaar informative feedback moment met klasgenoten. Hier heb ik ook gekeken naar anderen hun werk.
+Dit waren de documenten hiervan:
+<img src="images/module3/feedback-21okt2.jpeg">
+<img src="images/module3/feedback.21okt.jpeg">
+
+Het feedback van deze dingen waren:
+Dat ik mijn A tag kleiner moest maken zodat de elemten elkaar niet zouden overlappen in de main pagina.
+
+Mijn light dark op de informatie pagina's donkereder make.
+
+En mijn website nog verder valideren.
+
+Mijn a tag had ik met de hulp van een student assistent afgemaakt/aangepast,
+Dit is hoe de website er nu uit ziet.
+<img src="images/module3/nieuwe_layout_21okt1.png">
+<img src="images/module3/nieuw_layout_21okt2.png">
+<img src="images/module3/nieuwe_layout_21okt3.png">
+
+Daarna had ik de light dark beter gemaakt door de achtergrond donkereder te maken, en het font wit maken.
+<img src="images/module3/lightdark_1.png">
+<img src="images/module3/lightdark_2.png">
+
+daarna heb ik de errors begonnen.
+Dit waren de grote errors die ik bijna overal had.
+<img src="images/module3/de_eerste_errors.png">
+<img src="images/module3/derde_erros.png">
+<img src="images/module3/fierde_2.png">
+
+Mijn muziek pagina had ik compleet op kunnen lossen.
+<img src="images/module3/muziek_errors.png">
+
+Helaas had ik veel moeite met de header en de body. En na veel hulp van sanne kwam ik hier uit. Nu zitten er geen errors meer in. 
+
+
 
 ## 20 okt
 

@@ -16,6 +16,13 @@ zo ziet hij er nu uit.
 <img src="images/module3/lyrsich_22okt_7.png">
 <img src="images/module3/lyrsich_22okt_8.png">
 
+hiernaast had ik nog feedback gevraagt van diederik. Dit was het feedback dat ik gekregen had: 
+Joy, met name in het deel na ‘are you listening to me’ ondersteunt de vorm het ritme of de betekenis van de tekst. De nummers in de tekst zijn tegelijkertijd grappig en verwarrend en mischien zelfs niet je bedoeling geweest. De animaties lijken werder tegen de tekst te werken dan die te versterken, moet je die er dus wel in houden? 
+De kleuren maakten het wel meer Village People…
+ 
+Ik heb natuurlijk de fout van de cijfers weggehaalt. En de bovenstde onderdelen nog aangepast
+<img src="images/module3/feedback_verandering.png">
+
 ## 21 okt
 
 Eerst hadden wij de weekly geekly gedaan. Deze had ik gedaan met Amy, Shakila, en Poema.

@@ -54,6 +54,8 @@ p:nth-of-type(1) {
   rotate: 20deg;
   font-size: 10vw;
   grid-area: text1;
+   justify-self: right;
+  align-self: center;
   margin: 1%;
   padding: 5%;
   font-variation-settings:
@@ -79,6 +81,8 @@ p:nth-of-type(2) {
   font-size: 2vw;
   grid-area: text2;
   justify-content: end;
+   justify-self: right;
+  align-self: center;
 }
 
 p:nth-of-type(3) {
@@ -86,6 +90,8 @@ p:nth-of-type(3) {
   rotate: -10deg;
   font-size: 10vw;
   grid-area: text3;
+   justify-self: right;
+  align-self: center;
   margin: 1%;
   padding: 5%;
   justify-self: end;
@@ -111,7 +117,10 @@ p:nth-of-type(3) {
 p:nth-of-type(4) {
   color: var(--geel);
   font-size: 2vw;
+   justify-self: right;
+  align-self: center;
   grid-area: text4;
+  
 }
 
 p:nth-of-type(5) {
@@ -124,6 +133,8 @@ p:nth-of-type(5) {
   grid-area: text5;
   margin: 1%;
   padding: 30px;
+   justify-self: right;
+  align-self: center;
 
   animation-name: draai;
   animation-duration: 3s;
