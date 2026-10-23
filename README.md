@@ -1,4 +1,19 @@
 # Model
+
+## 23 okt
+Vandaag hadden we een feedback moment. Mijn feedback was:
+leer meer de sneltoetsen voor de verschillende accesibilitie dingen. 
+Dit heb ik gedaan, en werkt goed. 
+
+<img src="images/module3/accesabilitie_23okt.jpeg">
+
+Hiernaast had kreeg ik terug dat ik meer op schetsen en de concepten moet letten, en niet gelijk naar het eind moet gaan. 
+En dat ik zou kunnen letten/ vormgeven van de hover state als je aan het tabben bent. de focus state
+
+Ook heb ik de retrospective gedaan. Deze heb ik getekened in het metaphore van verschillende recepten
+Zo ziet dit eruit: 
+<img src="images/module3/laatste_retrospective.jpeg">
+
 ## 22 okt
 gisteren had ik feedback ontvangen van diederik over mijn lyrsich website. 
 Dit feedback bestond uit: 
