@@ -18,7 +18,7 @@ html {
   --background-li1: light-dark(#ffebef, #66339966);
   --background-summary: #572649;
   --button-hover: light-dark(#b33b72, #2b1b2a);
-
+  --focus-state: light-dark(#b33b72, pink);
   --button-active: #8bc34a;
 
   --color-background: light-dark(var(--color-light), var(--color-dark));
@@ -64,13 +64,12 @@ video {
 **************************/
 
 body {
+  
   font-family:
     Seravek, "Gill Sans Nova", Ubuntu, Calibri, "DejaVu Sans", source-sans-pro;
   background: var(--color-background);
   color: var(--color-text);
-
   min-height: 100dvh;
-
   display: grid;
   grid-template-areas:
     "header header"
@@ -138,20 +137,13 @@ footer {
   }
 }
 /* hiervoor heeft een studenten mij geholpen*/
+/*bron chatgpt*/
 ul {
-  margin-block-start: 1em;
-  margin-block-end: 1em;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));
+  gap: var(--whitespace);
   list-style: none;
-  gap: var(--whitespace-s);
-  text-align: center;
-}
-
-.rij {
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-  list-style: none;
-  gap: var(--whitespace-s);
-  text-align: center;
+  padding: 6%;
 }
 
 /**************************
@@ -172,6 +164,11 @@ main {
 /**************************
 * MARK: Section ...
 **************************/
+/* hier had ik chatgpt voor moeten gebruiken*/
+main > section {
+  grid-column: 1 / -1;
+}
+/* dit niet*/
 
 button,
 summary {
@@ -212,6 +209,7 @@ a:focus {
   outline: 0.2em dashed deeppink;
 }
 
+/*bron pencode van de leraar*/
 label:has([type="checkbox"]) {
   display: flex;
   align-items: baseline;
@@ -220,7 +218,6 @@ label:has([type="checkbox"]) {
 p {
   padding-left: 5%;
   padding-right: 5%;
-  text-align: center;
 }
 
 /**************************
@@ -322,18 +319,6 @@ dialog::backdrop {
   backdrop-filter: blur(10px);
 }
 
-/*bron chatgpt*/
-
-ul {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(12em, 1fr));
-  gap: var(--whitespace);
-  list-style: none;
-  padding: 0;
-  max-width: 50em;
-  margin: 0 auto;
-}
-
 img {
   display: block;
   width: 100%;
@@ -355,4 +340,11 @@ details {
 
 #open-dialog:hover {
   background-color: #a53faa;
+}
+
+body :focus-visible {
+  color: var(--focus-state);
+  outline: .60em dashed var(--focus-state);
+  /* voor de opaqueness van de achtergrond kleur heb ik chatgpt gevraagt*/
+  background-color: rgb(179 59 114 / 30%);
 }

@@ -17,6 +17,7 @@ html {
   --groen: light-dark(#59ff38, black);
   --blauw: light-dark(#3dffdb, black);
   --background-color: light-dark(black, white);
+    --focus-state: light-dark(#b33b72, pink);
 }
 
 body {
@@ -480,4 +481,11 @@ p:nth-of-type(31) {
   font-variation-settings:
     "wght" 100,
     "SRFS" 24;
+}
+
+body :focus-visible {
+  color: var(--focus-state);
+  outline: .60em dashed var(--focus-state);
+  /* voor de opaqueness van de achtergrond kleur heb ik chatgpt gevraagt*/
+  background-color: rgb(179 59 114 / 30%);
 }

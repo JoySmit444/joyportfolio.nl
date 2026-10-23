@@ -1,5 +1,4 @@
 # Model
-
 ## 23 okt
 Vandaag hadden we een feedback moment. Mijn feedback was:
 leer meer de sneltoetsen voor de verschillende accesibilitie dingen. 
@@ -13,6 +12,33 @@ En dat ik zou kunnen letten/ vormgeven van de hover state als je aan het tabben 
 Ook heb ik de retrospective gedaan. Deze heb ik getekened in het metaphore van verschillende recepten
 Zo ziet dit eruit: 
 <img src="images/module3/laatste_retrospective.jpeg">
+
+De focus state heb ik ook aangepast. 
+Dit is hoe het er nu uit ziet:
+Dit was stadium 1
+<img src="images/module3/statium_1.png">
+
+Dit is stadium 2:
+<img src="images/module3/stadium_2.png">
+
+En dit is het eind werk:
+<img src="images/module3/stadium_3.png">
+
+Helaas moest ik wel wat chat gpt gebruiken. 
+Dit is het bewijs hiervoor. Hiernaast heb ik veel inspiratie genomen van ww3chools. 
+
+
+Ook zag ik dat mijn tweede sprint pagina niet werkten. Dit lukten mij compleet niet om op te lossen. Dus moest ik ook chatgpt gebruiken. 
+<img src="images/module3/background_blur_0.png">
+<img src="images/module3/achtergond_blur.png">
+
+<img src="images/module3/body_lukt_niet.png">
+
+<img src="images/module3/grid_stopped.png">
+<img src="images/module3/grid_2.png">
+<img src="images/module3/grid_3.png">
+<img src="images/module3/grid_4.png">
+
 
 ## 22 okt
 gisteren had ik feedback ontvangen van diederik over mijn lyrsich website. 

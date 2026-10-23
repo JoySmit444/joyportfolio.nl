@@ -39,8 +39,8 @@ html {
   --background-summary: light-dark(#b36b43, #522f17);
   --button-hover: light-dark(#b33b72, #2b1b2a);
   --font: light-dark (black, white);
-
   --button-active: #8bc34a;
+  --focus-state: light-dark(#b33b72, pink);
 }
 
 body {
@@ -226,8 +226,10 @@ over de hovers*/
   background-color: Var(--button-active);
 }
 
-#mydialog button:focus {
-  background-color: Var(--button-active);
+#mydialog button:focus-visible {
+   color: var(--focus-state);
+  outline: .2em dashed var(--focus-state);
+  outline-offset: .2em;
 }
 
 dialog::backdrop {
@@ -277,10 +279,21 @@ h1 {
   font-family: worldDisco;
   font-size: 20px;
   text-align: center;
-}
+}§§
 
 /*deze code heb ik genomen van de deep dive van animaties*/
 /* dit moest ik helaas aan chatgpt vragen*/
 #mydialog a {
   font-size: 15px;
+}
+
+
+/*de focus states*/
+/* deze code heb ik half overgenomen en  veranderd vanuit de code pen*/
+
+body :focus-visible {
+  color: var(--focus-state);
+  outline: .60em dashed var(--focus-state);
+  /* voor de opaqueness van de achtergrond kleur heb ik chatgpt gevraagt*/
+  background-color: rgb(179 59 114 / 30%);
 }

@@ -44,6 +44,7 @@ html {
   --button-hover: light-dark(#b33b72, #2b1b2a);
   --font: light-dark(black, white);
 
+  --focus-state: light-dark(#b33b72, pink);
   --button-active: #8bc34a;
 }
 
@@ -353,4 +354,11 @@ details {
   padding-left: 10px;
   font-size: 20px;
   line-height: 1.4;
+}
+
+body :focus-visible {
+  color: var(--focus-state);
+  outline: .60em dashed var(--focus-state);
+  /* voor de opaqueness van de achtergrond kleur heb ik chatgpt gevraagt*/
+  background-color: rgb(179 59 114 / 30%);
 }
