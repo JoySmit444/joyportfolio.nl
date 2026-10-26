@@ -1,8 +1,58 @@
 # Model
+## conclussies van de module
+Ik kwam deze module in zonder veel code kennis. En vooral denken dat ik code niet leuk vondt.
+Helaas (haha) heb ik verschrikkelijk veel geleerdt. Code leren lezen, begrijpen, en oplossen. En ik heb het gevoel alsof ik nu veel meer kan. 
+
+In een perfecte wereld had ik meer vormgevelijke beslisingen genomen. Dus meer schetsen. meer tijd. meer iteraties. Maar helaas had ik alle tijd nodig voor de code zelf.
+
+Ook had ik meer animaties toegvoegt. Dit kreeg ik ook terug in een feedback gesprek. Dit pasten niet helemaal in de website die ik nu had. Maar met meer tijd en met meer kennis had ik manieren gevonden om het verder te verwerken. 
+Nu zit het alleen in de opening van de cookies. En in de lyrsich pagina. 
+
+Hiernaast had ik meer de diepten in gegaan met de stop die oprecht in de website stond. 
+
+Maar ik ben erg tevreden met wat ik heb gemaakt. 
+
 
 ## 26 okt
 Vandaag hadden we het laatste feedback moment. 
+Eerst hadden wij de expositie gedaan. 
+Hier had ik feedback/liefde gevenen en ontvangen van verschillende leerlingen om je heen.
+Dit was mijn feedback formulier:
+<img src="images/module3/WhatsApp Image 2026-10-26 at 18.57.48.jpeg">
 
+Wat mij heel erg verbaasden dat mensen mijn cookies pagina beter vonden. Omdat ik het gevoel heb dat hij te simple was. Kreeg ik juist terug dat hij lekker duidelijk was. Dit was perfect wat ik zocht. 
+
+Hiernaast had ik samen met een klasgenoot nog even gekeken naar de laatste feedback. Dit waren de webby onderdelen: 
+<img src="images/module3/laatste_web_26okt.jpeg">
+
+De onderdelen die mij opvielen om nog bij te werken waren: 
+Dat mijn lijst op mijn tweede pagina niet hetzelfde font had als de rest. En dat mijn lijst groter mocht. 
+<img src="images/module3/nieuwe_lijst_26okt.png">
+
+Dat de home knop mischien wat grooter kon vanwegen mensen met kleineren fingers.
+Dit is hoe dit er nu uit ziet 
+<img src="images/module3/home_button.png">
+
+Op de home pagina was als ik mijn light-dark aanzetten viel mijn tekst in de cookies weg.
+Dit was hoe het ervoor uitzag: <img src="images/module3/oud_kleuren_26okt.png">
+En dit is hoe het er nu uit ziet: <img src="images/module3/nieuwe_kleuren_26okt.png">
+
+Hierna gingen we samen nog kijken naar hoe het logboek ging.
+Dit hebben we besproken met de hele klas.
+Dit was het formulier hiervan: 
+<img src="images/module3/logboek_26okt.jpeg">
+
+In een perfecte wereld had ik veel meer schetsen gemaakt. Maar helaas vanwegen mijn eigen level. had ik alle tijd nodig voor de code zelf.
+Al had ik meer tijd gehad had ik meer vormgeving elementen en schetsen toegepast. 
+
+Helaas had ik was logboek problemen. En moest ik dit vragen aan hva. AI: 
+<img src="images/module3/github)1.png">
+<img src="images/module3/github)2.png">
+<img src="images/module3/github)3.png">
+
+Het voelde wel een beetje dom dat 2 uur werk, uiteindelijk bleek dat mijn vidoe tags gewoon niet dicht waren...
+oops....
+Maar nu is het opgelost 
 
 ## 23 okt
 Vandaag hadden we een feedback moment. Mijn feedback was:

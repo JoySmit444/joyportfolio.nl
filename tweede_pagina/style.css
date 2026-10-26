@@ -180,23 +180,6 @@ p:nth-of-type(2) {
   transform: scale(1.05);
 }
 
-/* code van de codepen van de leraar*/
-a {
-  font-family: Discodreams;
-  font-size: 10px;
-  margin: 1%;
-  padding-block: 0.5em;
-  padding-inline: 0.5em;
-  border-width: 0.3em;
-  border-style: solid;
-  border-radius: 1.5em;
-  transition: 0.5s;
-  background-color: var(--roze);
-  text-decoration: none;
-  color: Var(--black);
-  line-height: 50px;
-  display: inline-block;
-}
 
 a:hover {
   transform: scale(1.1);
@@ -214,9 +197,9 @@ video {
 
 /*bron: hva.ia*/
 a {
-  font-family: Discodreams;
-  font-size: 10px;
-  margin: 1%;
+  font-family:  Discodreams;
+  font-size: 20px;
+  margin: 4%;
   padding-block: 0.5em;
   padding-inline: 0.5em;
   border-width: 0.3em;
@@ -229,6 +212,7 @@ a {
   line-height: 30px;
   display: inline-block;
 }
+
 
 a:hover {
   transform: scale(1.1);
@@ -268,6 +252,22 @@ dialog a {
   padding: 10px;
   background-color: var(--background-summary);
   color: white;
+}
+
+/* helaas heb ik hiervoor hva ai moeten gebruiken na dingen zoals
+www.schools gebruikt te hebben en waarna niks klopten*/
+#mydialog[open] {
+  animation: dialog-open 0.2s ease-in;
+}
+
+@keyframes dialog-open {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
 }
 
 #mydialog section li {

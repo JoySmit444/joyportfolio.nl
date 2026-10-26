@@ -179,8 +179,8 @@ section:nth-of-type(2) img {
 
 a {
   font-family: worldDisco;
-  font-size: 10px;
-  margin: 1%;
+  font-size: 20px;
+  margin: 4%;
   padding-block: 0.5em;
   padding-inline: 0.5em;
   border-width: 0.3em;
@@ -236,6 +236,22 @@ dialog a {
   margin: 5px;
 }
 
+/* helaas heb ik hiervoor hva ai moeten gebruiken na dingen zoals
+www.schools gebruikt te hebben en waarna niks klopten*/
+#mydialog[open] {
+  animation: dialog-open 0.2s ease-in;
+}
+
+@keyframes dialog-open {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
 #mydialog section li {
   font-family: learners;
   border-width: 0.1em;
@@ -288,6 +304,7 @@ dialog::backdrop {
   padding: 0.5em 1em;
   margin: 10px;
 }
+
 
 #open-dialog:hover {
   transform: scale(1.15);
