@@ -212,7 +212,7 @@ Ik probeer altijd erg voorzichtig te zijn. Maar eigelijk vermijd je dit niet. Ik
 In deze college hadden wij een live code gedaan. En een college geluisterd. Van deze college heb ik weer een refresher in code gehad wat erg handig was.
 Hiernaast hadden wij het gehad over cookjes en alles dat daarbij komt. Hiervan heb ik geleerdt hoe je er mee om gaat. Wat netjes en wat niet is. En hoe vormgeving hier aan toepas komt
 
-<img src="images/cookies_document.png" width="500" height="600">
+<img src="images/aangepast/cookies_document.png" width="500" height="600">
 
 En hier zijn de screenshots van de natype code:
 <img src="images/module2/cookies_code1.png" width="500" height="600">
@@ -324,15 +324,15 @@ Daar had ik nu wat meer moeite mee. omdat ik door de tijd druk en de skill versc
 Hier naast had ik ook de retrospective opdracht gemaakt
 En de title die ik dit heb gegeven was: de code rollercoaster
 
-<img src="/images/ratinglang.jpeg" width="500" height="600">
-<img src="/images/rating1.jpeg" width="500" height="600">
-<img src="/images/rating2.jpeg" width="500" height="600">
+<img src="images/aangepast/ratinglang.jpeg" width="500" height="600">
+<img src="images/aangepast/rating1.jpeg" width="500" height="600">
+<img src="images/aangepast/rating2.jpeg" width="500" height="600">
 
 En de tekeningen
 
-<img src="/images/retrospective1.jpeg" width="500" height="600">
-<img src="/images/retrospective2.jpeg" width="500" height="600">
-<img src="/images/retrospective3.jpeg" width="500" height="600">
+<img src="images/aangepast/retrospective1.jpeg" width="500" height="600">
+<img src="images/aangepast/2okt_retro_2.jpeg" width="500" height="600">
+<img src="images/aangepast/2okt_retro_3.jpeg" width="500" height="600">
 
 Ook had ik de feedback gekregen: hier was de feedback van het tussen gesprek:
 <img src="/images/echt/Scherm­afbeelding 2026-09-21 om 11.29.20.png" width="500" height="600">
@@ -349,20 +349,20 @@ Maar gelukkig kwam Sanne aan de redding en heeft die mij geholpen over teams. Hi
 <img src="/images/echt/sanna_bewijs.png" width="500" height="600">
 
 ### 16 sep
-Wij hadden gekeken naar de ideale versie van onze website. Daarna hhebben anderen mensen ernaar gekeken en vanuit dit feedback nieuwe vormen gemaakt.
+Wij hadden gekeken naar de ideale versie van onze website. Daarna hhebben anderen mensen ernaar gekeken en vanuit dit feedback nieuwe vormen gemaakt. 
 Mijn grote lijnen feedback was: dat ik mischien de vormgeving beter kan doorzetten. Door dus bijvoorbeld de title ook te teken
 
-<img src="/images/eigen_schetsen_16sep.jpeg" width="500" height="600">
+<img src="images/aangepast/eigen_schetsen_16sep.jpeg" width="500" height="600">
 <img src="/images/schets_VAN_lex.jpeg" width="500" height="600">
 <img src="/images/schets_VAN_poema.jpeg" width="500" height="600">
-<img src="/images/shctes_voor_poema.jpeg" width="500" height="600">
-<img src="/images/schets_voor_lex.jpeg" width="500" height="600">
+<img src="images/aangepast/shctes_voor_poema.jpeg" width="500" height="600">
+<img src="images/aangepast/schets_voor_lex.jpeg" width="500" height="600">
 
 Ook, heb ik schetsen gemaakt voor mijn ideale web formaat pagina.
 
-<img src="/images/ideal_voor.png.png" width="500" height="600">
-<img src="/images/ideal_1.png" width="500" height="600">
-<img src="/images/ideal2.png" width="500" height="600">
+<img src="/images/ideal_voor.png" width="500" height="600">
+<img src="/images/ideal_1.png" width="50" height="600">
+<img src="/images/ideal2.png" width="50" height="600">
 
 Hiernaast heb ik aan mijn website gewerkt. En heb ik sanne, Isaac, en Barbara.
 Waarna dit wel werkten.
@@ -500,63 +500,6 @@ Daarna heb ik de deep dive over grids bijgewoond. De screenshots hiervan zijn
 Ik heb nu het gevoel alsof ik veel meer weet van grids, en van hoe ik een pagina opstel.
 Dit waren dingen die ik hiervoor echt nog niet begreep.
 
-## 9 sep:
-check out vragen:
-Leg uit waar het Visual Research in 3 stappen naartoe werkt
-Naar een visuale sfeer neerzetten die niet te letterlijk is. Zodat
-je het best een vormgeving om je concept kan maken die je het
-gevoel geeft die je wilt
-
-Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
-Miss verkiezingen. Ik wil persoonlijkheid en communite laten zien
-in beeld. Dus zo min mogelijk profesionele fotos en zo veel
-mogelijk 'rommelige' foto's.
-Met tekst en kleur wil ik een whimsicale en vrouwlijke sfeer neerzetten. om girlhood neer te zetten.
-Ik wil het neerzetten als een soort scrap book, of een soort poster board.
-
-Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
-Ik wil concept 1 uitvoeren. Omdat concept 1 het beste de persoonlijkheid en de menselijkheid achter de verkiezingen neerzet.
-
-Deze dag had ik ook de presentatie gedaan tegen iemand.
-Waaruit deze conclussies kwamen:
-<img src="./oefeningen/presentatie/images /presentatie_conclussies.png" width="500" height="600">
-
-Hiernaast hebben wij sfeerwoorden. moodboards, en typografie
-moodboards gemaakt.
-Dit waren de screenshots hiervan.
-<img src="./images/sfeer_moodboard.png" width="500" height="600">
-<img src=".images/typografie_moodboards.png" width="500" height="600">
-<img src=".images/uitgewerkte_aantekeningen.png" width="500" height="60">
-
-Hieruit heb ik een crazy 8 gemaakt:
-<img src="./images/crazy8.png" width="500" height="600">
-<img src="./images/uitleg_crazy_8.png" width="500" height="600">
-
-Hiervan heb ik snelle schetsen gedaan. En daarna heb ik deze uitgewerkt
-<img src="./images/eerste-schetsen.jpeg" width="500" height="600">
-<img src="./images/uitwerking1.png" width="500" height="600">
-<img src="./images/uitwerking2.png" width="500" height="600">
-<img src="./images/uitwerking3.png" width="500" height="600">
-<img src="./images/uitwerking4.png" width="500" height="600">
-<img src="./images/uitwerking5.png" width="500" height="600">
-ik heb gekozen voor ontwerp 1
-
-Mijn HTML uitgewerkt concept:
-<img src="./images/html_uitgewerkt.jpg" width="50" height="60">
-
-Hiernaast heb ik de gradient deep dive gemaakt.
-De eerste spelletjes
-<img src="./images/spelletje_1.png" width="500" height="600">
-<img src="./images/spelletje_2.png" width="500" height="600">
-<img src="./images/spelletje_3.png" width="500" height="600">
-
-Opdracht 1
-[opdracht 1](./images/opdracht_1GR.mov)
-
-opdracht_2GR.mov
-[opdracht 2](./images/opdracht_2GR.mov")
-
-
 ### 10 sept:
 Helaas ben ik echt niet uit @property animeren gekomen.
 Ik heb mijn best gedaan: zo heb ik deze links gebruikt.
@@ -596,6 +539,63 @@ Hier is de vidoe hiervan
 </video>
 
 
+## 9 sep:
+check out vragen:
+Leg uit waar het Visual Research in 3 stappen naartoe werkt
+Naar een visuale sfeer neerzetten die niet te letterlijk is. Zodat
+je het best een vormgeving om je concept kan maken die je het
+gevoel geeft die je wilt
+
+Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+Miss verkiezingen. Ik wil persoonlijkheid en communite laten zien
+in beeld. Dus zo min mogelijk profesionele fotos en zo veel
+mogelijk 'rommelige' foto's.
+Met tekst en kleur wil ik een whimsicale en vrouwlijke sfeer neerzetten. om girlhood neer te zetten.
+Ik wil het neerzetten als een soort scrap book, of een soort poster board.
+
+Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
+Ik wil concept 1 uitvoeren. Omdat concept 1 het beste de persoonlijkheid en de menselijkheid achter de verkiezingen neerzet.
+
+Deze dag had ik ook de presentatie gedaan tegen iemand.
+Waaruit deze conclussies kwamen:
+<img src="./oefeningen/presentatie/images /presentatie_conclussies.png" width="500" height="600">
+
+Hiernaast hebben wij sfeerwoorden. moodboards, en typografie
+moodboards gemaakt.
+Dit waren de screenshots hiervan.
+<img src="./images/sfeer_moodboard.png" width="500" height="600">
+<img src="./images/typografie_moodboards.png" width="500" height="600">
+<img src="./images/uitgewerkte_aantekeningen.png" width="500" height="600">
+
+Hieruit heb ik een crazy 8 gemaakt:
+<img src="./images/crazy8.png" width="500" height="600">
+<img src="./images/uitleg_crazy_8.png" width="500" height="600">
+
+Hiervan heb ik snelle schetsen gedaan. En daarna heb ik deze uitgewerkt
+<img src="images/aangepast/eerste-schetsen.jpeg" width="500" height="600">
+<img src="./images/uitwerking1.png" width="500" height="600">
+<img src="./images/uitwerking2.png" width="500" height="600">
+<img src="./images/uitwerking3.png" width="500" height="600">
+<img src="./images/uitwerking4.png" width="500" height="600">
+<img src="./images/uitwerking5.png" width="500" height="600">
+ik heb gekozen voor ontwerp 1
+
+Mijn HTML uitgewerkt concept:
+<img src="./images/html_uitgewerkt.jpg" width="500" height="600">
+
+Hiernaast heb ik de gradient deep dive gemaakt.
+De eerste spelletjes
+<img src="./images/spelletje_1.png" width="500" height="600">
+<img src="./images/spelletje_2.png" width="500" height="600">
+<img src="./images/spelletje_3.png" width="500" height="600">
+
+Opdracht 1
+[opdracht 1](./images/opdracht_1GR.mov)
+
+opdracht_2GR.mov
+[opdracht 2](./images/opdracht_2GR.mov")
+
+
 ### 8sep:
 Ik heb voor deze grid lay-out deze informatie gebruikt:
 https://medium.com/@fatukunda/a-responsive-photo-grid-with-css-grid-layout-5d3bf6b71c0
@@ -607,17 +607,17 @@ hulp vraagte
 
 de vragen die ik een chat heb gesteld:
 <img src="./images/eerste_vraagchat.png" width="500" height="600">
-<img src="../Joy_Portfolio_ect/images/antwoord_van_chat.png" width="500" height="600">
-<img src=".images/antwoordt.png" width="500" height="600">
-<img src=".mages/antwoordt_van_chat.png" width="500" height="600">
-<img src=".images/nog_een_chat.png" width="500" height="600">
-<img src=".images/nog_een_vraag_vanchat.png" width="500" height="600">
-<img src=".images/tweedevraag.png" width="500" height="600">
+<img src="./images/antwoord_van_chat.png" width="500" height="600">
+<img src="./images/antwoordt.png" width="500" height="600">
+<img src="./images/antwoordt_van_chat.png" width="500" height="600">
+<img src="./images/nog_een_chat.png" width="500" height="600">
+<img src="./images/nog_een_vraag_vanchat.png" width="500" height="600">
+<img src="./images/tweedevraag.png" width="500" height="600">
 
 En de code waar dit tot leed:
 <img src="./images/eigdecode.png" width="500" height="600">
 <img src="./images/eige_code.png" width="500" height="600">
-<img src="../images/eigecode.png" width="500" height="600">
+<img src="./images/eigecode.png" width="500" height="600">
 <img src="./images/eigencode.png" width="500" height="600">
 <img src="./images/nog_een_eigen_code.png" width="500" height="600">
 
@@ -701,7 +701,7 @@ Hier heb ik een duidelijke en goede opfrisser gehad. En konden we weer design wi
 Later werdt ons aangeraden om meer onderzoek te doen. En meer om ons heen te kijken voordat we ontworpen. Ook om meer te schetsen. Dit had ik deze keer niet gedaan vanwegen het gebrek van tijd.
 Maar in anderen momenten zou ik dit zeker doen.
 
-<img src="images/foto_wok_to_walk.png" alt="foto_wok_to_walk.ng" width="100" height="200">
+<img src="images/foto_wok_to_walk.png" alt="foto_wok_to_walk.ng" width="500" height="600">
 
 Bij de tweede les had ik (font in css). Hierbij hadden we verschillende dingen geleerdt over fonts en font-face.
 Dit zijn dingen die ik al had geleerdt. Maar het was erg fijn om met een nieuw persoon deze informatie te krijgen. Ook kregen wij info over welke fonts illegaal waren en niet. Zo mogen we google and adobe progromma's niet gebruiken. Behalven als we het downloaden van tevoren en in de map zetten.
@@ -711,7 +711,7 @@ Hierna hebben we verschillende opdrachten gedaan. Deze heb ik afgerond. Ik heb h
 Dit zijn de screenshots van de opdrachten
 opdracht 1
 
-<img src="./images/opdracht_1.png" alt="foto_wok_to_walk.ng" width="100" height="200">
+<img src="./images/opdracht_1.png" alt="foto_wok_to_walk.ng" width="500" height="600">
 
 opdracht 2
 <img src="./images/opdracht_2.png" alt="Opdracht_2.png" width="500" height="600">
