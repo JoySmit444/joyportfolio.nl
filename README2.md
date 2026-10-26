@@ -2,9 +2,9 @@
 
 Vandaag had ik de lecture in het KSH gebouw. Dit was extreem informatief. Nu weet ik meer over hoe data zich verspreid. En welke soort data's er zijn. En welke wetten waar aan vast zit. Dit waren dingen die ik hiervoor wel wist maar nu meer overna gedacht hebt.
 Ook was het leuk om op een anderen manier te kijken naar hoe bedrijven om deze wetten heen proberen te komen. Hier waren de notes die ik hiervan had genomen
-<img src="images/aangepast/data_notes_1_N.jpeg" width="500"height="600">
+<img src="images/aangepast/data_notes_1_N.jpeg" width="500" height="600">
 
-<img src="images/aangepast/data_notes_2N.jpeg" width="500"height="600">
+<img src="images/aangepast/data_notes_2N.jpeg" width="500" height="600">
 
 Hiernaast had ik verschillende. websites bekeken en verschillende bronnen gebruikt om te kijken wat voor soort data toesteming er was. Dit waren de notes hiervan:
 
