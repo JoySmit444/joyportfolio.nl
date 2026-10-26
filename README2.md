@@ -71,12 +71,11 @@ Hiernaast had ik de workshop over Javascript gevolgt.
 Hier zijn de vidoes hiervan
 <video width="320" height="240" controls>
 
-  <source src="images/module2/opdracht_1_java.mov" type="video/mp4">
-  <video width="320" height="240" controls>
-  <source src="images/module2/opdracht_2_java.mov" type="video/mp4">
-<video width="320" height="240" controls>
-  <source src="images/module2/opdracht_3_java.mov" type="video/mp4">
-<img src="images/module2/opdracht_4_java.png">
+ [Bekijk JavaScript-opdracht 1](images/module2/opdracht_1_java.mov)
+- [Bekijk JavaScript-opdracht 2](images/module2/opdracht_2_java.mov)
+- [Bekijk JavaScript-opdracht 3](images/module2/opdracht_3_java.mov)
+ [Bekijk JavaScript-opdracht 4](images/module2/opdracht_4_java.png)
+
 
 ## 22 sep
 Ik had deze dag mijn README bijgewerkt omdat ik een beetje achter liep.
@@ -552,12 +551,11 @@ De eerste spelletjes
 <img src="./images/spelletje_3.png" width="50" height="60">
 
 Opdracht 1
-<video controls width="250">
+[opdracht 1](./images/opdracht_1GR.mov)
 
-  <source src="./images/opdracht_1GR.mov" type="video/webm" />
-Opdracht 2
-  <video controls width="250">
-  <source src="./images/opdracht_2GR.mov" type="video/webm" />
+opdracht_2GR.mov
+[opdracht 2](./images/opdracht_2GR.mov")
+
 
 ### 10 sept:
 Helaas ben ik echt niet uit @property animeren gekomen.
@@ -593,8 +591,10 @@ Hiernaast heb ik een sterk begin gemaakt vanuit het maken van mijn html. Ik heb 
 ik zou nog graag aan een leraar willen vragen hoe ik de kleineren fotos goed kan positioneren.
 Hier is de vidoe hiervan
 
- <video controls width="250">
-  <source src="./images/eerst_html_10_sep.mov" type="video/webm" />
+<video controls width="250">
+  <source src="./images/eerst_html_10_sep.mov" type="video/quicktime">
+</video>
+
 
 ### 8sep:
 Ik heb voor deze grid lay-out deze informatie gebruikt:
@@ -632,8 +632,8 @@ beginnen aan opdracht 3
 <img src="./images/opdracht_1_licht_dark.png" width="50" height="60">
 <img src="./images/opdracht_1_light_dark.png" width="50" height="60">
 <video controls width="250">
-
-  <source src="./images/opdracht_2.mov" type="video/webm" />
+  <source src="./images/opdracht_2.mov" type="video/quicktime">
+</video>
 
 ### 7 sept
 -Vanuit de inventarisatie: Wat zou je zelf willen maken?:
