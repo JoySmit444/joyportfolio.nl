@@ -235,13 +235,13 @@ hierna heb ik ook de deep dive gemaakt.
 Ik ben dat ik animeren met css erg leuk en uitdagend vind. Maar in alle eerlijkheid javascript echt helemaal niks haha!
 
 <video width="320" height="240" controls>
-  <source src="images/module3/deep_dive_animeren1.mov" type="video/mp4">
+  <source src="images/module3/deep_dive_animeren1.mov" type="video/mp4"></video>
 
 <video width="320" height="240" controls>
-  <source src="images/module3/deep_dive_animeren2.mov" type="video/mp4">
+  <source src="images/module3/deep_dive_animeren2.mov" type="video/mp4"></video>
 
   <video width="320" height="240" controls>
-  <source src="images/module3/deep_dive_animeren3.mov" type="video/mp4">
+  <source src="images/module3/deep_dive_animeren3.mov" type="video/mp4"></video>
 
 ## 8 okt
 
@@ -373,6 +373,7 @@ Hier had ik geleerdt weer met position sticky te werken. En met dingen zoals wel
 
 <video width="320" height="240" controls>
   <source src="images/module3/deepdive_6okt.mov" type="video/mp4">
+  </video>
 
 ## 5 okt
 
@@ -554,8 +555,8 @@ Hiernaast had ik de deep dive gedaan: S2: meer interactie met HTML en CSS (Vasil
 
 Het bewijs hiervan:
 <video width="320" height="240" controls>
-
 <source src="images/module2/video_29_sep_deep.mov" type="video/mp4">
+</video>
 
 Hiernaast had ik nog wat buttons toegevoegt en veranderd. hier moest ik helaas AI voor gebruiken, hier is het bewijs:
 <img src="images/module2/29_hva_1.png" width="500" height="600">
@@ -693,12 +694,14 @@ En alle wetten om de privicy,
 
 Hierna heb ik ook de deep dive gedaan. Hiernaast Deze ging over verschillende positioned.
 <video controls width="250">
-
   <source src="/images/module2/position_oefeningen_2.mov" type="video/webm" />
+  </video>
   <video controls width="250">
   <source src="/images/module2/position_oefingen_3.mov" type="video/webm" />
+  </video>
   <video controls width="250">
   <source src="/images/module2/position_oefeingen_4.mov" type="video/webm" />
+  </video>
 
 ## 24 sep
 
