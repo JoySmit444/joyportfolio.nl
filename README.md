@@ -4,14 +4,14 @@ Vandaag hadden we een feedback moment. Mijn feedback was:
 leer meer de sneltoetsen voor de verschillende accesibilitie dingen. 
 Dit heb ik gedaan, en werkt goed. 
 
-<img src="images/module3/accesabilitie_23okt.jpeg"width="500" height="600">
+<img src="images/module3/accesabilitie_23okt.jpeg" width="500" height="600">
 
 Hiernaast had kreeg ik terug dat ik meer op schetsen en de concepten moet letten, en niet gelijk naar het eind moet gaan. 
 En dat ik zou kunnen letten/ vormgeven van de hover state als je aan het tabben bent. de focus state
 
 Ook heb ik de retrospective gedaan. Deze heb ik getekened in het metaphore van verschillende recepten
 Zo ziet dit eruit: 
-<img src="images/module3/laatste_retrospective.jpeg"width="500" height="600">
+<img src="images/module3/laatste_retrospective.jpeg" width="500" height="600">
 
 De focus state heb ik ook aangepast. 
 Dit is hoe het er nu uit ziet:
@@ -67,7 +67,7 @@ Ik heb natuurlijk de fout van de cijfers weggehaalt. En de bovenstde onderdelen 
 
 Eerst hadden wij de weekly geekly gedaan. Deze had ik gedaan met Amy, Shakila, en Poema.
 Dit is het bewijs hiervan:
-<img src="images/module3/weekly_geekly_21okt.jpeg" width="500" height="600">
+<img src="images/aangepast/weekly_geekly_21oktom.jpeg" width="500" height="600">
 
 Hiernaast was er een zwaar informative feedback moment met klasgenoten. Hier heb ik ook gekeken naar anderen hun werk.
 Dit waren de documenten hiervan:
