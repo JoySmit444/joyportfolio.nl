@@ -1,5 +1,4 @@
 ## 23 sep
-
 Vandaag had ik de lecture in het KSH gebouw. Dit was extreem informatief. Nu weet ik meer over hoe data zich verspreid. En welke soort data's er zijn. En welke wetten waar aan vast zit. Dit waren dingen die ik hiervoor wel wist maar nu meer overna gedacht hebt.
 Ook was het leuk om op een anderen manier te kijken naar hoe bedrijven om deze wetten heen proberen te komen. Hier waren de notes die ik hiervan had genomen
 <img src="images/aangepast/data_notes_1_N.jpeg" width="500" height="600">
@@ -80,14 +79,13 @@ Hier zijn de vidoes hiervan
 <img src="images/module2/opdracht_4_java.png">
 
 ## 22 sep
-
 Ik had deze dag mijn README bijgewerkt omdat ik een beetje achter liep.
 Hiernaast moest ik nog even aan mijn nieuwe code zitten.
 Ik wou de kleuren goed zetten en de grid goed zetten.
 De kleuren waren nu wel gelukt. Omdat mijn grid niet goed gelinkt was kon niks koppelen.
 Helaas moest ik dit wel even chatgpt hiervan vragen:
-<img src="images/module2/header_verwijderd.png width="50" height="60">
-<img src="images/module2/header_verwijderd_oplossing.pngwidth="50" height="60">
+<img src="images/module2/header_verwijderd.png" width="50" height="60">
+<img src="images/module2/header_verwijderd_oplossing.png" width="50" height="60">
 <img src="images/module2/oplossing_2.png" width="50" height="60">
 <img src="images/module2/oplossing3.png" width="50" height="60">
 <img src="images/module2/oplossing4.png" width="50" height="60">
@@ -203,7 +201,6 @@ Hiernaast heb ik de diep dive van buttons gevolgt in de klas:
 <img src="images/module2/button_opdracht2.png" width="50" height="60"/>
 
 ## 21 sep
-
 Wat zijn HTML landmark role elements?
 De speciale tekens die je een onderdeel geef waar je elke keer naar terug kan referen.
 
@@ -342,7 +339,6 @@ Ook had ik de feedback gekregen: hier was de feedback van het tussen gesprek:
 <img src="/images/echt/Scherm­afbeelding 2026-09-21 om 11.29.20.png" width="50" height="60">
 
 ### 17 sep.
-
 Ik heb vandaag een stress curus gehad en daarna de propuduse uitreiking dus was ik op school aanwezig.
 
 Hierna heb ik geprobeerd mijn grid aan te passen voor de web versie.
@@ -354,7 +350,6 @@ Maar gelukkig kwam Sanne aan de redding en heeft die mij geholpen over teams. Hi
 <img src="/images/echt/sanna_bewijs.png" width="50" height="60">
 
 ### 16 sep
-
 Wij hadden gekeken naar de ideale versie van onze website. Daarna hhebben anderen mensen ernaar gekeken en vanuit dit feedback nieuwe vormen gemaakt.
 Mijn grote lijnen feedback was: dat ik mischien de vormgeving beter kan doorzetten. Door dus bijvoorbeld de title ook te teken
 
@@ -394,7 +389,6 @@ Welk principe neem je mee in een laatste iteratie van je ontwerp?
 Balance, scale, en visual hierarchy. Om de meeste ruimte te creeren. En het menselijkst te ontwerpen.
 
 ### sep 15
-
 Voor de bronnen die ik vaker gebruik zijn;
 https://www.w3schools.com/
 https://stackoverflow.com/questions
@@ -603,7 +597,6 @@ Hier is de vidoe hiervan
   <source src="./images/eerst_html_10_sep.mov" type="video/webm" />
 
 ### 8sep:
-
 Ik heb voor deze grid lay-out deze informatie gebruikt:
 https://medium.com/@fatukunda/a-responsive-photo-grid-with-css-grid-layout-5d3bf6b71c0
 https://www.w3schools.com/css/css_grid.asp
@@ -699,7 +692,6 @@ Maar dit waren de antwoorden van mijn vragen.
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ### 3 sept - [Workshop]
-
 In deze workshop (de workshop Interactie: MMD, micro-interacties, forms) hadden we verschillende dingen weer terug gehaalt. Waarvan ook verschillenden design elementen zoals de affordance.
 
 Hier heb ik een wok to walk oefening gemaakt. Zodat je weer kon oefenen met de elementen waar we net mee hadden gewerkt. Ik heb geprobeerdt cue's en de anderen elementen in de user interaction te zetten.
@@ -763,7 +755,6 @@ Hiernaast had ik ook de lelijke pagina van html opgesteld. Voor de diepdive: pra
 ## Learning Log
 
 ## 31 Augustus.
-
 ik heb alles geinstaleerdt, en gekoppled wat gekoppled moest worden. Helaas kon ik niet VS codium gebruiken omdat mijn computer het niet aankon.
 dus code ik in VS code,
 
