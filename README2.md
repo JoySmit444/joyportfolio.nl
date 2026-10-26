@@ -454,7 +454,7 @@ Wij vonden het interessant dat het een soort game wordt.
 
 En de websites waarin wij de interactie het leukst vonden was: 1.https://immersivebags.miumiu.com/en/ 2.https://why.zero.university/ 3.https://assets.awwwards.com/awards/external/2017/07/595badffaf6a2.mp4
 
-###13 Sep.
+### 13 Sep.
 Hier had ik kleine dingen gedaan, Ik had mijn header foto omgezet in een SVG. Hier had ik gelijk geleerdt hoe veel beter dit werkten. Ik zag gelijk wat de leraar bedoelden.
 Ook kon ik hem makkelijker manipuleren in mijn pagina.
 
@@ -473,7 +473,7 @@ Dit waren mijn notities hiervan.
 <img src="/images/internet_notes_1.png" width="50" height="60">
 <img src="/images/internet_notes_2.png" width="50" height="60">
 
-###11 september
+### 11 september
 In deze les heb ik feedback gekregen van mijn leraar. Dit was het geven feedback:
 Joy feedback:
 -Switchen naar SVG'S op je website (via illustrator of affinity SVG is vectoren, met CSS kan je dat stijlen. Je kan bijv. andere kleur geven met CSS. Kracht van je eigen tekenstijl en CSS. SVG blijft altijd scherp
@@ -506,7 +506,7 @@ Daarna heb ik de deep dive over grids bijgewoond. De screenshots hiervan zijn
 Ik heb nu het gevoel alsof ik veel meer weet van grids, en van hoe ik een pagina opstel.
 Dit waren dingen die ik hiervoor echt nog niet begreep.
 
-##9 sep:
+## 9 sep:
 check out vragen:
 Leg uit waar het Visual Research in 3 stappen naartoe werkt
 Naar een visuale sfeer neerzetten die niet te letterlijk is. Zodat
@@ -564,7 +564,7 @@ Opdracht 2
   <video controls width="250">
   <source src="./images/opdracht_2GR.mov" type="video/webm" />
 
-###10 sept:
+### 10 sept:
 Helaas ben ik echt niet uit @property animeren gekomen.
 Ik heb mijn best gedaan: zo heb ik deze links gebruikt.
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@property
@@ -601,7 +601,7 @@ Hier is de vidoe hiervan
  <video controls width="250">
   <source src="./images/eerst_html_10_sep.mov" type="video/webm" />
 
-###8sep:
+### 8sep:
 
 Ik heb voor deze grid lay-out deze informatie gebruikt:
 https://medium.com/@fatukunda/a-responsive-photo-grid-with-css-grid-layout-5d3bf6b71c0
@@ -641,7 +641,7 @@ beginnen aan opdracht 3
 
   <source src="./images/opdracht_2.mov" type="video/webm" />
 
-###7 sept
+### 7 sept
 -Vanuit de inventarisatie: Wat zou je zelf willen maken?:
 de website die ik als inspiratie zou willen nemen is:
 https://nuel.pw/
@@ -685,7 +685,7 @@ Hierna, in onze eigen klas hebben wij artiekelen gelezen en besproken over de ve
 Hiernaast hebben wij gekeken naar de anderen gardens van vorige jaren en met een nieuwe group besproken wat deze goed/ slecht/ niet duidelijk/ wel duidelijk maakte.
 Of hij webby was en waarom. En hoe wij dit persoonlijk konden aanpassen.
 
-###4 sep:
+### 4 sep:
 Ik had de deep dives: HTML en CSS basics. En praktisch css.
 Hier heb ik veel geleerdt. Bij de HTML heb ik weinig notities gemaakt,
 omdat ik het meeste al wel snapten.
@@ -743,7 +743,6 @@ Hiervoor heb ik de css dinner game gemaakt.
 
 <img src="./images/dinnercss_bewijs2.png" alt="dinnercss_bewijs1" width="50" height="60">
 
-3 Sep
 Voor de deep dive: Html en css basic heb ik de aangegeven teksten en artiekelen gelezen.
 Dit leed tot de volgende notities en vragen.
 Ook had ik 2 artiekelen gelezen.
