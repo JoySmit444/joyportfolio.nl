@@ -1,4 +1,9 @@
 # Model
+
+## 26 okt
+Vandaag hadden we het laatste feedback moment. 
+
+
 ## 23 okt
 Vandaag hadden we een feedback moment. Mijn feedback was:
 leer meer de sneltoetsen voor de verschillende accesibilitie dingen. 
