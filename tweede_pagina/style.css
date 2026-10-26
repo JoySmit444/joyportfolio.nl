@@ -44,6 +44,7 @@ html {
   --button-hover: light-dark(#b33b72, #2b1b2a);
   --font: light-dark(black, white);
 
+
   --focus-state: light-dark(#b33b72, pink);
   --button-active: #8bc34a;
 }
@@ -340,7 +341,7 @@ details {
   background-color: transparent;
   line-height: normal;
   display: inline;
-  color: blue;
+  color: var(--font);
   text-decoration: underline;
 }
 

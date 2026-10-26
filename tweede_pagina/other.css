@@ -324,7 +324,7 @@ details {
   background-color: transparent;
   line-height: normal;
   display: inline;
-  color: blue;
+  color:  var(--font);
   text-decoration: underline;
 }
 
