@@ -702,7 +702,7 @@ Vandaag had ik een stress coach gesprek waardoor ik op school was.
 Hiernaast ging ik mijn 2 htmls willen koppelen. Dit wou ik doen met een knop. En hier kwam ik helemaal niet uit.
 
 Daardoor moest ik helaas chatgpt vragen om
-<img src="images/module2/24-sep_AI1.png">
+<img src="images/module2/24-sep_AI1.png width="50" height="60">
 <img src="images/module2/24_sep_AI2.png">
 <img src="images/module2/CHAT_24sep.png">
 <img src="images/module2/CHAT_ANTWOORDT_2.png">
