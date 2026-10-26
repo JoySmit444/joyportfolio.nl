@@ -1,44 +1,43 @@
 # Model
-
 ## 23 okt
 Vandaag hadden we een feedback moment. Mijn feedback was:
 leer meer de sneltoetsen voor de verschillende accesibilitie dingen. 
 Dit heb ik gedaan, en werkt goed. 
 
-<img src="images/module3/accesabilitie_23okt.jpeg">
+<img src="images/module3/accesabilitie_23okt.jpeg"width="500" height="600">
 
 Hiernaast had kreeg ik terug dat ik meer op schetsen en de concepten moet letten, en niet gelijk naar het eind moet gaan. 
 En dat ik zou kunnen letten/ vormgeven van de hover state als je aan het tabben bent. de focus state
 
 Ook heb ik de retrospective gedaan. Deze heb ik getekened in het metaphore van verschillende recepten
 Zo ziet dit eruit: 
-<img src="images/module3/laatste_retrospective.jpeg">
+<img src="images/module3/laatste_retrospective.jpeg"width="500" height="600">
 
 De focus state heb ik ook aangepast. 
 Dit is hoe het er nu uit ziet:
 Dit was stadium 1
-<img src="images/module3/statium_1.png">
+<img src="images/module3/statium_1.png" width="500" height="600">
 
 Dit is stadium 2:
-<img src="images/module3/stadium_2.png">
+<img src="images/module3/stadium_2.png" width="500" height="600">
 
 En dit is het eind werk:
-<img src="images/module3/stadium_3.png">
+<img src="images/module3/stadium_3.png"width="500" height="600">
 
 Helaas moest ik wel wat chat gpt gebruiken. 
 Dit is het bewijs hiervoor. Hiernaast heb ik veel inspiratie genomen van ww3chools. 
 
 
 Ook zag ik dat mijn tweede sprint pagina niet werkten. Dit lukten mij compleet niet om op te lossen. Dus moest ik ook chatgpt gebruiken. 
-<img src="images/module3/background_blur_0.png">
-<img src="images/module3/achtergond_blur.png">
+<img src="images/module3/background_blur_0.png" width="500" height="600">
+<img src="images/module3/achtergond_blur.png" width="500" height="600">
 
-<img src="images/module3/body_lukt_niet.png">
+<img src="images/module3/body_lukt_niet.png" width="500" height="600">
 
-<img src="images/module3/grid_stopped.png">
-<img src="images/module3/grid_2.png">
-<img src="images/module3/grid_3.png">
-<img src="images/module3/grid_4.png">
+<img src="images/module3/grid_stopped.png" width="500" height="600">
+<img src="images/module3/grid_2.png" width="500" height="600">
+<img src="images/module3/grid_3.png" width="500" height="600">
+<img src="images/module3/grid_4.png" width="500" height="600">
 
 ## 22 okt
 gisteren had ik feedback ontvangen van diederik over mijn lyrsich website. 
@@ -48,32 +47,32 @@ Hiernaast vondt hij dat mijn elementen te veel uit elkaar stonden, en niet genoe
 Hij raden aan door vorm en kleur dit aan te passen. 
 Dit heb ik ook gedaan door meer kleuren toe te same te voegen, en de grotens en positie van woorden te veranderen zodat ze meer samen kwamen
 zo ziet hij er nu uit. 
-<img src="images/module3/lysrich_22okt_1.png">
-<img src="images/module3/lyrisch_22okt_2.png">
-<img src="images/module3/lyrshc_22okt_3.png">
-<img src="images/module3/lyrsich_22okt_4.png">
-<img src="images/module3/lyrssich_22okt_5.png">
-<img src="images/module3/lyrsich_22okt_6.png">
-<img src="images/module3/lyrsich_22okt_7.png">
-<img src="images/module3/lyrsich_22okt_8.png">
+<img src="images/module3/lysrich_22okt_1.png" width="500" height="600">
+<img src="images/module3/lyrisch_22okt_2.png" width="500" height="600">
+<img src="images/module3/lyrshc_22okt_3.png" width="500" height="600">
+<img src="images/module3/lyrsich_22okt_4.png" width="500" height="600">
+<img src="images/module3/lyrssich_22okt_5.png" width="500" height="600">
+<img src="images/module3/lyrsich_22okt_6.png" width="500" height="600">
+<img src="images/module3/lyrsich_22okt_7.png" width="500" height="600">
+<img src="images/module3/lyrsich_22okt_8.png" width="500" height="600">
 
 hiernaast had ik nog feedback gevraagt van diederik. Dit was het feedback dat ik gekregen had: 
 Joy, met name in het deel na ‘are you listening to me’ ondersteunt de vorm het ritme of de betekenis van de tekst. De nummers in de tekst zijn tegelijkertijd grappig en verwarrend en mischien zelfs niet je bedoeling geweest. De animaties lijken werder tegen de tekst te werken dan die te versterken, moet je die er dus wel in houden? 
 De kleuren maakten het wel meer Village People…
  
 Ik heb natuurlijk de fout van de cijfers weggehaalt. En de bovenstde onderdelen nog aangepast
-<img src="images/module3/feedback_verandering.png">
+<img src="images/module3/feedback_verandering.png" width="500" height="600">
 
 ## 21 okt
 
 Eerst hadden wij de weekly geekly gedaan. Deze had ik gedaan met Amy, Shakila, en Poema.
 Dit is het bewijs hiervan:
-<img src="images/module3/weekly_geekly_21okt.jpeg">
+<img src="images/module3/weekly_geekly_21okt.jpeg" width="500" height="600">
 
 Hiernaast was er een zwaar informative feedback moment met klasgenoten. Hier heb ik ook gekeken naar anderen hun werk.
 Dit waren de documenten hiervan:
-<img src="images/module3/feedback-21okt2.jpeg">
-<img src="images/module3/feedback.21okt.jpeg">
+<img src="images/module3/feedback-21okt2.jpeg" width="500" height="600">
+<img src="images/module3/feedback.21okt.jpeg" width="500" height="600">
 
 Het feedback van deze dingen waren:
 Dat ik mijn A tag kleiner moest maken zodat de elemten elkaar niet zouden overlappen in de main pagina.
@@ -84,19 +83,19 @@ En mijn website nog verder valideren.
 
 Mijn a tag had ik met de hulp van een student assistent afgemaakt/aangepast,
 Dit is hoe de website er nu uit ziet.
-<img src="images/module3/nieuwe_layout_21okt1.png">
-<img src="images/module3/nieuw_layout_21okt2.png">
-<img src="images/module3/nieuwe_layout_21okt3.png">
+<img src="images/module3/nieuwe_layout_21okt1.png" width="500" height="600">
+<img src="images/module3/nieuw_layout_21okt2.png" width="500" height="600">
+<img src="images/module3/nieuwe_layout_21okt3.png" width="500" height="600">
 
 Daarna had ik de light dark beter gemaakt door de achtergrond donkereder te maken, en het font wit maken.
-<img src="images/module3/lightdark_1.png">
-<img src="images/module3/lightdark_2.png">
+<img src="images/module3/lightdark_1.png" width="500" height="600">
+<img src="images/module3/lightdark_2.png" width="500" height="600">
 
 daarna heb ik de errors begonnen.
 Dit waren de grote errors die ik bijna overal had.
-<img src="images/module3/de_eerste_errors.png">
-<img src="images/module3/derde_erros.png">
-<img src="images/module3/fierde_2.png">
+<img src="images/module3/de_eerste_errors.png" width="500" height="600">
+<img src="images/module3/derde_erros.png" width="500" height="600">
+<img src="images/module3/fierde_2.png" width="500" height="600">
 
 Mijn muziek pagina had ik compleet op kunnen lossen.
 <img src="images/module3/muziek_errors.png">
@@ -110,30 +109,30 @@ Vandaag had ik de feedback elementen verwerkt.
 Eerst had ik gekeken naar hoe ik mijn voor pagina beter kon maken. Dit heb ik gemaakt met @media.
 Het is leuk als code klikt in je hoofd, want ineens heb je veel meer mogelijkheden.
 ik moest wel 1 vraag stellen aan chat gpt:
-<img src="images/module3/vraag_chat20okt_1.png">
-<img src="images/module3/vraag_chat20okt_2.png">
+<img src="images/module3/vraag_chat20okt_1.png" width="500" height="600">
+<img src="images/module3/vraag_chat20okt_2.png" width="500" height="600">
 
 Nu ziet mijn website er zo uit:
-<img src="images/module3/website_nieuw.png">
+<img src="images/module3/website_nieuw.png" width="500" height="600">
 Wat er nu beter is dat er minder ruimter zit aan de kant van de pagina. Dit ziet er beter uit, en is meer adaptive
 Helaas zit er nog wat extra ruimte op de mobiel versie. Dit weet ik helaas niet hoe ik dit moet oplossen.
 
 Ook had ik de knoppen aangepast zodat hij als de pagina groter en kleiner wordt de knopen niet rare dingen doen zoals ze eerder deden. Nu bewegen ze perfect mee.
 
 Hierna ging ik werken aan mijn verschillende fonts. Ik had een font gevonden die hetzelfde concept door gaf, maar iets wat beter leesbaar is. Zo ziet dit er nu uit.
-<img src="images/module3/nieuw_font_2.png">
-<img src="images/module3/nieuw_font_3.png">
-<img src="images/module3/nieuw_font_4.png">
+<img src="images/module3/nieuw_font_2.png" width="500" height="600">
+<img src="images/module3/nieuw_font_3.png" width="500" height="600">
+<img src="images/module3/nieuw_font_4.png" width="500" height="600">
 
 Helaas moest ik wel hva ia hiervoor gebruiken.
 Dit is het bewijs hiervan
-<img src="images/module3/chatia_20okt_1.png">
-<img src="images/module3/chatai_20okt_2.png">
-<img src="images/module3/chatai_20okt_3.png">
+<img src="images/module3/chatia_20okt_1.png" width="500" height="600">
+<img src="images/module3/chatai_20okt_2.png" width="500" height="600">
+<img src="images/module3/chatai_20okt_3.png" width="500" height="600">
 
 Hiernaast had ik ook de knop op mijn animatie veranderd zodat op mobiel het makkelijker is om naar de home pagina te gaan.
 Dit is hoe dit eruit ziet:
-<img src="images/module3/nieuwe_home_pagina.png">
+<img src="images/module3/nieuwe_home_pagina.png" width="500" height="600">
 
 Hiernaast had ik feedback gevraagt op mijn lyrsich pagina omdat ik deze vrijdag niet mee had kunnen pakken.
 Mijn feedback was dat ik een delay kon zetten tussen mijn 'young man' Dit heb ik gedaan. zodat het meer lijkt op dit het nummer.
@@ -147,18 +146,18 @@ Dit is het voorbeeld hiervan:
 <source src="images/module3/draaien.movtype="video/mp4">
 
 en hoe het feedback eruit zag.
-<img src="images/module3/feedback_songtext.jpeg">
+<img src="images/module3/feedback_songtext.jpeg" width="500" height="600">
 
 Hiernaast had ik mijn lyrsich pagina groter gemaakt vanuit feedback van de leraar.
 Ik probeerden hetzelfde concept door te voeren als ik daarvoor had gedaan:
-<img src="images/module3/nieuwymca_1.png">
-<img src="images/module3/nieuwymca_2.png">
-<img src="images/module3/nieuwymca_3.png">
-<img src="images/module3/nieuwymca_4.png">
-<img src="images/module3/nieuwymca_5.png">
+<img src="images/module3/nieuwymca_1.png" width="500" height="600">
+<img src="images/module3/nieuwymca_2.png" width="500" height="600">
+<img src="images/module3/nieuwymca_3.png" width="500" height="600">
+<img src="images/module3/nieuwymca_4.png" width="500" height="600">
+<img src="images/module3/nieuwymca_5.png" width="500" height="600">
 
 Ook had ik feedback gevraagt over mijn website, en kon vasilis wat fouten zien in mijn cookies. Dit heb ik aangepast.
-<img src="images/module3/nieuwe_cookies.png">
+<img src="images/module3/nieuwe_cookies.png" width="500" height="600">
 
 ## 19 okt.
 
@@ -169,20 +168,20 @@ Ik zou meer animaites wilen toevoegen, zodat ik meer diversiteit heb in mijn web
 En moet ik nog van mijn songtekst pagina een home knop maken want deze was niet indrukbaar in de telefoon app.
 
 Hier is de screenshot hiervan:
-<img src="images/module3/webby_19_okt.jpeg">
+<img src="images/module3/webby_19_okt.jpeg" width="500" height="600">
 
 Hiernaast heb ik feedback gevraagt van jesse. Dit was het feedback die hij had:
-<img src="images/module3/feedback_jesse_19okt.jpeg">
+<img src="images/module3/feedback_jesse_19okt.jpeg" width="500" height="600">
 
 Hij maakt een goed punt dan ik mijn fonts iets wat beter kon kiezen, vooral voor mijn koppen, hier ga ik naar kijken.
 Ook bracht hij mij op een idee om mijn cookies transitie van open naar sluit te animeren. Omdat ik moeite had met animaties toe te voegen in mijn website.
 
 Ik heb gelijk aan de animaties gewerkt. Helaas moest ik wat meer AI gebruiken als ik normaal comfertable mee ben. Ik had geprobeerdt het op anderen manieren te vragen , en veel te googelen, maar helaas kwam ik er echt niet uit. Hier is het bewijs.
-<img src="images/module3/chat_19_okt1.png">
-<img src="images/module3/chat_19_okt2.png">
-<img src="images/module3/chat_19_okt3.png">
-<img src="images/module3/chat_19_okt4.png">
-<img src="images/module3/chat_19_okt5.png">
+<img src="images/module3/chat_19_okt1.png" width="500" height="600">
+<img src="images/module3/chat_19_okt2.png" width="500" height="600">
+<img src="images/module3/chat_19_okt3.png" width="500" height="600">
+<img src="images/module3/chat_19_okt4.png" width="500" height="600">
+<img src="images/module3/chat_19_okt5.png" width="500" height="600">
 
 Dit heb ik aangepast.
 En zo ziet dit er nu uit in mijn website.
@@ -199,7 +198,7 @@ En hiernaast heb ik animaties toegevoegt bij het lyrsich pagina om het idee van 
 
 Hier had ik het werk proberen in te halen dat ik door ziekten heb gemist.
 Hier had ik de schetsen gemaakt voor de animaties doe ik graag zou willen zien:
-<img src="images/module3/animatie_schetsen.jpg">
+<img src="images/module3/animatie_schetsen.jpg" width="500" height="600">
 
 Hiernaast ik had de vorige keer al duidelike fonts toegevoegt die whimsy toevoegenden, Alleen als ik nog meer moet veranderen zou ik mischien dikkeren en meer verschillenden schreven toevoegen.
 
@@ -287,21 +286,21 @@ Een bron die ik heb gebruikt voor blinking achtergrond light:
 https://www.youtube.com/watch?v=GqH8oyeNqpQ
 
 Hiernaast mocht ik verschillende versies maken van mijn tekst. Mijn eerste iditie was een concept waar ik het concept van: Dancen probeerden vast te stellen. Het is namelijk een dans concept.
-<img src="muziek/image/dans1.png">
-<img src="muziek/image/dans2.png">
-<img src="muziek/image/dans3.png">
-<img src="muziek/image/dans1.png">
+<img src="muziek/image/dans1.png" width="500" height="600">
+<img src="muziek/image/dans2.png" width="500" height="600">
+<img src="muziek/image/dans3.png" width="500" height="600">
+<img src="muziek/image/dans1.png" width="500" height="600">
 
 Hiernaast heb ik een wat seriuezen versie gemaakt:
-<img src="muziek/image/seriues_1.png">
-<img src="muziek/image/seriues_2.png">
-<img src="muziek/image/seriues_3.png">
+<img src="muziek/image/seriues_1.png" width="500" height="600">
+<img src="muziek/image/seriues_2.png" width="500" height="600">
+<img src="muziek/image/seriues_3.png" width="500" height="600">
 
 Ik heb voor fonts geprobeerdt zo veel mogelijk nadruk geef aan de belangrijke dingen, door het font groter en minder groot te maken.
 Hiernaast heb ik een regenboog disco gemaakt. Om en de disco van deze tijd te representeren. Maar ook wat dit lied heeft betekend voor de LGBT communitie.
-<img src="muziek/image/kleur_1.png">
-<img src="muziek/image/kleur_2.png">
-<img src="muziek/image/kleur_3.png">
+<img src="muziek/image/kleur_1.png" width="500" height="600">
+<img src="muziek/image/kleur_2.png" width="500" height="600">
+<img src="muziek/image/kleur_3.png" width="500" height="600">
 
 Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
 Voor een ontwerper voor controle en voor een website die duidelijk en goed scaalt.
@@ -317,33 +316,33 @@ Zoveel als je wilt? zolang de code maar klopt. Als het werk is voor een bedrijf 
 
 Hiernaast heb ik nog een deep dive gedaan. Deze ging over animeren met verschillende fonts:
 
-<img src="images/module3/deepdive_7okt.png">
-<img src="images/module3/deepdive_7okt2.png">
-<img src="images/module3/deepdive_7okt3.png">
-<img src="images/module3/deepdive_7okt5.mov">
+<img src="images/module3/deepdive_7okt.png" width="500" height="600">
+<img src="images/module3/deepdive_7okt2.png" width="500" height="600">
+<img src="images/module3/deepdive_7okt3.png" width="500" height="600">
+<img src="images/module3/deepdive_7okt5.mov" width="500" height="600">
 
 ## 6 okt
 
 Vandaag heb ik een begin gemaakt van de code. Ik heb de schets zo goed mogelijk proberen na te maken. Maar ik heb er een paar dingen aan veranderd, bijvoorbeeld de: young man heb ik op een anderen manier groter. en kleiner gemaakt. omdat dit beter pasten bij het lied,
 En er mooier uitzag
-<img src="images/module3/Eerste_concet_6okt.png">
-<img src="images/module3/eerste_concept_6okt.png">
-<img src="images/module3/Eeerste_concept_6okt.png">
+<img src="images/module3/Eerste_concet_6okt.png" width="500" height="600">
+<img src="images/module3/eerste_concept_6okt.png" width="500" height="600">
+<img src="images/module3/Eeerste_concept_6okt.png" width="500" height="600">
 
 Hierbij moest ik helaas wel HVA AI gebruiken. Dit is het bewijs hiervoor:
-<img src="images/module3/grid_era_werktniet1.png">
-<img src="images/module3/grid_area_werktniet2.png">
+<img src="images/module3/grid_era_werktniet1.png" width="500" height="600">
+<img src="images/module3/grid_area_werktniet2.png" width="500" height="600">
 
-<img src="images/module3/lijn_1.png">
-<img src="images/module3/lijn_2.png">
-<img src="images/module3/lijn_3.png">
-<img src="images/module3/lijn_4.png">
-<img src="images/module3/lijn_5.png">
-<img src="images/module3/lijn_6.png">
+<img src="images/module3/lijn_1.png" width="500" height="600">
+<img src="images/module3/lijn_2.png" width="500" height="600">
+<img src="images/module3/lijn_3.png" width="500" height="600">
+<img src="images/module3/lijn_4.png" width="500" height="600">
+<img src="images/module3/lijn_5.png" width="500" height="600">
+<img src="images/module3/lijn_6.png" width="500" height="600">
 
-<img src="images/module3/lijnhoogte1.png">
-<img src="images/module3/lijnhoogte2.png">
-<img src="images/module3/lijnhoogte3.png">
+<img src="images/module3/lijnhoogte1.png" width="500" height="600">
+<img src="images/module3/lijnhoogte2.png" width="500" height="600">
+<img src="images/module3/lijnhoogte3.png" width="500" height="600">
 
 Hiernaast heb ik het artiekel gelezen en zijn hiet de notities van:
 Notes Technical Web Typography: Guidelines and Techniques:
@@ -386,30 +385,30 @@ Goede typografie draait niet om decoratie, maar om het helder en krachtig overbr
 Wees tevens bewust welke tools je wanneer gebruikt, typografie is niet alleen decoratief, het is een tool om een motief uit te drukken
 
 En het bewijs van de artiekelen:
-<img src="images/module3/artiekel_1_5okt.jpeg">
-<img src="images/module3/artiekel_2_5okt.jpeg">
-<img src="images/module3/artiekel_3_5okt.jpegg">
-<img src="images/module3/artiekele_4_5okt.jpeg">
-<img src="images/module3/artiekele_5_5okt.jpeg">
-<img src="images/module3/artiekel_6_5okt.jpeg">
-<img src="images/module3/artiekele_7_5okt.jpeg">
-<img src="images/module3/artiekele_8_5okt.jpeg">
+<img src="images/module3/artiekel_1_5okt.jpeg" width="500" height="600">
+<img src="images/module3/artiekel_2_5okt.jpeg" width="500" height="600">
+<img src="images/module3/artiekel_3_5okt.jpegg" width="500" height="600">
+<img src="images/module3/artiekele_4_5okt.jpeg" width="500" height="600">
+<img src="images/module3/artiekele_5_5okt.jpeg" width="500" height="600">
+<img src="images/module3/artiekel_6_5okt.jpeg" width="500" height="600">
+<img src="images/module3/artiekele_7_5okt.jpeg" width="500" height="600">
+<img src="images/module3/artiekele_8_5okt.jpeg" width="500" height="600">
 
 Hiernaast heb ik goed en duidelijk gekeken naar de song tekst. wat het betekend en hoe ze met de tekst en beats iets door proberen te zetten.
 Hier heb ik schetsen van gemaakt. Deze schetsen waren:
-<img src="images/module3/schets_1_5_okt.jpeg">
-<img src="images/module3/schets_2_5okt.jpeg">
-<img src="images/module3/schets_3_5okt.jpeg">
-<img src="images/module3/schets_4_5okt.jpeg">
-<img src="images/module3/schets_5_5okt.jpeg">
-<img src="images/module3/schets_7_5okt.jpeg">
-<img src="images/module3/schets_6_5okt.jpeg">
-<img src="images/module3/schets_8+5okt.jpeg">
-<img src="images/module3/schets_8_5okt.jpeg">
-<img src="images/module3/schets_9_5okt.jpegg">
+<img src="images/module3/schets_1_5_okt.jpeg" width="500" height="600">
+<img src="images/module3/schets_2_5okt.jpeg" width="500" height="600">
+<img src="images/module3/schets_3_5okt.jpeg" width="500" height="600">
+<img src="images/module3/schets_4_5okt.jpeg" width="500" height="600">
+<img src="images/module3/schets_5_5okt.jpeg" width="500" height="600">
+<img src="images/module3/schets_7_5okt.jpeg" width="500" height="600">
+<img src="images/module3/schets_6_5okt.jpeg" width="500" height="600">
+<img src="images/module3/schets_8+5okt.jpeg" width="500" height="600">
+<img src="images/module3/schets_8_5okt.jpeg" width="500" height="600">
+<img src="images/module3/schets_9_5okt.jpegg" width="500" height="600">
 
 Ook had ik een uitgewerkte schets hiervan gemaakt:
-<img src="images/module3/uitgewerkte_schets_5okt.png">
+<img src="images/module3/uitgewerkte_schets_5okt.png" width="500" height="600">
 
 check out:
 Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
@@ -453,11 +452,11 @@ groottwe. Omdat je daarmee het meeste herargie kan neerzetten
 ## 2 okt.
 
 Vandaag hadden wij alleen de retrospective. En het feedback. De retrospective was here
-<img src="images/module2/2okt_retro_1.jpeg">
-<img src="images/module2/2okt_retro_2.jpeg">
+<img src="images/module2/2okt_retro_1.jpeg" width="500" height="600">
+<img src="images/module2/2okt_retro_2.jpeg" width="500" height="600">
 
 En de uitgewerkte tekening is:
-<img src="images/module2/2okt_retro_3.jpeg">
+<img src="images/module2/2okt_retro_3.jpeg" width="500" height="600">
 Het betekend vooral dat ik eindelijk een beetje het eind er in kan zien. Omdat ik weer in het rooster kom. En omdat ik de code begin te begrijpen. Is het nu minder zwaar. Ook dingen zoals de stress coaching maakt het huiswerk minder zwaar.
 
 ## 30 sep
@@ -487,51 +486,51 @@ Ook zou ik graag nog een foto toe willen voegen
 De leesbaarheids test.
 Hieruit leerde ik dat mijn website duidelijk leesbaar en goed is.
 Eigelijk ging alles goed. Behalven het lezen van teksten waar hij wat moeite mee had. Maar dit kan ook liggen aan mijn computer kunsten.
-<img src="images/module2/lijsten_lezen.png">
+<img src="images/module2/lijsten_lezen.png" width="500" height="600">
 
 Voor de rest had ik weinig fouten. Maar is mijn website ook een website met veel tekst en daarin minder interactie. Dus is het ook makkelijker om er doorheen te komen.
 
 Het bewijs dat het tabbaar is. Hier ben ik eigelijk geen probleme tegengekomen behalven het feit dat ik een home button miss.
-<img src="images/module2/bewijs_tab_1.png">
-<img src="images/module2/bewijs_tab_2.png">
-<img src="images/module2/bewijs_tab_3.png">
-<img src="images/module2/bewijs_tab_4.png">
-<img src="images/module2/bewijs_tab_5.png">
-<img src="images/module2/bewijs_tab_6.png">
+<img src="images/module2/bewijs_tab_1.png" width="500" height="600">
+<img src="images/module2/bewijs_tab_2.png" width="500" height="600">
+<img src="images/module2/bewijs_tab_3.png" width="500" height="600">
+<img src="images/module2/bewijs_tab_4.png" width="500" height="600">
+<img src="images/module2/bewijs_tab_5.png" width="500" height="600">
+<img src="images/module2/bewijs_tab_6.png" width="500" height="600">
 
 Hiernaast kon hij alles zonder probleem lezen. Behalevn de lijsten, die kon ik lezen maar had hij een beetje moeite mee.. Maar dat kan ook aan mijn eigen skills zitten haha!
-<img src="images/module2/lezen_bewijs_1.png">
-<img src="images/module2/lezen_bewijs_2.png">
-<img src="images/module2/lezen_bewijs_3.png">
-<img src="images/module2/lezen_bewijs_4.png">
+<img src="images/module2/lezen_bewijs_1.png" width="500" height="600">
+<img src="images/module2/lezen_bewijs_2.png" width="500" height="600">
+<img src="images/module2/lezen_bewijs_3.png" width="500" height="600">
+<img src="images/module2/lezen_bewijs_4.png" width="500" height="600">
 
-<img src="images/module2/bewijs_van_link.png">
+<img src="images/module2/bewijs_van_link.png" width="500" height="600">
 
 Hiernaast had ik tuurlijk ook de kleuren gecheckt. Dezen klopten allemaal. hier waren geen contrast problemen in:
-<img src="images/module2/contrast_bewijs_1.png">
-<img src="images/module2/contrast_bewijs_2.png">
-<img src="images/module2/contrast_bewijs_3.png">
-<img src="images/module2/contrast_bewijs_4.png">
-<img src="images/module2/contrast_bewijs_6.png">
-<img src="images/module2/contrast_bewijs_7.png">
+<img src="images/module2/contrast_bewijs_1.png" width="500" height="600">
+<img src="images/module2/contrast_bewijs_2.png" width="500" height="600">
+<img src="images/module2/contrast_bewijs_3.png" width="500" height="600">
+<img src="images/module2/contrast_bewijs_4.png" width="500" height="600">
+<img src="images/module2/contrast_bewijs_6.png" width="500" height="600">
+<img src="images/module2/contrast_bewijs_7.png" width="500" height="600">
 
 Hiernaast had ik natuurlijk ook de check list gedaan. Hier kwam weinig uit. Het meeste klopten. behalven het feit dat mijn tweede link van: miss Aura te moeilijk te lezen was.
 Hiernaast omdat ik weinig echte knoppen heb en veel A tags kwam ik hier veel op terug. Maar de echten knoppen hadden de button tag. En dat ik een home button heb toegevoegd. Om duidelijker en beter mensen die alleen hun toetsenboard kunnen gebruiken makelijker door de app heen kunnen.
 
 Hiernaast heb ik een vidoe toegevoegt! En hiernaast heb ik de light-dark duidelijker gemaakt. Zodat het contrast nog hoger is voor alles!
 bewijs hiervan:
-<img src="images/module2/aanpassingen_1.png">
-<img src="images/module2/aanpassingen_2.png">
-<img src="images/module2/aanpassingen_3.png">
-<img src="images/module2/aanpassingen_4.png">
-<img src="images/module2/aanpassingen_5.png">
+<img src="images/module2/aanpassingen_1.png" width="500" height="600">
+<img src="images/module2/aanpassingen_2.png" width="500" height="600">
+<img src="images/module2/aanpassingen_3.png" width="500" height="600">
+<img src="images/module2/aanpassingen_4.png" width="500" height="600">
+<img src="images/module2/aanpassingen_5.png" width="500" height="600">
 
 En het formulier hiervan:
-<img src="images/module2/rechten_formulier_1.jpeg">
-<img src="images/module2/rechten_formulier_2.jpeg">
-<img src="images/module2/rrechten_formulier_3.jpeg">
-<img src="images/module2/rechten_formulier_4.jpeg">
-<img src="images/module2/rechten_formulier_5.jpeg">
+<img src="images/module2/rechten_formulier_1.jpeg" width="500" height="600">
+<img src="images/module2/rechten_formulier_2.jpeg" width="500" height="600">
+<img src="images/module2/rrechten_formulier_3.jpeg" width="500" height="600">
+<img src="images/module2/rechten_formulier_4.jpeg" width="500" height="600">
+<img src="images/module2/rechten_formulier_5.jpeg"width="500" height="600">
 
 ## 29 sep
 
@@ -544,7 +543,7 @@ Ook wil ik het natuurlijk in de huisstijl houden. Dit doe ik ook extreem express
 Daarom wil ik de 'veilige' huisstijl doorzetten.
 
 Hier zijn de meer uitgewerkte schetsen:
-<img src="images/module2/uitgewerkte_schetsen.png">
+<img src="images/module2/uitgewerkte_schetsen.png" width="500" height="600">
 
 Hiernaast had ik de deep dive gedaan: S2: meer interactie met HTML en CSS (Vasilis)
 
@@ -554,16 +553,16 @@ Het bewijs hiervan:
 <source src="images/module2/video_29_sep_deep.mov" type="video/mp4">
 
 Hiernaast had ik nog wat buttons toegevoegt en veranderd. hier moest ik helaas AI voor gebruiken, hier is het bewijs:
-<img src="images/module2/29_hva_1.png">
-<img src="images/module2/29_hva_2.png">
-<img src="images/module2/29_hva_3.png">
-<img src="images/module2/29_hva_4.png">
+<img src="images/module2/29_hva_1.png" width="500" height="600">
+<img src="images/module2/29_hva_2.png" width="500" height="600">
+<img src="images/module2/29_hva_3.png" width="500" height="600">
+<img src="images/module2/29_hva_4.png" width="500" height="600">
 
 En dit is hoe de knoppen er nu uit zien:
-<img src="images/module2/knop_1.png">
-<img src="images/module2/knop_2.png">
-<img src="images/module2/knop_3.png">
-<img src="images/module2/knop_4.png">
+<img src="images/module2/knop_1.png" width="500" height="600">
+<img src="images/module2/knop_2.png" width="500" height="600">
+<img src="images/module2/knop_3.png" width="500" height="600">
+<img src="images/module2/knop_4.png" width="500" height="600">
 
 ## 28 sep
 
@@ -584,34 +583,34 @@ Tab werkt met alles, enter + spatie werkt om dingen te selecteren.
 command+fn+f5. kan je de spreek ding selecteren.
 
 Het bewijs van de weekly geekly:
-<img src="images/module2/bi-weekly_geek2.jpeg">
+<img src="images/module2/bi-weekly_geek2.jpeg" width="500" height="600">
 
 En bewijs van de luistere/ toegankelijksheid test op de NS:
-<img src="images/module2/ns_test.png">
+<img src="images/module2/ns_test.png" width="500" height="600">
 En mijn notes hiervan:
 
 Hiernaast kwam ik niet helemaal uit mijn code dus moest ik HVA ai gebruiken. Hier is het bewijs hiervan.
-<img src="images/module2/hva_29_1.png">
-<img src="images/module2/hva_29_2.png">
+<img src="images/module2/hva_29_1.png" width="500" height="600">
+<img src="images/module2/hva_29_2.png" width="500" height="600">
 
-<img src="images/module2/hva_29_3.png">
-<img src="images/module2/hva_29_4.png">
+<img src="images/module2/hva_29_3.png" width="500" height="600">
+<img src="images/module2/hva_29_4.png" width="500" height="600">
 
-<img src="images/module2/hva_29_5.png">
+<img src="images/module2/hva_29_5.png" width="500" height="600">
 
-<img src="images/module2/hva_29_4.png">
-<img src="images/module2/hva_29_6.png">
+<img src="images/module2/hva_29_4.png" width="500" height="600">
+<img src="images/module2/hva_29_6.png" width="500" height="600">
 
-<img src="images/module2/hva_29_7.png">
-<img src="images/module2/hva_29_8.png">
+<img src="images/module2/hva_29_7.png" width="500" height="600">
+<img src="images/module2/hva_29_8.png" width="500" height="600">
 
-<img src="images/module2/hva_29_9.png">
-<img src="images/module2/hva_29_10.png">
+<img src="images/module2/hva_29_9.png" width="500" height="600">
+<img src="images/module2/hva_29_10.png" width="500" height="600">
 
 En hoe de website er nu uitziet is:
-<img src="images/module2/website_1.png">
-<img src="images/module2/website_2.png">
-<img src="images/module2/website_3.png">
+<img src="images/module2/website_1.png" width="500" height="600">
+<img src="images/module2/website_2.png" width="500" height="600">
+<img src="images/module2/website_3.png" width="500" height="600">
 
 ## 26 sep
 
@@ -661,25 +660,25 @@ Hiernaast wilt zij ook graag dat wij meer letten over de echte vormgeving. en ho
 Hier na ging ik code proberen op te lossen:
 Dit waren all mijn error's:
 Van de eerste pagina
-<img src="/images/module2/errors-checken.png">
+<img src="/images/module2/errors-checken.png" width="500" height="600">
 Dit waren fouten dat ik mijn foto's niet goed gekoppled had.
 
 Voor de tweede pagina.
 Hier had ik ook voor het meeste gewoon koppelings fouten
-<img src="/images/module2/pagina2.png">
-<img src="/images/module2/pagina3.png">
-<img src="/images/module2/pagina4.png">
+<img src="/images/module2/pagina2.png" width="500" height="600">
+<img src="/images/module2/pagina3.png" width="500" height="600">
+<img src="/images/module2/pagina4.png" width="500" height="600">
 
 Voor de derde pagina.
-<img src="/images/module2/pagina1-5.png">
-<img src="/images/module2/pagina1-6.png">
-<img src="/images/module2/pagina1-7.png">
-<img src="/images/module2/pagina1-8.png">
+<img src="/images/module2/pagina1-5.png" width="500" height="600">
+<img src="/images/module2/pagina1-6.png" width="500" height="600">
+<img src="/images/module2/pagina1-7.png" width="500" height="600">
+<img src="/images/module2/pagina1-8.png" width="500" height="600">
 Deze heb ik zelf en met de hulp van de studenten assisant aangepast.
 
 Helaas toen ik mijn knop probeerden te maken lukten dit niet. Daardoor heb ik chat moeten vragen, Ik heb ook vasillian gevraagt:
-<img src="/images/module2/chat_25_1.png">
-<img src="/images/module2/chat_25_2.png">
+<img src="/images/module2/chat_25_1.png" width="500" height="600">
+<img src="/images/module2/chat_25_2.png" width="500" height="600">
 
 doornemen wat ik deze week heb geleerdt:
 Javascript. En vooral hoe je de code meer in de realitiet neer te zetten. Ik merkte deze week dathet me mekkelijker af gaat.
@@ -702,17 +701,17 @@ Vandaag had ik een stress coach gesprek waardoor ik op school was.
 Hiernaast ging ik mijn 2 htmls willen koppelen. Dit wou ik doen met een knop. En hier kwam ik helemaal niet uit.
 
 Daardoor moest ik helaas chatgpt vragen om
-<img src="images/module2/24-sep_AI1.png width="50" height="60">
-<img src="images/module2/24_sep_AI2.png">
-<img src="images/module2/CHAT_24sep.png">
-<img src="images/module2/CHAT_ANTWOORDT_2.png">
-<img src="images/module2/CHAT_24sep.png">
-<img src="images/module2/24-sep-AI3.png">
-<img src="images/module2/24-SEP-AI4.png">
-<img src="images/module2/24-SEP-AI5.png">
-<img src="images/module2/24-SEP-AI77.png">
-<img src="images/module2/AI_8.png">
-<img src="images/module2/AI_9.pngg">
+<img src="images/module2/24-sep_AI1.png" width="500" height="60">
+<img src="images/module2/24_sep_AI2.png" width="500" height="600">
+<img src="images/module2/CHAT_24sep.png" width="500" height="600">
+<img src="images/module2/CHAT_ANTWOORDT_2.png" width="500" height="600">
+<img src="images/module2/CHAT_24sep.png" width="500" height="600">
+<img src="images/module2/24-sep-AI3.png" width="500" height="600">
+<img src="images/module2/24-SEP-AI4.png" width="500" height="600">
+<img src="images/module2/24-SEP-AI5.png" width="500" height="600">
+<img src="images/module2/24-SEP-AI77.png" width="500" height="600">
+<img src="images/module2/AI_8.png" width="500" height="600">
+<img src="images/module2/AI_9.pngg" width="500" height="600">
 
 Uiteindelijk heb ik hier weinig tot niks van gebruikt. Omdat ik nergens duidelijk uit kwam.
 En heb ik mijn eige oude code gebruikt.

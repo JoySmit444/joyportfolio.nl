@@ -582,9 +582,9 @@ https://www.youtube.com/watch?v=z2LQYsZhsFw
 https://www.geeksforgeeks.org/css/css-keyframes-rule/
 
 Helaas moest ik weer een chatgpt vraag stellen. Maar ook hier had ik weinig aan:
-<img src="./images/eerste_vraag_10_sep.png" width="50" height="60"">
-<img src="./images/chat_antwoord_10_sexp.png" width="50" height="60"">
-<img src="./images/tweede_vraag_10_sep.png" width="50" height="60"">
+<img src="./images/eerste_vraag_10_sep.png" width="50" height="60">
+<img src="./images/chat_antwoord_10_sexp.png" width="50" height="60">
+<img src="./images/tweede_vraag_10_sep.png" width="50" height="60">
 
 Wel heb ik tijd gestopt in het leren wat @propertys zijn
 en hoe je deze gebruikt. Dit heb ik gedaan met de volgende onderdelen:
