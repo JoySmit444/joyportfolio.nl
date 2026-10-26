@@ -173,7 +173,7 @@ Ik zou meer animaites wilen toevoegen, zodat ik meer diversiteit heb in mijn web
 En moet ik nog van mijn songtekst pagina een home knop maken want deze was niet indrukbaar in de telefoon app.
 
 Hier is de screenshot hiervan:
-<img src="images/module3/webby_19_okt.jpeg" width="500" height="600">
+<img src="images/aangepast/webby_19_okt.jpeg" width="500" height="600">
 
 Hiernaast heb ik feedback gevraagt van jesse. Dit was het feedback die hij had:
 <img src="images/module3/feedback_jesse_19okt.jpeg" width="500" height="600">
@@ -324,7 +324,10 @@ Hiernaast heb ik nog een deep dive gedaan. Deze ging over animeren met verschill
 <img src="images/module3/deepdive_7okt.png" width="500" height="600">
 <img src="images/module3/deepdive_7okt2.png" width="500" height="600">
 <img src="images/module3/deepdive_7okt3.png" width="500" height="600">
-<img src="images/module3/deepdive_7okt5.mov" width="500" height="600">
+<img src="images/module3/deepdive_7okt4.png" width="500" height="600">
+<video controls width="250">
+  <source src="images/module3/deepdive_7okt5.mov" type="video/quicktime">
+</video>
 
 ## 6 okt
 
@@ -414,7 +417,7 @@ Hier heb ik schetsen van gemaakt. Deze schetsen waren:
 <img src="images/module3/schets_9_5okt.jpeg" width="500" height="600">
 
 Ook had ik een uitgewerkte schets hiervan gemaakt:
-<img src="images/module3/uitgewerkte_schets_5okt.png" width="500" height="600">
+<img src="images/aangepast/uitgewerkte_schets_5okt.png" width="500" height="600">
 
 check out:
 Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
