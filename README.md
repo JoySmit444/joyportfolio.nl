@@ -392,8 +392,8 @@ Wees tevens bewust welke tools je wanneer gebruikt, typografie is niet alleen de
 
 En het bewijs van de artiekelen:
 <img src="images/module3/artiekel_1_5okt.jpeg" width="500" height="600">
-<img src="images/module3/artiekel_2_5okt.jpeg" width="500" height="600">
-<img src="images/module3/artiekel_3_5okt.jpegg" width="500" height="600">
+<img src="images/aangepast/artiekel_2_5okt.jpeg" width="500" height="600">
+<img src="images/module3/artiekel_3_5okt.jpeg" width="500" height="600">
 <img src="images/module3/artiekele_4_5okt.jpeg" width="500" height="600">
 <img src="images/module3/artiekele_5_5okt.jpeg" width="500" height="600">
 <img src="images/module3/artiekel_6_5okt.jpeg" width="500" height="600">
@@ -411,7 +411,7 @@ Hier heb ik schetsen van gemaakt. Deze schetsen waren:
 <img src="images/module3/schets_6_5okt.jpeg" width="500" height="600">
 <img src="images/module3/schets_8+5okt.jpeg" width="500" height="600">
 <img src="images/module3/schets_8_5okt.jpeg" width="500" height="600">
-<img src="images/module3/schets_9_5okt.jpegg" width="500" height="600">
+<img src="images/module3/schets_9_5okt.jpeg" width="500" height="600">
 
 Ook had ik een uitgewerkte schets hiervan gemaakt:
 <img src="images/module3/uitgewerkte_schets_5okt.png" width="500" height="600">
@@ -458,11 +458,11 @@ groottwe. Omdat je daarmee het meeste herargie kan neerzetten
 ## 2 okt.
 
 Vandaag hadden wij alleen de retrospective. En het feedback. De retrospective was here
-<img src="images/module2/2okt_retro_1.jpeg" width="500" height="600">
-<img src="images/module2/2okt_retro_2.jpeg" width="500" height="600">
+<img src="images/aangepast/2okt_retro_1.jpeg" width="500" height="600">
+<img src="images/aangepast/2okt_retro_2.jpeg" width="500" height="600">
 
 En de uitgewerkte tekening is:
-<img src="images/module2/2okt_retro_3.jpeg" width="500" height="600">
+<img src="images/aangepast/2okt_retro_3.jpeg" width="500" height="600">
 Het betekend vooral dat ik eindelijk een beetje het eind er in kan zien. Omdat ik weer in het rooster kom. En omdat ik de code begin te begrijpen. Is het nu minder zwaar. Ook dingen zoals de stress coaching maakt het huiswerk minder zwaar.
 
 ## 30 sep
@@ -589,7 +589,7 @@ Tab werkt met alles, enter + spatie werkt om dingen te selecteren.
 command+fn+f5. kan je de spreek ding selecteren.
 
 Het bewijs van de weekly geekly:
-<img src="images/module2/bi-weekly_geek2.jpeg" width="500" height="600">
+<img src="images/aangepast/bi-weekly_geek2.jpeg" width="500" height="600">
 
 En bewijs van de luistere/ toegankelijksheid test op de NS:
 <img src="images/module2/ns_test.png" width="500" height="600">
@@ -719,7 +719,7 @@ Daardoor moest ik helaas chatgpt vragen om
 <img src="images/module2/24-SEP-AI5.png" width="500" height="600">
 <img src="images/module2/24-SEP-AI77.png" width="500" height="600">
 <img src="images/module2/AI_8.png" width="500" height="600">
-<img src="images/module2/AI_9.pngg" width="500" height="600">
+<img src="images/module2/AI_9.png" width="500" height="600">
 
 Uiteindelijk heb ik hier weinig tot niks van gebruikt. Omdat ik nergens duidelijk uit kwam.
 En heb ik mijn eige oude code gebruikt.
