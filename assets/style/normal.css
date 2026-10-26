@@ -32,6 +32,7 @@ html {
   --color-cyan: light-dark(darkcyan, cyan);
   --color-pink: light-dark(pink, #b33b72);
   --color-blue: light-dark(#90d5ff, #0f5298);
+   --color-link: light-dark(blue, white);
   --color-dark: #333333;
   --color-light: #fefefe;
   --backdrop-dialog: light-dark(#ffffff66, #66339966);
@@ -41,6 +42,7 @@ html {
   --font: light-dark (black, white);
   --button-active: #8bc34a;
   --focus-state: light-dark(#b33b72, pink);
+  --background-cookies: light-dark(#ffffff66, #66339966);
 }
 
 body {
@@ -272,7 +274,7 @@ www.schools gebruikt te hebben en waarna niks klopten*/
 details {
   text-align: center;
   text-decoration: none;
-  background-color: white;
+  background-color: Var(--background-cookies);
 }
 
 h1 {
@@ -283,7 +285,7 @@ h1 {
 
 /*deze code heb ik genomen van de deep dive van animaties*/
 /* dit moest ik helaas aan chatgpt vragen*/
-#mydialog a {
+#mydialog details a{
   font-size: 15px;
 }
 

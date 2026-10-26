@@ -83,14 +83,14 @@ H1 {
 
 h2 {
   font-family: worldDisco;
-  font-size: 3vw;
+  font-size: 2.5vw;
   line-height: 3;
   text-wrap: balance;
 }
 
 p {
   font-family: learners;
-  font-size: 2.5vw;
+  font-size: 3.5vw;
   line-height: 0.9;
   text-wrap: balance;
   color: var(--font);
@@ -200,6 +200,8 @@ a:hover {
 
 li {
   list-style-type: none;
+  font-family: learners;
+  font-size: 3vw;
 }
 
 dialog {

@@ -39,7 +39,6 @@ Ook zag ik dat mijn tweede sprint pagina niet werkten. Dit lukten mij compleet n
 <img src="images/module3/grid_3.png">
 <img src="images/module3/grid_4.png">
 
-
 ## 22 okt
 gisteren had ik feedback ontvangen van diederik over mijn lyrsich website. 
 Dit feedback bestond uit: 
