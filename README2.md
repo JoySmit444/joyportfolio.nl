@@ -83,29 +83,29 @@ Hiernaast moest ik nog even aan mijn nieuwe code zitten.
 Ik wou de kleuren goed zetten en de grid goed zetten.
 De kleuren waren nu wel gelukt. Omdat mijn grid niet goed gelinkt was kon niks koppelen.
 Helaas moest ik dit wel even chatgpt hiervan vragen:
-<img src="images/module2/header_verwijderd.png" width="50" height="60">
-<img src="images/module2/header_verwijderd_oplossing.png" width="50" height="60">
-<img src="images/module2/oplossing_2.png" width="50" height="60">
-<img src="images/module2/oplossing3.png" width="50" height="60">
-<img src="images/module2/oplossing4.png" width="50" height="60">
+<img src="images/module2/header_verwijderd.png" width="500" height="600">
+<img src="images/module2/header_verwijderd_oplossing.png" width="500" height="600">
+<img src="images/module2/oplossing_2.png" width="500" height="600">
+<img src="images/module2/oplossing3.png" width="500" height="600">
+<img src="images/module2/oplossing4.png" width="500" height="600">
 Hiernaast lukten dus mijn grid niet. En deze daarom dus wel.
 Hiernaast stond mijn footer ineens in het midde van mijn pagina. Dit moest ik weer aan chat vragen. Hierdoor ben ik er wel uit gekomen.
 
 Hiernaast had ik een rare gap in mijn pagina. Nadat ik hier niet uit kwam had ik het gevraagt. Maar hier kwam chat ook helaas niet uit
-<img src="images/module2/gap_1.png" width="50" height="60">
-<img src="images/module2/gap_oplossing.png" width="50" height="60">
+<img src="images/module2/gap_1.png" width="500" height="600">
+<img src="images/module2/gap_oplossing.png" width="500" height="609">
 
 Hier zijn de screenshots van de website tot nu toe:
-<img src="images/module2/eersteversie_1.png" width="50" height="60">
-<img src="images/module2/eersteversie_2.png" width="50" height="60">
-<img src="images/module2/eersteversie3.png" width="50" height="60">
-<img src="images/module2/eersteversie4.png" width="50" height="60">
+<img src="images/module2/eersteversie_1.png" width="500" height="600">
+<img src="images/module2/eersteversie_2.png" width="500" height="600">
+<img src="images/module2/eersteversie3.png" width="500" height="600">
+<img src="images/module2/eersteversie4.png" width="500" height="600">
 
 En de fullscreen:
-<img src="images/module2/fulscreen1.png" width="50" height="60">
-<img src="images/module2/fulscreen2.png" width="50" height="60">
-<img src="images/module2/fullscreen3.png" width="50" height="60">
-<img src="images/module2/eersteversie4.png" width="50" height="60">
+<img src="images/module2/fulscreen1.png" width="500" height="600">
+<img src="images/module2/fulscreen2.png" width="500" height="600">
+<img src="images/module2/fullscreen3.png" width="500" height="600">
+<img src="images/module2/eersteversie4.png" width="500" height="600">
 
 hiernaast heb ik de artiekel gelezen:
 
@@ -196,8 +196,8 @@ Als je antwoordt je bedrijf is. Moet je terug gaan. Je wilt dat alleen je klante
 Design voelt oneerlijk als hij werkt zoals je hem niet verwacht.
 
 Hiernaast heb ik de diep dive van buttons gevolgt in de klas:
-<img src="images/module2/button_opdracht1.png" width="50" height="60"/>
-<img src="images/module2/button_opdracht2.png" width="50" height="60"/>
+<img src="images/module2/button_opdracht1.png" width="500" height="600"/>
+<img src="images/module2/button_opdracht2.png" width="500" height="600"/>
 
 ## 21 sep
 Wat zijn HTML landmark role elements?
@@ -212,13 +212,13 @@ Ik probeer altijd erg voorzichtig te zijn. Maar eigelijk vermijd je dit niet. Ik
 In deze college hadden wij een live code gedaan. En een college geluisterd. Van deze college heb ik weer een refresher in code gehad wat erg handig was.
 Hiernaast hadden wij het gehad over cookjes en alles dat daarbij komt. Hiervan heb ik geleerdt hoe je er mee om gaat. Wat netjes en wat niet is. En hoe vormgeving hier aan toepas komt
 
-<img src="images/cookies_document.png" width="50" height="60">
+<img src="images/cookies_document.png" width="500" height="600">
 
 En hier zijn de screenshots van de natype code:
-<img src="images/module2/cookies_code1.png" width="50" height="60">
-<img src="images/module2/cookies_code2.png" width="50" height="60">
-<img src="images/module2/cookes_code3.png" width="50" height="60">
-<img src="images/module2/code_van_cookies.png" width="50" height="60">
+<img src="images/module2/cookies_code1.png" width="500" height="600">
+<img src="images/module2/cookies_code2.png" width="500" height="600">
+<img src="images/module2/cookes_code3.png" width="500" height="600">
+<img src="images/module2/code_van_cookies.png" width="500" height="600">
 
 ### 18 sep.
 Waarom geven de docenten deze opdracht?
@@ -324,18 +324,18 @@ Daar had ik nu wat meer moeite mee. omdat ik door de tijd druk en de skill versc
 Hier naast had ik ook de retrospective opdracht gemaakt
 En de title die ik dit heb gegeven was: de code rollercoaster
 
-<img src="/images/ratinglang.jpeg" width="50" height="60">
-<img src="/images/rating1.jpeg" width="50" height="60">
-<img src="/images/rating2.jpeg" width="50" height="60">
+<img src="/images/ratinglang.jpeg" width="500" height="600">
+<img src="/images/rating1.jpeg" width="500" height="600">
+<img src="/images/rating2.jpeg" width="500" height="600">
 
 En de tekeningen
 
-<img src="/images/retrospective1.jpeg" width="50" height="60">
-<img src="/images/retrospective2.jpeg" width="50" height="60">
-<img src="/images/retrospective3.jpeg" width="50" height="60">
+<img src="/images/retrospective1.jpeg" width="500" height="600">
+<img src="/images/retrospective2.jpeg" width="500" height="600">
+<img src="/images/retrospective3.jpeg" width="500" height="600">
 
 Ook had ik de feedback gekregen: hier was de feedback van het tussen gesprek:
-<img src="/images/echt/Scherm­afbeelding 2026-09-21 om 11.29.20.png" width="50" height="60">
+<img src="/images/echt/Scherm­afbeelding 2026-09-21 om 11.29.20.png" width="500" height="600">
 
 ### 17 sep.
 Ik heb vandaag een stress curus gehad en daarna de propuduse uitreiking dus was ik op school aanwezig.
@@ -346,23 +346,23 @@ Ik heb ICTers gevraagt. Maar hun kwamen er ook niet uit. Ik heb chat gevraagt. H
 Omdat ik het zo niet begreep.
 Maar gelukkig kwam Sanne aan de redding en heeft die mij geholpen over teams. Hier ven ik heel dankbaar voor.
 
-<img src="/images/echt/sanna_bewijs.png" width="50" height="60">
+<img src="/images/echt/sanna_bewijs.png" width="500" height="600">
 
 ### 16 sep
 Wij hadden gekeken naar de ideale versie van onze website. Daarna hhebben anderen mensen ernaar gekeken en vanuit dit feedback nieuwe vormen gemaakt.
 Mijn grote lijnen feedback was: dat ik mischien de vormgeving beter kan doorzetten. Door dus bijvoorbeld de title ook te teken
 
-<img src="/images/eigen_schetsen_16sep.jpeg" width="50" height="60">
-<img src="/images/schets_VAN_lex.jpeg" width="50" height="60">
-<img src="/images/schets_VAN_poema.jpeg" width="50" height="60">
-<img src="/images/shctes_voor_poema.jpeg" width="50" height="60">
-<img src="/images/schets_voor_lex.jpeg" width="50" height="60">
+<img src="/images/eigen_schetsen_16sep.jpeg" width="500" height="600">
+<img src="/images/schets_VAN_lex.jpeg" width="500" height="600">
+<img src="/images/schets_VAN_poema.jpeg" width="500" height="600">
+<img src="/images/shctes_voor_poema.jpeg" width="500" height="600">
+<img src="/images/schets_voor_lex.jpeg" width="500" height="600">
 
 Ook, heb ik schetsen gemaakt voor mijn ideale web formaat pagina.
 
-<img src="/images/ideal_voor.png.png" width="50" height="60">
-<img src="/images/ideal_1.png" width="50" height="60">
-<img src="/images/ideal2.png" width="50" height="60">
+<img src="/images/ideal_voor.png.png" width="500" height="600">
+<img src="/images/ideal_1.png" width="500" height="600">
+<img src="/images/ideal2.png" width="500" height="600">
 
 Hiernaast heb ik aan mijn website gewerkt. En heb ik sanne, Isaac, en Barbara.
 Waarna dit wel werkten.
@@ -402,18 +402,18 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:hover
 https://www.w3schools.com/CSSref/sel_hover.php
 
 Alleen hier kwam ik alsnog niet uit En moest ik het helaas aan chat vragen. Hier is het bewijs.
-<img src="./images/chat_van_15sep.png" width="50" height="60">
-<img src="./images/chat_bewijs_15sep.png" width="50" height="60">
-<img src="./images/mijn_chat_vraag_2_15sep.png" width="50" height="60">
+<img src="./images/chat_van_15sep.png" width="500" height="600">
+<img src="./images/chat_bewijs_15sep.png" width="500" height="60">
+<img src="./images/mijn_chat_vraag_2_15sep.png" width="500" height="60">
 Maar hier heb ik eigelijk niks gebruikt.
 
 Helaas kwam ik er niet ook niet bij. Maar toen ik perongelijk de halve van mijn tekst verwijdereden kwam ik tot: transform: scale(1.05). En toen ineens werkten dit
 
 Hiernaast heb ik een deep dive in grid area gehad.
-<img src="/images/grid_area1.png" width="50" height="60">
-<img src="/images/grid_area2.png" width="50" height="60">
-<img src="/images/grid_area3.png" width="50" height="60">
-<img src="/images/13_sep_vraag4.png" width="50" height="60">
+<img src="/images/grid_area1.png" width="500" height="600">
+<img src="/images/grid_area2.png" width="500" height="600">
+<img src="/images/grid_area3.png" width="500" height="600">
+<img src="/images/13_sep_vraag4.png" width="500" height="600">
 
 Hiernaast had ik niet helemaal door dat ik niet echt met DIV's mocht werken. En moest ik daarna veel veranderen.
 En heeft een studenten leerling mij in de details nog een keer grid uitgelegt.
@@ -435,7 +435,7 @@ Ook vanwege light and dark mode is hij toegankelijk. En hij is expressief vanweg
 We hebben klasikaal de artiekelen besproken. En een opdracht gedaan waarin we duidelijk konden zien waar, en hoe we het best onderzoek over dingen konden doen.
 Hiervan heb ik geleerdt om anders naar bepaalde dingen te kijken. En te weten hoe en waar ik voor informaties onderzoek kan doen.
 
-<img src="/images/Image.jpeg" width="50" height="60">
+<img src="/images/Image.jpeg" width="500" height="600">
 Hiernaast heb ik met een klasgenoot gekijekn naar mijn website, en hebben we samen deze vragen ingevult.
 
 Hiernaast had een vriend die de ICT opleiding doet hulp nodig bij zijn HTML. Waarbij ik hem factueel en duidelijk grids kon uitleggen. Het werkte niet door een fout in zijn HTML. Maar ik stond er versteld van het feit dat ik de grid zo kon uitleggen. En dat ik het op deze manier begreep
@@ -454,18 +454,18 @@ Ook kon ik hem makkelijker manipuleren in mijn pagina.
 
 Hiernaast heb ik mijn best gedaan om light dark mode te maken met achtergrond foto's. Maar hier kwan ik niet uit. Helaas moest ik chatgpt om hulp vragen. Maar zelfs hiermee kwam ik er niet uit.
 
-<img src="/images/13_sep_chat1.png" width="50" height="60">
-<img src="/images/13-sep_antwoordt.png" width="50" height="60">
-<img src="/images/13_sep_vraag2.png" width="50" height="60">
-<img src="/images/13_sep_vraag3.png" width="50" height="60">
-<img src="/images/13_sep_vraag4.png" width="50" height="60">
+<img src="/images/13_sep_chat1.png" width="500" height="600">
+<img src="/images/13-sep_antwoordt.png" width="500" height="600">
+<img src="/images/13_sep_vraag2.png" width="500" height="600">
+<img src="/images/13_sep_vraag3.png" width="500" height="600">
+<img src="/images/13_sep_vraag4.png" width="500" height="600">
 
 Hiernaast heb ik de videos en artiekelen gelezen voor de bi weekly. Hier heb ik geleerdt hoe het internet werkt. En waarom gecapitalizeerde data verkeerdt af kan lopen.
 
 Dit waren mijn notities hiervan.
 
-<img src="/images/internet_notes_1.png" width="50" height="60">
-<img src="/images/internet_notes_2.png" width="50" height="60">
+<img src="/images/internet_notes_1.png" width="500" height="600">
+<img src="/images/internet_notes_2.png" width="500" height="600">
 
 ### 11 september
 In deze les heb ik feedback gekregen van mijn leraar. Dit was het geven feedback:
@@ -483,19 +483,19 @@ Hiervan heb ik geleerdt hoe ik het best in deze les werk. En hoe ik verder kan. 
 Hiernaast heeft een studenten assisent bij geholpen mijn werk goed neer te zetten op github. En hoe hij mijn foto's duidelijk en goed en interactief plaats.
 Hiervan heb ik geleerdt hoe ik @media werk.
 Daarna heb ik de deep dive over grids bijgewoond. De screenshots hiervan zijn
-<img src="/images/grid_deep_dive1.png" width="50" height="60">
-<img src="/images/grid_deepdive2.png" width="50" height="60">
-<img src="/images/griddeepdive3.png" width="50" height="60">
-<img src="/images/griddeepdive5.png" width="50" height="60">
-<img src="/images/griddeepdive4.png" width="50" height="60">
-<img src="/images/griddeepdive7.png" width="50" height="60">
-<img src="/images/griddeepdive6.png" width="50" height="60">
-<img src="/images/griddeepdive8.png" width="50" height="60">
-<img src="/images/griddeepdive9.png" width="50" height="60">
-<img src="/images/griddeepdive10.png" width="50" height="60">
-<img src="/images/griddeepdive11.png" width="50" height="60">
-<img src="/images/griddeepdive12.png" width="50" height="60">
-<img src="/images/griddeepdive13.png" width="50" height="60">
+<img src="/images/grid_deep_dive1.png" width="500" height="600">
+<img src="/images/grid_deepdive2.png" width="500" height="600">
+<img src="/images/griddeepdive3.png" width="500" height="600">
+<img src="/images/griddeepdive5.png" width="500" height="600">
+<img src="/images/griddeepdive4.png" width="500" height="600">
+<img src="/images/griddeepdive7.png" width="500" height="600">
+<img src="/images/griddeepdive6.png" width="500" height="600">
+<img src="/images/griddeepdive8.png" width="500" height="600">
+<img src="/images/griddeepdive9.png" width="500" height="600">
+<img src="/images/griddeepdive10.png" width="500" height="600">
+<img src="/images/griddeepdive11.png" width="500" height="600">
+<img src="/images/griddeepdive12.png" width="500" height="600">
+<img src="/images/griddeepdive13.png" width="500" height="600">
 
 Ik heb nu het gevoel alsof ik veel meer weet van grids, en van hoe ik een pagina opstel.
 Dit waren dingen die ik hiervoor echt nog niet begreep.
@@ -519,26 +519,26 @@ Ik wil concept 1 uitvoeren. Omdat concept 1 het beste de persoonlijkheid en de m
 
 Deze dag had ik ook de presentatie gedaan tegen iemand.
 Waaruit deze conclussies kwamen:
-<img src="./oefeningen/presentatie/images /presentatie_conclussies.png" width="50" height="60">
+<img src="./oefeningen/presentatie/images /presentatie_conclussies.png" width="500" height="600">
 
 Hiernaast hebben wij sfeerwoorden. moodboards, en typografie
 moodboards gemaakt.
 Dit waren de screenshots hiervan.
-<img src="./images/sfeer_moodboard.png" width="50" height="60">
-<img src=".images/typografie_moodboards.png" width="50" height="60">
-<img src=".images/uitgewerkte_aantekeningen.png" width="50" height="60">
+<img src="./images/sfeer_moodboard.png" width="500" height="600">
+<img src=".images/typografie_moodboards.png" width="500" height="600">
+<img src=".images/uitgewerkte_aantekeningen.png" width="500" height="60">
 
 Hieruit heb ik een crazy 8 gemaakt:
-<img src="./images/crazy8.png" width="50" height="60">
-<img src="./images/uitleg_crazy_8.png" width="50" height="60">
+<img src="./images/crazy8.png" width="500" height="600">
+<img src="./images/uitleg_crazy_8.png" width="500" height="600">
 
 Hiervan heb ik snelle schetsen gedaan. En daarna heb ik deze uitgewerkt
-<img src="./images/eerste-schetsen.jpeg width="50" height="60">
-<img src="./images/uitwerking1.png" width="50" height="60">
-<img src="./images/uitwerking2.png" width="50" height="60">
-<img src="./images/uitwerking3.png" width="50" height="60">
-<img src="./images/uitwerking4.png" width="50" height="60">
-<img src="./images/uitwerking5.png" width="50" height="60">
+<img src="./images/eerste-schetsen.jpeg" width="500" height="600">
+<img src="./images/uitwerking1.png" width="500" height="600">
+<img src="./images/uitwerking2.png" width="500" height="600">
+<img src="./images/uitwerking3.png" width="500" height="600">
+<img src="./images/uitwerking4.png" width="500" height="600">
+<img src="./images/uitwerking5.png" width="500" height="600">
 ik heb gekozen voor ontwerp 1
 
 Mijn HTML uitgewerkt concept:
@@ -546,9 +546,9 @@ Mijn HTML uitgewerkt concept:
 
 Hiernaast heb ik de gradient deep dive gemaakt.
 De eerste spelletjes
-<img src="./images/spelletje_1.png" width="50" height="60">
-<img src="./images/spelletje_2.png" width="50" height="60">
-<img src="./images/spelletje_3.png" width="50" height="60">
+<img src="./images/spelletje_1.png" width="500" height="600">
+<img src="./images/spelletje_2.png" width="500" height="600">
+<img src="./images/spelletje_3.png" width="500" height="600">
 
 Opdracht 1
 [opdracht 1](./images/opdracht_1GR.mov)
@@ -575,9 +575,9 @@ https://www.youtube.com/watch?v=z2LQYsZhsFw
 https://www.geeksforgeeks.org/css/css-keyframes-rule/
 
 Helaas moest ik weer een chatgpt vraag stellen. Maar ook hier had ik weinig aan:
-<img src="./images/eerste_vraag_10_sep.png" width="50" height="60">
-<img src="./images/chat_antwoord_10_sexp.png" width="50" height="60">
-<img src="./images/tweede_vraag_10_sep.png" width="50" height="60">
+<img src="./images/eerste_vraag_10_sep.png" width="500" height="600">
+<img src="./images/chat_antwoord_10_sexp.png" width="500" height="600">
+<img src="./images/tweede_vraag_10_sep.png" width="500" height="600">
 
 Wel heb ik tijd gestopt in het leren wat @propertys zijn
 en hoe je deze gebruikt. Dit heb ik gedaan met de volgende onderdelen:
@@ -606,31 +606,31 @@ Omdat ik na heel heel veel sleutelen er niks lukte totdat ik chat om
 hulp vraagte
 
 de vragen die ik een chat heb gesteld:
-<img src="./images/eerste_vraagchat.png" width="50" height="60">
-<img src="../Joy_Portfolio_ect/images/antwoord_van_chat.png" width="50" height="60">
-<img src=".images/antwoordt.png" width="50" height="60">
-<img src=".mages/antwoordt_van_chat.png" width="50" height="60">
-<img src=".images/nog_een_chat.png" width="50" height="60">
-<img src=".images/nog_een_vraag_vanchat.png" width="50" height="60">
-<img src=".images/tweedevraag.png" width="50" height="60">
+<img src="./images/eerste_vraagchat.png" width="500" height="600">
+<img src="../Joy_Portfolio_ect/images/antwoord_van_chat.png" width="500" height="600">
+<img src=".images/antwoordt.png" width="500" height="600">
+<img src=".mages/antwoordt_van_chat.png" width="500" height="600">
+<img src=".images/nog_een_chat.png" width="500" height="600">
+<img src=".images/nog_een_vraag_vanchat.png" width="500" height="600">
+<img src=".images/tweedevraag.png" width="500" height="600">
 
 En de code waar dit tot leed:
-<img src="./images/eigdecode.png" width="50" height="60">
-<img src="./images/eige_code.png" width="50" height="60">
-<img src="../images/eigecode.png" width="50" height="60">
-<img src="./images/eigencode.png" width="50" height="60">
-<img src="./images/nog_een_eigen_code.png" width="50" height="60">
+<img src="./images/eigdecode.png" width="500" height="600">
+<img src="./images/eige_code.png" width="500" height="600">
+<img src="../images/eigecode.png" width="500" height="600">
+<img src="./images/eigencode.png" width="500" height="600">
+<img src="./images/nog_een_eigen_code.png" width="500" height="600">
 
 Dit waren de fotos van de stadiums van de grid:
-<img src="./images/grid_optie.png alt="width="50" height="60">
-<img src="./images/gridoptie2.png" width="50" height="60">
-<img src="./images/gridoptie3.png" width="50" height="60">
+<img src="./images/grid_optie.png alt="width="500" height="600">
+<img src="./images/gridoptie2.png" width="500" height="600">
+<img src="./images/gridoptie3.png" width="500" height="600">
 
 En daarnaast heb ik opdracht 1 en 2 gemaakt van de light dark. Helaas
 omdat ik volledig gaar ben en geen code meer kan zien, Zal ik morgen
 beginnen aan opdracht 3
-<img src="./images/opdracht_1_licht_dark.png" width="50" height="60">
-<img src="./images/opdracht_1_light_dark.png" width="50" height="60">
+<img src="./images/opdracht_1_licht_dark.png" width="500" height="600">
+<img src="./images/opdracht_1_light_dark.png" width="500" height="600">
 <video controls width="250">
   <source src="./images/opdracht_2.mov" type="video/quicktime">
 </video>
@@ -685,9 +685,9 @@ Hier heb ik veel geleerdt. Bij de HTML heb ik weinig notities gemaakt,
 omdat ik het meeste al wel snapten.
 
 Maar dit waren de antwoorden van mijn vragen.
-<img src=".images/uitgewerkte_aantekeningen.png" alt="Notities_van_basic_html" width="50" height="60">
+<img src=".images/uitgewerkte_aantekeningen.png" alt="Notities_van_basic_html" width="500" height="600">
 
-<img src="./images/screenshots_van_praktisch_css.png" alt="screenshots_praktisch_css" width="50" height="60">
+<img src="./images/screenshots_van_praktisch_css.png" alt="screenshots_praktisch_css" width="500" height="600">
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
@@ -701,7 +701,7 @@ Hier heb ik een duidelijke en goede opfrisser gehad. En konden we weer design wi
 Later werdt ons aangeraden om meer onderzoek te doen. En meer om ons heen te kijken voordat we ontworpen. Ook om meer te schetsen. Dit had ik deze keer niet gedaan vanwegen het gebrek van tijd.
 Maar in anderen momenten zou ik dit zeker doen.
 
-<img src="images/foto_wok_to_walk.png" alt="foto_wok_to_walk.ng" width="10" height="20">
+<img src="images/foto_wok_to_walk.png" alt="foto_wok_to_walk.ng" width="100" height="200">
 
 Bij de tweede les had ik (font in css). Hierbij hadden we verschillende dingen geleerdt over fonts en font-face.
 Dit zijn dingen die ik al had geleerdt. Maar het was erg fijn om met een nieuw persoon deze informatie te krijgen. Ook kregen wij info over welke fonts illegaal waren en niet. Zo mogen we google and adobe progromma's niet gebruiken. Behalven als we het downloaden van tevoren en in de map zetten.
@@ -711,15 +711,15 @@ Hierna hebben we verschillende opdrachten gedaan. Deze heb ik afgerond. Ik heb h
 Dit zijn de screenshots van de opdrachten
 opdracht 1
 
-<img src="./images/opdracht_1.png" alt="foto_wok_to_walk.ng" width="10" height="20">
+<img src="./images/opdracht_1.png" alt="foto_wok_to_walk.ng" width="100" height="200">
 
 opdracht 2
-<img src="./images/opdracht_2.png" alt="Opdracht_2.png" width="500" height="60">
+<img src="./images/opdracht_2.png" alt="Opdracht_2.png" width="500" height="600">
 
-<img src="./images/opdracht2_2.png" alt="Opdracht_2_2.png" width="50" height="60">
+<img src="./images/opdracht2_2.png" alt="Opdracht_2_2.png" width="500" height="600">
 
 opdracht 3
-<img src="./images/opdracht_3.png" alt="Opdracht_3.png" width="50" height="60">
+<img src="./images/opdracht_3.png" alt="Opdracht_3.png" width="500" height="600">
 
 opdracht 4
 
@@ -732,25 +732,25 @@ Hiervoor heb ik de css dinner game gemaakt.
 
 <img src="./images/dinner_css_af.png" alt="dinner_css_af" width="500" height="600">
 
-<img src="./images/dinnercss_bewijs1.png" alt="dinnercss_bewijs1" width="50" height="60">
+<img src="./images/dinnercss_bewijs1.png" alt="dinnercss_bewijs1" width="500" height="600">
 
-<img src="./images/dinnercss_bewijs2.png" alt="dinnercss_bewijs1" width="50" height="60">
+<img src="./images/dinnercss_bewijs2.png" alt="dinnercss_bewijs1" width="500" height="600">
 
 Voor de deep dive: Html en css basic heb ik de aangegeven teksten en artiekelen gelezen.
 Dit leed tot de volgende notities en vragen.
 Ook had ik 2 artiekelen gelezen.
 
-<img src="./images/notities_basic_html.png" alt="notitiesbasichtml" width="50" height="60">
+<img src="./images/notities_basic_html.png" alt="notitiesbasichtml" width="500" height="600">
 
 Hiernaast had ik ook de lelijke pagina van html opgesteld. Voor de diepdive: praktische css. Deze had ik gemaakt over miss verkiezingen.
 
-<img src="./images/lelijke_pagina_1.png" alt="lelijkepagina1" width="50" height="60">
+<img src="./images/lelijke_pagina_1.png" alt="lelijkepagina1" width="500" height="600">
 
-<img src="./images/lelijke_pagina_2.png" alt="lelijkepagina2" width="50" height="60">
+<img src="./images/lelijke_pagina_2.png" alt="lelijkepagina2" width="500" height="600">
 
-<img src="./images/code_lelijke_pagina1.png" alt="codelelijkepagina1" width="50" height="60">
+<img src="./images/code_lelijke_pagina1.png" alt="codelelijkepagina1" width="500" height="600">
 
-<img src="./images/code_lelijke_pagina2.png" alt="codelelijkepagina2" width="50" height="60">
+<img src="./images/code_lelijke_pagina2.png" alt="codelelijkepagina2" width="500" height="600">
 
 ## Learning Log
 
